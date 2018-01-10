@@ -8,8 +8,7 @@ DATABASE = '../database/rss_entries.db'
 
 # Initialize the list of desired feeds
 # Feed(Name, XML, Media, Hashtags)
-FEEDS = [ Feed('TechCrunch', 'http://techcrunch.com/feed/', '../media/techcrunch', '#Technology #Business'),
-          Feed('Rock, Paper, Shotgun', 'http://www.rockpapershotgun.com/feed/', '../media/rockpapershotgun', '#Gaming') ]
+FEEDS = [ Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch&rss=1', '', '#OpenGovt')]
 
 # Define the net max length of the text portion of a tweet
 TWEET_MAX_LENGTH = 140
