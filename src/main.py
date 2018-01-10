@@ -4,7 +4,6 @@ from feed import Feed
 from bs4 import BeautifulSoup
 import tweepy, feedparser, urllib, sqlite3, time, os
 
-
 # System to import from parent directory
 import sys
 sys.path.insert(0,'..')
@@ -89,10 +88,10 @@ def post_tweet(api):
 				tweet_text = "%s %s %s" % (tweet_body, tweet_url, tweet_hashtag)
                 		tweet_media = media(feed, entry)
 
-			        if tweet_media is not None:
-                			api.update_with_media(tweet_media, tweet_text)
-        			else:
-                			api.update_status(tweet_text)
+			        #if tweet_media is not None:
+                			#api.update_with_media(tweet_media, tweet_text)
+        			#else:
+                			#api.update_status(tweet_text)
 
                 		print " ", time.strftime("%c"), "-", tweet_text
                 		
