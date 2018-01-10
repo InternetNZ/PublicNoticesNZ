@@ -4,9 +4,7 @@ from feed import Feed
 from bs4 import BeautifulSoup
 import tweepy, feedparser, urllib, sqlite3, time, os
 
-# System to import from parent directory
-import sys
-sys.path.insert(0,'..')
+#Separate keys.py file holds secrets
 from keys import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, ACCESS_SECRET
 
 print CONSUMER_KEY
