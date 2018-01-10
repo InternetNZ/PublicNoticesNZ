@@ -4,6 +4,14 @@ from feed import Feed
 from bs4 import BeautifulSoup
 import tweepy, feedparser, urllib, sqlite3, time, os
 
+
+# System to import from parent directory
+import sys
+sys.path.insert(0,'..')
+from keys import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, ACCESS_SECRET
+
+print CONSUMER_KEY
+
 DATABASE = '../database/rss_entries.db' 
 
 # Initialize the list of desired feeds
@@ -17,10 +25,6 @@ TWEET_IMG_LENGTH = 23
 TWEET_NET_LENGTH = TWEET_MAX_LENGTH - TWEET_URL_LENGTH - TWEET_IMG_LENGTH
 
 # Twitter Account Keys 
-CONSUMER_KEY = 'consumer_key'
-CONSUMER_SECRET = 'consumer_secret'
-ACCESS_KEY = 'access_key'
-ACCESS_SECRET = 'access_secret'
 
 def html_doc(entry):
         if hasattr(entry, 'content'):
