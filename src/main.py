@@ -41,7 +41,7 @@ FEEDS = [ Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch
 	         ]
 
 # Define the net max length of the text portion of a tweet
-TWEET_MAX_LENGTH = 140
+TWEET_MAX_LENGTH = 280
 TWEET_URL_LENGTH = 22
 TWEET_IMG_LENGTH = 23
 TWEET_NET_LENGTH = TWEET_MAX_LENGTH - TWEET_URL_LENGTH - TWEET_IMG_LENGTH
