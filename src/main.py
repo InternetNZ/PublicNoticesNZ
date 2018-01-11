@@ -7,8 +7,6 @@ import tweepy, feedparser, urllib, sqlite3, time, os
 #Separate keys.py file holds secrets
 from keys import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, ACCESS_SECRET
 
-print CONSUMER_KEY
-
 DATABASE = '../database/rss_entries.db' 
 
 # Initialize the list of desired feeds
@@ -86,10 +84,10 @@ def post_tweet(api):
 				tweet_text = "%s %s %s" % (tweet_body, tweet_url, tweet_hashtag)
                 		tweet_media = media(feed, entry)
 
-			        #if tweet_media is not None:
-                			#api.update_with_media(tweet_media, tweet_text)
-        			#else:
-                			#api.update_status(tweet_text)
+			        if tweet_media is not None:
+                			api.update_with_media(tweet_media, tweet_text)
+        			else:
+                			api.update_status(tweet_text)
 
                 		print " ", time.strftime("%c"), "-", tweet_text
                 		
