@@ -35,7 +35,6 @@ FEEDS = [    Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSea
 	     Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=ps&rss=1', '', '#Parliamentary #Government #OpenGovt #gazetteNZ')
 	     Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=vr&rss=1', '', '#ViceRegal #Government #OpenGovt #gazetteNZ')
 	         ]
-]
 
 
 # Define the net max length of the text portion of a tweet
