@@ -1,4 +1,10 @@
-# feedr: RSS Bot for Twitter!
+# NZ Gazette Tweeter / Public Notices
+
+Applies [feedr](https://github.com/housed/feedr) to generate a Twitter feed of notices from the NZ Gazette, which is where the NZ Government officially announces things.
+
+Currently works to get feeds, but is likely to dump lots of tweets at once in a way that we might not want.
+
+# Feedr project self-description: 
 
 feedr will read RSS feeds that you specify and then it will determine if there's new content since last checked. If there is, then it will publish a post on your Twitter account on your behalf for each new content update.
 
