@@ -109,21 +109,23 @@ def post_tweet(api):
                 print(e.response['Error']['Message'])
 
             if not 'Item' in response:
-                data = (entry.link, entry.title, time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed))
+                data = (entry.link, entry.title, entry.description, time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed))
                 table.put_item(
                     Item={
                         'url': entry.link,
                         'title': entry.title,
+			'desc': entry.description,    
                         'dateAdded': time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed),
                     }
                 )
                 hashtag_length = len(feed.get_hashtag())
                 body_length = TWEET_NET_LENGTH - hashtag_length
 
-                tweet_body = entry.title.encode('utf-8')[:body_length]
+                tweet_body = entry.title.encode('utf-8')
+		tweet_desc = entry.description.encode('utf-8)[:body_length]
                 tweet_url = entry.link.encode('utf-8')
                 tweet_hashtag = feed.get_hashtag()
-                tweet_text = "%s %s %s" % (tweet_body, tweet_url, tweet_hashtag)
+                tweet_text = "%s %s %s %s" % (tweet_body, tweet_desc, tweet_url, tweet_hashtag)
                 tweet_media = media(feed, entry)
 
 #                if tweet_media is not None:
