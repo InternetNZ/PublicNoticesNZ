@@ -18,9 +18,9 @@ DATABASE = '../database/rss_entries.db'
 # Feed(Name, XML, Media, Hashtags)
 
 FEEDS = [    Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=aw&rss=1', '', '#liquidations #commercial #OpenGovt #gazetteNZ'),
-	     # Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=aa&rss=1', '', '#appointmentreleaseofadministrators #commercial #OpenGovt #gazetteNZ'),
-	     # Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=al&rss=1', '', '#appointmentreleaseofliquidators #commercial #OpenGovt #gazetteNZ'),
-	     # Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=ar&rss=1', '', '#appointmentreleaseofrecieversmanagers #commercial #OpenGovt #gazetteNZ'),
+	      Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=aa&rss=1', '', '#appointmentreleaseofadministrators #commercial #OpenGovt #gazetteNZ'),
+	      Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=al&rss=1', '', '#appointmentreleaseofliquidators #commercial #OpenGovt #gazetteNZ'),
+	      Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=ar&rss=1', '', '#appointmentreleaseofrecieversmanagers #commercial #OpenGovt #gazetteNZ'),
 	     # Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=ba&rss=1', '', '#bankrupcy #commercial #OpenGovt #gazetteNZ'),
 	     # Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=cb&rss=1', '', '#cessation #commercial #OpenGovt #gazetteNZ'),
 	     # Feed('New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=ct&rss=1', '', '#charitabletrusts #commercial #OpenGovt #gazetteNZ'),
