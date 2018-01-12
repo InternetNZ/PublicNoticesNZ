@@ -126,7 +126,7 @@ def post_tweet(api):
                 tweet_url = entry.link.encode('utf-8')
                 tweet_hashtag = feed.get_hashtag()
 #                tweet_text = "%s %s %s %s" % (tweet_body, tweet_desc, tweet_url, tweet_hashtag)
-                tweet_text = "%s %s %s %s" % (tweet_body, tweet_url, tweet_hashtag)
+                tweet_text = "%s %s %s" % (tweet_body, tweet_url, tweet_hashtag)
                 tweet_media = media(feed, entry)
 
 #                if tweet_media is not None:
