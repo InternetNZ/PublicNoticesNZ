@@ -1,2 +1,4 @@
 src/keys.py
 *.pyc
+build
+dist
