@@ -4,7 +4,7 @@ Applies [feedr](https://github.com/housed/feedr) to generate a Twitter feed of n
 
 Currently works to get feeds, but is likely to dump lots of tweets at once in a way that we might not want.
 
-# Feedr project self-description: 
+# Feedr project self-description:
 
 feedr will read RSS feeds that you specify and then it will determine if there's new content since last checked. If there is, then it will publish a post on your Twitter account on your behalf for each new content update.
 
@@ -30,3 +30,9 @@ Here's [an example of feedr in action](https://twitter.com/ValveTime/status/5529
 Instructions for getting started with feedr can be found on [the Wiki](https://www.github.com/housed/feedr/wiki/Getting-Started-with-feedr).
 
 Follow me on Twitter [@TheDylanHouse](https://www.twitter.com/TheDylanHouse).
+
+
+## Make Lambda Packages
+```
+make-lambda-package  --repo-source-files "*.py"  --requirements-file ./requirements.txt .
+```
