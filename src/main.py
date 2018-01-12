@@ -122,7 +122,7 @@ def post_tweet(api):
                 body_length = TWEET_NET_LENGTH - hashtag_length
 
                 tweet_body = entry.title.encode('utf-8')
-		tweet_desc = entry.description.encode('utf-8)[:body_length]
+        		tweet_desc = entry.description.encode('utf-8')[:body_length]
                 tweet_url = entry.link.encode('utf-8')
                 tweet_hashtag = feed.get_hashtag()
                 tweet_text = "%s %s %s %s" % (tweet_body, tweet_desc, tweet_url, tweet_hashtag)
