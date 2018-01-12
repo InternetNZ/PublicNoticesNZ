@@ -114,7 +114,7 @@ def post_tweet(api):
                     Item={
                         'url': entry.link,
                         'title': entry.title,
-			'desc': entry.description,    
+                        'desc': entry.description,
                         'dateAdded': time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed),
                     }
                 )
@@ -122,10 +122,11 @@ def post_tweet(api):
                 body_length = TWEET_NET_LENGTH - hashtag_length
 
                 tweet_body = entry.title.encode('utf-8')
-		tweet_desc = entry.description.encode('utf-8)[:body_length]
+#                tweet_desc = entry.description.encode('utf-8')[:body_length]
                 tweet_url = entry.link.encode('utf-8')
                 tweet_hashtag = feed.get_hashtag()
-                tweet_text = "%s %s %s %s" % (tweet_body, tweet_desc, tweet_url, tweet_hashtag)
+#                tweet_text = "%s %s %s %s" % (tweet_body, tweet_desc, tweet_url, tweet_hashtag)
+                tweet_text = "%s %s %s %s" % (tweet_body, tweet_url, tweet_hashtag)
                 tweet_media = media(feed, entry)
 
 #                if tweet_media is not None:
@@ -135,6 +136,6 @@ def post_tweet(api):
 
                 print ( " ", time.strftime("%c"), "-", tweet_text )
 
-if __name__ == '__main__':
+def lambda_handler(event, context):
 	api = init_twitter()
 	post_tweet(api)

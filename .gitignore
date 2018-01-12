@@ -1,4 +1,4 @@
-src/keys.py
+keys.py
 *.pyc
 build
 dist
