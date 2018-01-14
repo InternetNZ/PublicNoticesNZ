@@ -1,0 +1,1109 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>New Zealand Gazette Notices Feed</title>
+        <link>https://gazette.govt.nz/home/NoticeSearch?noticeType=aa</link>
+		<atom:link href="https://gazette.govt.nz/home/NoticeSearch?noticeType=aa" rel="self" type="application/rss+xml" />
+		<description>New Zealand Gazette XML feed based on search: https://gazette.govt.nz/home/NoticeSearch?noticeType=aa</description>
+        
+        <item>
+            <title>PREET &amp; CO REAL ESTATE LIMITED and PREET &amp; CO RENTALS LIMITED (administrators appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrators&lt;/h2&gt;
+&lt;h3 class="gaz-heading-3"&gt;Pursuant to Sections 239ADW, 239AJ, 239AL of the Companies Act 1993&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Company Nos.:&lt;/em&gt; 3702019, 3731427&lt;/p&gt;
+&lt;p&gt;We, Jeffrey Meltzer and Michael Lamacraft, administrators of Meltzer Mason, were appointed joint and several administrators of the above-named companies by...</description>
+            <category>Notice/Issue/2017/</category>
+            <pubDate>2017-12-21 14:31:02</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-aa6770</link>
+            <guid>2017-aa6770</guid>
+        </item>
+        
+        <item>
+            <title>AUDUN GROUP LIMITED (administrator appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Watershed Meeting of Creditors&lt;/h2&gt;
+&lt;p&gt;Notice is hereby given that the watershed meeting of the creditors of AUDUN GROUP LIMITED (administrator appointed) will be held at the offices of BWA Insolvency Limited, located at 131 Taupaki Road, Taupaki, on...</description>
+            <category>Notice/Issue/2017/</category>
+            <pubDate>2017-12-21 09:31:02</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-aa6799</link>
+            <guid>2017-aa6799</guid>
+        </item>
+        
+        <item>
+            <title>CHAIN RESOURCES LIMITED and CHAIN RIGGING AND SCAFFOLDING LIMITED (both administrator appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrator and&lt;br /&gt;Notice of the First Meeting of Creditors&lt;/h2&gt;
+&lt;p&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of CHAIN RESOURCES LIMITED (administrator appointed) and CHAIN RIGGING AND SCAFFOLDING LIMITED...</description>
+            <category>Notice/Issue/2017/</category>
+            <pubDate>2017-12-06 13:52:02</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-aa6456</link>
+            <guid>2017-aa6456</guid>
+        </item>
+        
+        <item>
+            <title>AUDUN GROUP LIMITED (administrator appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrator and&lt;br /&gt;Notice of the First Meeting of Creditors&lt;/h2&gt;
+&lt;p&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of AUDUN GROUP LIMITED (administrator appointed), pursuant to section 239I of the...</description>
+            <category>Notice/Issue/2017/</category>
+            <pubDate>2017-11-28 09:33:01</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-aa6306</link>
+            <guid>2017-aa6306</guid>
+        </item>
+        
+        <item>
+            <title>ACMA INDUSTRIES LIMITED (administrators appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Public Notice of Appointment of Administrators and&lt;br /&gt;Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;h3 class="gaz-heading-3"&gt;Pursuant to Sections &lt;span class="no-break"&gt;239ADW(1)(b)&lt;/span&gt; and &lt;span class="no-break"&gt;239AO(1)(b)&lt;/span&gt; of the Companies Act 1993&lt;/h3&gt;
+&lt;p&gt;We, John Howard Ross Fisk and Richard Michael Longman, chartered accountants of Wellington, hereby...</description>
+            <category>Notice/Issue/2017/106</category>
+            <pubDate>2017-10-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-aa5372</link>
+            <guid>2017-aa5372</guid>
+        </item>
+        
+        <item>
+            <title>RENAISSANCE BREWING LIMITED (in administration)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrators and&lt;br /&gt;Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;p&gt;Notice is given that Iain Bruce Shephard and Jessica Jane Kellow, RITANZ accredited insolvency practitioners of Wellington, were appointed administrators of RENAISSANCE BREWING LIMITED, pursuant to section 239I...</description>
+            <category>Notice/Issue/2017/106</category>
+            <pubDate>2017-10-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-aa5297</link>
+            <guid>2017-aa5297</guid>
+        </item>
+        
+        <item>
+            <title>SEBEL FURNITURE LIMITED (administrators appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrators&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Company No.:&lt;/em&gt; 14211&lt;/p&gt;
+&lt;p&gt;Notice is given that Vaughan Neil Strawbridge and David John Frank Lombe, of Deloitte Financial Advisory Pty Ltd, were appointed joint and several administrators of the company on 8 June 2017, pursuant to...</description>
+            <category>Notice/Issue/2017/69</category>
+            <pubDate>2017-06-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-aa3179</link>
+            <guid>2017-aa3179</guid>
+        </item>
+        
+        <item>
+            <title>LONGLEY PANELBEATERS LIMITED (administrator appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrator and&lt;br /&gt;Notice of the First Meeting of Creditors&lt;/h2&gt;
+&lt;p&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of LONGLEY PANELBEATERS LIMITED (administrator appointed), pursuant to section 239I of the...</description>
+            <category>Notice/Issue/2017/63</category>
+            <pubDate>2017-06-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-aa2858</link>
+            <guid>2017-aa2858</guid>
+        </item>
+        
+        <item>
+            <title>INTUERI EDUCATION GROUP LIMITED, INTUERI SERVICES LIMITED, ELITE EDUCATION HOLDINGS LIMITED, QUANTUM EDUCATION GROUP LIMITED, QUANTUM EDUCATION GROUP ES LIMITED, QUANTUM EDUCATION GROUP QT LIMITED and COMMERCIAL DIVER TRAINING LIMITED (all administrators appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrators and &lt;br /&gt;Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;h3 class="gaz-heading-3"&gt;Pursuant to Sections &lt;span class="no-break"&gt;239ADW(1)(b)&lt;/span&gt; and &lt;span class="no-break"&gt;239AO(1)(a)&lt;/span&gt; and (b) of the Companies Act 1993&lt;/h3&gt;
+&lt;p&gt;Notice is given that Conor John McElhinney and William Guy Black, of...</description>
+            <category>Notice/Issue/2017/60</category>
+            <pubDate>2017-06-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-aa2821</link>
+            <guid>2017-aa2821</guid>
+        </item>
+        
+        <item>
+            <title>WAIHEKE FRESH VEG AND PRODUCE LIMITED (in administration)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrator and&lt;br /&gt;Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;p&gt;Notice is given that Iain Bruce Shephard and Jessica Jane Kellow, accredited insolvency practitioners of Wellington, were appointed administrators of WAIHEKE FRESH VEG AND PRODUCE LIMITED, pursuant to...</description>
+            <category>Notice/Issue/2017/49</category>
+            <pubDate>2017-05-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-aa2212</link>
+            <guid>2017-aa2212</guid>
+        </item>
+        
+        <item>
+            <title>IDENTITY DIRECT LIMITED</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrators&lt;/h2&gt;
+&lt;p&gt;Simon Dalton, of Gerry Rea Partners, together with Quentin James Olde and Joseph Ronald Hansell, of FTI Consulting, were appointed joint and several administrators of the above-named company on 23 March 2017 at 5.30pm by...</description>
+            <category>Notice/Issue/2017/35</category>
+            <pubDate>2017-03-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-aa1506</link>
+            <guid>2017-aa1506</guid>
+        </item>
+        
+        <item>
+            <title>M. WEBSTER HOLDINGS (NZ) LIMITED (administrators appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrators&lt;/h2&gt;
+&lt;h3 class="gaz-heading-3"&gt;Pursuant to Section 239F of the Companies Act 1993&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Company No.:&lt;/em&gt; 1297025&lt;/p&gt;
+&lt;p&gt;We, Paul Vlasic, certified practising accountant, and Andrew Barnden, chartered accountant, of Rodgers Reidy (NZ) Limited, Chartered Accountants and Insolvency Specialists, were appointed joint...</description>
+            <category>Notice/Issue/2017/15</category>
+            <pubDate>2017-02-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-aa577</link>
+            <guid>2017-aa577</guid>
+        </item>
+        
+        <item>
+            <title>TOWN &amp; COUNTRY STAGING LIMITED, TOWN &amp; COUNTRY ROOFS LIMITED and SOS SCAFFOLDING LIMITED (all administrators appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrator and&lt;br /&gt;Notice of the First Meeting of Creditors&lt;/h2&gt;
+&lt;p&gt;The &lt;span class="no-break"&gt;above-named&lt;/span&gt; companies were placed into voluntary administration on &lt;span class="no-break"&gt;14 October&lt;/span&gt; 2016.&lt;/p&gt;
+&lt;p&gt;Peter Coleman, of Auckland, was appointed administrator of the companies pursuant to section 239K...</description>
+            <category>Notice/Issue/2016/99</category>
+            <pubDate>2016-11-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-aa6115</link>
+            <guid>2016-aa6115</guid>
+        </item>
+        
+        <item>
+            <title>VALLEYGIRL NEW ZEALAND LIMITED (administrators appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrators and &lt;br /&gt;Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Company No.:&lt;/em&gt; 1403021&lt;/p&gt;
+&lt;p&gt;The above-named company was placed into voluntary administration with effect from 10.00am on &lt;span class="no-break"&gt;22 July&lt;/span&gt; 2016 by written resolution of the board of the...</description>
+            <category>Notice/Issue/2016/69</category>
+            <pubDate>2016-08-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-aa4372</link>
+            <guid>2016-aa4372</guid>
+        </item>
+        
+        <item>
+            <title>L.A. (NEW ZEALAND) PTY LIMITED (trading as Laura Ashley)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrator&lt;/h2&gt;
+&lt;p&gt;Notice is hereby given that on &lt;span class="no-break"&gt;2 June&lt;/span&gt; 2016 at 10.00am the company, in terms of section 239I of the Companies Act 1993, appointed Simon Dalton, chartered certified accountant, and Paul Graham Sargison, chartered...</description>
+            <category>Notice/Issue/2016/54</category>
+            <pubDate>2016-06-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-aa3265</link>
+            <guid>2016-aa3265</guid>
+        </item>
+        
+        <item>
+            <title>NICHOLAS JERMYN LIMITED (administrators appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Public Notice of Appointment of Administrators and&lt;br /&gt;Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;h3 class="gaz-heading-3"&gt;Pursuant to Sections &lt;span class="no-break"&gt;239ADW(1)(b)&lt;/span&gt; and &lt;span class="no-break"&gt;239AO(1)(b)&lt;/span&gt; of the Companies Act 1993&lt;/h3&gt;
+&lt;p&gt;We, David John Bridgman and Lara Maree Bennett, both Chartered Accountants Australia &lt;span class="no-break"&gt;New...</description>
+            <category>Notice/Issue/2016/44</category>
+            <pubDate>2016-05-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-aa2690</link>
+            <guid>2016-aa2690</guid>
+        </item>
+        
+        <item>
+            <title>PROFESSIONAL GRAPHICS AND DESIGN LIMITED (administrator appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrator and&lt;br /&gt;Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;p&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of PROFESSIONAL GRAPHICS AND DESIGN LIMITED, pursuant to section 239I of the Companies...</description>
+            <category>Notice/Issue/2016/42</category>
+            <pubDate>2016-05-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-aa2563</link>
+            <guid>2016-aa2563</guid>
+        </item>
+        
+        <item>
+            <title>INTERDRILL LIMITED (administrators appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrators and&lt;br /&gt;Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;p&gt;The &lt;span class="no-break"&gt;above-named&lt;/span&gt; company was placed into voluntary administration with effect from 4.00pm on &lt;span class="no-break"&gt;29 April&lt;/span&gt; 2016 by written resolution of the board of the company of...</description>
+            <category>Notice/Issue/2016/42</category>
+            <pubDate>2016-05-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-aa2534</link>
+            <guid>2016-aa2534</guid>
+        </item>
+        
+        <item>
+            <title>MEREDITH N.Z. LIMITED and MEREDITH FASHION GROUP (NZ) LIMITED (administrators appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrators&lt;/h2&gt;
+&lt;h3 class="gaz-heading-3"&gt;Pursuant to Section 239ADW of the Companies Act 1993 (as amended)&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Company Nos.:&lt;/em&gt; 2021558, 913810&lt;/p&gt;
+&lt;p&gt;David Sean Webb, Daniel Austin Walley and Alan Lee Walker, of PPB Advisory, were appointed joint and several administrators of the...</description>
+            <category>Notice/Issue/2016/29</category>
+            <pubDate>2016-04-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-aa1782</link>
+            <guid>2016-aa1782</guid>
+        </item>
+        
+        <item>
+            <title>ORIGINAL PRINT LIMITED and FENASH INVESTMENTS LIMITED (both in administration)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrators and &lt;br /&gt; Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;p&gt;Notice is given that Iain Bruce Shephard and Jessica Jane Kellow, insolvency practitioners of Wellington, were appointed administrators of the &lt;span class="no-break"&gt;above-named&lt;/span&gt; companies, pursuant to section...</description>
+            <category>Notice/Issue/2016/10</category>
+            <pubDate>2016-02-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-aa479</link>
+            <guid>2016-aa479</guid>
+        </item>
+        
+        <item>
+            <title>BELCHER INDUSTRIES LIMITED (administrator appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrator and&lt;br /&gt;Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;p&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of BELCHER INDUSTRIES LIMITED, pursuant to section 239I of the Companies Act 1993,...</description>
+            <category>Notice/Issue/2016/1</category>
+            <pubDate>2016-01-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-aa12</link>
+            <guid>2016-aa12</guid>
+        </item>
+        
+        <item>
+            <title>ALTECH COMPUTERS CORPORATION (NZ) PTY LIMITED (administrators appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2" style="text-align: left;"&gt;Notice of Appointment of Administrators&lt;/h2&gt;
+&lt;h3 class="gaz-heading-3" style="text-align: left;"&gt;Pursuant to Section 239ADW of the Companies Act 1993&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Company No.:&lt;/em&gt; 2100381&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Andrew Scott and Daniel Walley, of PPB Advisory, were appointed joint and several administrators of the &lt;span class="no-break"&gt;above-named&lt;/span&gt;...</description>
+            <category>Notice/Issue/2015/141</category>
+            <pubDate>2015-12-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-aa7345</link>
+            <guid>2015-aa7345</guid>
+        </item>
+        
+        <item>
+            <title>NZ HOME BUILDERS (AUCKLAND SOUTH) LIMITED</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrators and&lt;br /&gt;Notice of Meeting of Creditors&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Notice is hereby given that, in accordance with section 239I of the Companies Act 1993, the &lt;span class="no-break"&gt;above-named&lt;/span&gt; company was placed into administration by the company on...</description>
+            <category>Notice/Issue/2015/109</category>
+            <pubDate>2015-10-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-aa5682</link>
+            <guid>2015-aa5682</guid>
+        </item>
+        
+        <item>
+            <title>MIAMI BEACH LIMITED, MIAMI VICE LIMITED, SOUTH BEACH FEDERAL LIMITED and SOUTH BEACH LIMITED (all administrator appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrator and&lt;br /&gt;Notice of the First Meeting of Creditors&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of the above-named companies, pursuant to section 239I of the...</description>
+            <category>Notice/Issue/2015/71</category>
+            <pubDate>2015-07-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-aa3752</link>
+            <guid>2015-aa3752</guid>
+        </item>
+        
+        <item>
+            <title>NZF GROUP LIMITED</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrators and&lt;br /&gt;Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Notice is hereby given that, in accordance with section &lt;span class="no-break"&gt;239I&lt;/span&gt; of the Companies Act 1993, the &lt;span class="no-break"&gt;above-named&lt;/span&gt; company was placed into administration by the...</description>
+            <category>Notice/Issue/2015/58</category>
+            <pubDate>2015-05-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-aa3041</link>
+            <guid>2015-aa3041</guid>
+        </item>
+        
+        <item>
+            <title>GRANNY ANNIES LIMITED (administrator appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2" style="text-align: justify;"&gt;Notice of Appointment of Administrator and&lt;br /&gt;Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of GRANNY ANNIES LIMITED, pursuant to section 239I of...</description>
+            <category>Notice/Issue/2015/55</category>
+            <pubDate>2015-05-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-aa2917</link>
+            <guid>2015-aa2917</guid>
+        </item>
+        
+        <item>
+            <title>ISLAND TREE CARE 2004 LIMITED (administrators appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Notice of Appointment of Administrators&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;On 23 April 2015, the company, under section 239I of the Companies Act 1993, appointed Damien Grant and Steven Khov as joint and several administrators.&lt;/p&gt;
+&lt;h4 class="gaz-heading-4" style="text-align: justify;"&gt;&lt;strong&gt;Notice to Secured Creditors&lt;/strong&gt;&lt;/h4&gt;
+&lt;p style="text-align: justify;"&gt;Notice...</description>
+            <category>Notice/Issue/2015/45</category>
+            <pubDate>2015-04-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-aa2484</link>
+            <guid>2015-aa2484</guid>
+        </item>
+        
+        <item>
+            <title>WAIMEA CONTRACT CARRIERS LIMITED (administrators appointed) (“the company”)</title>
+            <description>&lt;h2 class="gaz-heading-2" style="text-align: justify;"&gt;Notice of Appointment of Administrators and&lt;br /&gt;Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;h3 class="gaz-heading-3" style="text-align: justify;"&gt;Pursuant to Sections &lt;span class="no-break"&gt;239ADW(1)(b)&lt;/span&gt; and &lt;span class="no-break"&gt;239AO(1)(b)&lt;/span&gt; of the Companies Act 1993&lt;/h3&gt;
+&lt;p style="text-align: justify;"&gt;We, John Fisk and Richard Longman, both chartered accountants...</description>
+            <category>Notice/Issue/2015/36</category>
+            <pubDate>2015-04-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-aa2019</link>
+            <guid>2015-aa2019</guid>
+        </item>
+        
+        <item>
+            <title>SHANTON FASHIONS LIMITED (administrator appointed)</title>
+            <description>&lt;h2 class="gaz-heading-2" style="text-align: justify;"&gt;Notice of Appointment of Administrator and&lt;br /&gt;Notice of First Meeting of Creditors&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of SHANTON FASHIONS LIMITED, pursuant to section 239I of...</description>
+            <category>Notice/Issue/2015/8</category>
+            <pubDate>2015-01-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-aa233</link>
+            <guid>2015-aa233</guid>
+        </item>
+        
+        <item>
+            <title>6 CENTS LIMITED (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;On 26 August 2014, the company, under section 239I of the Companies Act 1993, appointed Damien Grant and Steven Khov as joint and several administrators.&lt;br/&gt;Notice to Secured Creditors&lt;br/&gt;Notice is hereby given that any person who holds...</description>
+            <category>Notice/Issue/2014/107</category>
+            <pubDate>2014-09-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-aa5438</link>
+            <guid>2014-aa5438</guid>
+        </item>
+        
+        <item>
+            <title>INDUSTRIAL STAINLESS &amp; DESIGN LIMITED</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Notice is hereby given that on 18 August 2014 at 11.42am, the company, in terms of section 239I of the Companies &lt;br/&gt;Act 1993, appointed Simon Dalton, chartered certified accountant, and Paul Graham Sargison, chartered accountant, both...</description>
+            <category>Notice/Issue/2014/103</category>
+            <pubDate>2014-08-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-aa5296</link>
+            <guid>2014-aa5296</guid>
+        </item>
+        
+        <item>
+            <title>OHIWA DEVELOPMENTS LIMITED </title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Pursuant to Section 239ADW of the Companies Act 1993&lt;br/&gt;(as amended)&lt;br/&gt;Company No.: 10110119&lt;br/&gt;Kenneth Peter Brown, of BDO Tauranga Limited, Level 1, The Hub, 525 Cameron Road (PO Box 15660), Tauranga 3144,...</description>
+            <category>Notice/Issue/2014/79</category>
+            <pubDate>2014-07-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-aa4531</link>
+            <guid>2014-aa4531</guid>
+        </item>
+        
+        <item>
+            <title>PHOENIX GLUTEN FREE PRODUCTS LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of PHOENIX GLUTEN FREE PRODUCTS LIMITED, pursuant to section 239I of the Companies Act 1993,...</description>
+            <category>Notice/Issue/2014/29</category>
+            <pubDate>2014-03-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-aa1522</link>
+            <guid>2014-aa1522</guid>
+        </item>
+        
+        <item>
+            <title>ENVIROFOCUS LIMITED</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Company No.: 1257444&lt;br/&gt;We, Brent Kijurina and Richard Albarran, of Hall Chadwick Chartered Accountants and Business Advisors, were appointed administrators of the above-named company in accordance with section 239I of the Companies Act 1993 on 6 December...</description>
+            <category>Notice/Issue/2013/172</category>
+            <pubDate>2013-12-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa8008</link>
+            <guid>2013-aa8008</guid>
+        </item>
+        
+        <item>
+            <title>FEATHERSTON RESOURCES LIMITED</title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;Pursuant to Section 239F of the Companies Act 1993&lt;br/&gt;Company No.: 887809&lt;br/&gt;We, Paul Vlasic, certified practising accountant, and Andrew Barnden, chartered accountant, of Rodgers Reidy, Chartered Accountants, were appointed joint and several administrators of the above-named...</description>
+            <category>Notice/Issue/2013/172</category>
+            <pubDate>2013-12-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa8033</link>
+            <guid>2013-aa8033</guid>
+        </item>
+        
+        <item>
+            <title>STEELBRO NEW ZEALAND LIMITED</title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;Pursuant to Section 239ADW of the Companies Act 1993 &lt;br/&gt;(as amended)&lt;br/&gt;Company No.: 121961&lt;br/&gt;David Sean Webb and Craig David Crosbie, of PPB Advisory, were appointed joint and several administrators &lt;br/&gt;of the above-named company on 2 December...</description>
+            <category>Notice/Issue/2013/167</category>
+            <pubDate>2013-12-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa7811</link>
+            <guid>2013-aa7811</guid>
+        </item>
+        
+        <item>
+            <title>CMA RECYCLING LIMITED (administrators appointed) </title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;Pursuant to Section 239ADW of the Companies Act 1993 &lt;br/&gt;(as amended)&lt;br/&gt;Company No.: 335111&lt;br/&gt;We advise that David Sean Webb and Philip Patrick Carter were appointed joint and several voluntary administrators of the above-named company on 4...</description>
+            <category>Notice/Issue/2013/143</category>
+            <pubDate>2013-10-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa6547</link>
+            <guid>2013-aa6547</guid>
+        </item>
+        
+        <item>
+            <title>DADDY O&#039;S LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of DADDY O'S LIMITED, pursuant to section 239I of the Companies Act 1993, on 6...</description>
+            <category>Notice/Issue/2013/130</category>
+            <pubDate>2013-09-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa5548</link>
+            <guid>2013-aa5548</guid>
+        </item>
+        
+        <item>
+            <title>ASK CORP LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of ASK CORP LIMITED, pursuant to section 239I of the Companies Act 1993, on 13...</description>
+            <category>Notice/Issue/2013/113</category>
+            <pubDate>2013-08-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa5206</link>
+            <guid>2013-aa5206</guid>
+        </item>
+        
+        <item>
+            <title>SIGNOPSYS ELECTRONIC SIGNS LIMITED (administrator appointed)</title>
+            <description>Notice of Watershed Meeting of Creditors&lt;br/&gt;Notice is hereby given that the watershed meeting of the creditors of SIGNOPSYS ELECTRONIC SIGNS LIMITED (administrator appointed) will be held at Unit 6, 1 Highbrook Drive, East Tamaki, Auckland, on 2 August 2013 at...</description>
+            <category>Notice/Issue/2013/97</category>
+            <pubDate>2013-08-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa4738</link>
+            <guid>2013-aa4738</guid>
+        </item>
+        
+        <item>
+            <title>HAVERSTOCK SAFETY &amp; ENVIRONMENTAL LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of HAVERSTOCK SAFETY &amp; ENVIRONMENTAL LIMITED, pursuant to section 239I &lt;br/&gt;of the Companies Act 1993,...</description>
+            <category>Notice/Issue/2013/88</category>
+            <pubDate>2013-07-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa4312</link>
+            <guid>2013-aa4312</guid>
+        </item>
+        
+        <item>
+            <title>SIGNOPSYS ELECTRONIC SIGNS LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of SIGNOPSYS ELECTRONIC SIGNS LIMITED, pursuant to section 239I of the Companies &lt;br/&gt;Act 1993, on...</description>
+            <category>Notice/Issue/2013/85</category>
+            <pubDate>2013-07-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa4154</link>
+            <guid>2013-aa4154</guid>
+        </item>
+        
+        <item>
+            <title>CARALA HOLDINGS LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of CARALA HOLDINGS LIMITED, pursuant to section 239I of the Companies Act 1993, on &lt;br/&gt;13...</description>
+            <category>Notice/Issue/2013/64</category>
+            <pubDate>2013-05-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa2929</link>
+            <guid>2013-aa2929</guid>
+        </item>
+        
+        <item>
+            <title>GEON GROUP NEW ZEALAND LIMITED, GEON GROUP LIMITED, KIWI LABELS LIMITED and GEON LIMITED </title>
+            <description>(all administrators appointed and all in receivership) ("the companies") &lt;br/&gt;Notice of Joint Watershed Meetings of Creditors of &lt;br/&gt;the Companies&lt;br/&gt;Pursuant to Section 239AU of the Companies Act 1993&lt;br/&gt;Company Nos.: 1898459, 1173549, 1271437, 165326&lt;br/&gt;David Webb, Ben Verney and Philip Carter were &lt;br/&gt;appointed...</description>
+            <category>Notice/Issue/2013/36</category>
+            <pubDate>2013-03-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa1627</link>
+            <guid>2013-aa1627</guid>
+        </item>
+        
+        <item>
+            <title>A &amp; T TIMBER SOLUTIONS LIMITED (administrator appointed)</title>
+            <description>Notice of Watershed Meeting of Creditors&lt;br/&gt;Notice is hereby given that the watershed meeting of the creditors of A &amp;amp; T TIMBER SOLUTIONS LIMITED (administrator appointed) will be held at 53 Geddes Road, Rotorua, on 14 March 2013 commencing at 1.30pm.&lt;br/&gt;The...</description>
+            <category>Notice/Issue/2013/31</category>
+            <pubDate>2013-03-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa1428</link>
+            <guid>2013-aa1428</guid>
+        </item>
+        
+        <item>
+            <title>GEON GROUP NEW ZEALAND LIMITED, GEON GROUP LIMITED, KIWI LABELS LIMITED and GEON LIMITED (all administrators appointed and all in receivership) (&quot;the companies&quot;)</title>
+            <description>Notice of Appointment of Administrators and Notice of First Meeting of Creditors&lt;br/&gt;Pursuant to Section 239ADW of the Companies Act 1993&lt;br/&gt;Company Nos.: 1898459, 1173549, 1271437, 165326&lt;br/&gt;David Webb, Ben Verney and Philip Carter were &lt;br/&gt;appointed joint and several administrators of the companies...</description>
+            <category>Notice/Issue/2013/24</category>
+            <pubDate>2013-02-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa1172</link>
+            <guid>2013-aa1172</guid>
+        </item>
+        
+        <item>
+            <title>A &amp; T TIMBER SOLUTIONS LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of A &amp;amp; T TIMBER SOLUTIONS LIMITED, pursuant to section 239I of the Companies Act...</description>
+            <category>Notice/Issue/2013/15</category>
+            <pubDate>2013-02-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa805</link>
+            <guid>2013-aa805</guid>
+        </item>
+        
+        <item>
+            <title>GOURMETNZ LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of GOURMETNZ LIMITED (administrator appointed), pursuant to section 239I of the Companies Act 1993, on...</description>
+            <category>Notice/Issue/2013/5</category>
+            <pubDate>2013-01-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-aa329</link>
+            <guid>2013-aa329</guid>
+        </item>
+        
+        <item>
+            <title>PITANGO INNOVATIVE CUISINE LIMITED and GOURMET FOOD HOLDINGS </title>
+            <description>NEW ZEALAND LIMITED (both administrators appointed, and receivers and managers appointed) ("the companies")&lt;br/&gt;Notice of Appointment of Administrators and&lt;br/&gt;Notice of Concurrent First Meeting of Creditors&lt;br/&gt;Pursuant to Section 239AO of the Companies Act 1993&lt;br/&gt;Company Nos.: 1287298, 2028256&lt;br/&gt;Notice is given that on 30...</description>
+            <category>Notice/Issue/2012/148</category>
+            <pubDate>2012-12-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-aa8128</link>
+            <guid>2012-aa8128</guid>
+        </item>
+        
+        <item>
+            <title>PTM CUISINE LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Pursuant to a resolution passed by the board of the company on or near to 9.40am on 14 November 2012, the &lt;br/&gt;company has been placed into voluntary administration. &lt;br/&gt;The control...</description>
+            <category>Notice/Issue/2012/139</category>
+            <pubDate>2012-11-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-aa7549</link>
+            <guid>2012-aa7549</guid>
+        </item>
+        
+        <item>
+            <title>METAL &amp; ACRYLIC FABRICATIONS LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of METAL &amp;amp; ACRYLIC FABRICATIONS LIMITED on 6 November 2012, pursuant to section 239I of...</description>
+            <category>Notice/Issue/2012/136</category>
+            <pubDate>2012-11-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-aa7300</link>
+            <guid>2012-aa7300</guid>
+        </item>
+        
+        <item>
+            <title>AQUACLEAR TECHNOLOGY LIMITED</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Pursuant to Section 239ADW of the Companies Act 1993 &lt;br/&gt;(as amended)&lt;br/&gt;Company No.: 2179628&lt;br/&gt;David Sean Webb and Brett Andrew Lord, of PPB Advisory, were appointed as joint and several administrators of the above-named company on 18 September...</description>
+            <category>Notice/Issue/2012/120</category>
+            <pubDate>2012-09-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-aa6062</link>
+            <guid>2012-aa6062</guid>
+        </item>
+        
+        <item>
+            <title>APPEARANCE LASER CLINIC LIMITED (formerly APPEARANCE LASER LIMITED) (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;On 8 August 2012, the company, under section 239I of the Companies Act 1993, appointed Damien Grant and Steven Khov, as joint and several administrators.&lt;br/&gt;Notice to Secured Creditors&lt;br/&gt;Notice is hereby given that any person who...</description>
+            <category>Notice/Issue/2012/98</category>
+            <pubDate>2012-08-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-aa5055</link>
+            <guid>2012-aa5055</guid>
+        </item>
+        
+        <item>
+            <title>MEADOWLANE LIMITED (formerly known as INTERNATIONAL ENTERTAINMENT (NZ) LIMITED) (administrators appointed) </title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;On 2 July 2012, the company, under section 239I of the Companies Act 1993, appointed Damien Grant and Steven Khov, as joint and several administrators.&lt;br/&gt;Notice to Secured Creditors&lt;br/&gt;Notice is hereby given that any person who...</description>
+            <category>Notice/Issue/2012/84</category>
+            <pubDate>2012-07-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-aa4180</link>
+            <guid>2012-aa4180</guid>
+        </item>
+        
+        <item>
+            <title>HARTLAND CONSTRUCTION LIMITED (administrator appointed) </title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, has been appointed administrator of HARTLAND CONSTRUCTION LIMITED (administrator appointed) pursuant to section 239I of the Companies Act...</description>
+            <category>Notice/Issue/2012/61</category>
+            <pubDate>2012-05-31 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-aa3224</link>
+            <guid>2012-aa3224</guid>
+        </item>
+        
+        <item>
+            <title>CDS GROUP LIMITED (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Company No.: 1934596&lt;br/&gt;Notice is hereby given that on 15 March 2012 at 2.00pm, it was resolved by the board of directors that CDS GROUP LIMITED be placed into voluntary administration, pursuant to section 239I of the...</description>
+            <category>Notice/Issue/2012/35</category>
+            <pubDate>2012-03-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-aa1730</link>
+            <guid>2012-aa1730</guid>
+        </item>
+        
+        <item>
+            <title>CINEPLEX 5 LIMITED (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;Company No.: 383055&lt;br/&gt;On 9 November 2011, Hacienda Holdings Limited, &lt;br/&gt;a general security holder under section 239K of the Companies Act 1993, appointed Damien Grant and Steven Khov as joint and several administrators.&lt;br/&gt;Notice to Secured Creditors&lt;br/&gt;Notice...</description>
+            <category>Notice/Issue/2011/176</category>
+            <pubDate>2011-11-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-aa7940</link>
+            <guid>2011-aa7940</guid>
+        </item>
+        
+        <item>
+            <title>INDEPENDENT MAGAZINE DISTRIBUTORS LIMITED (administrators appointed)</title>
+            <description>Notice of Intention to Release Administrators&lt;br/&gt;We, Damien Grant and Steven Khov, administrators of INDEPENDENT MAGAZINE DISTRIBUTORS LIMITED (administrators appointed), whose place of business is situated at 36 Williamson Avenue, Grey Lynn, Auckland, hereby give notice, in accordance with section 3(1)...</description>
+            <category>Notice/Issue/2011/168</category>
+            <pubDate>2011-11-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-aa7555</link>
+            <guid>2011-aa7555</guid>
+        </item>
+        
+        <item>
+            <title>PRESENTATION HOMES LIMITED (in administration)</title>
+            <description>Notice of Appointment of Replacement &lt;br/&gt;Voluntary Administrator&lt;br/&gt;Pursuant to sections 239S and 239ADW(1)(b) of the Companies Act 1993, Trevor Nelson Cameron, chartered accountant, of Richards Woodhouse, Nelson, has been appointed the replacement voluntary administrator of the above-named company on 27 July...</description>
+            <category>Notice/Issue/2011/138</category>
+            <pubDate>2011-09-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-aa6188</link>
+            <guid>2011-aa6188</guid>
+        </item>
+        
+        <item>
+            <title>PACIFIC SCAFFOLDING LIMITED, PACIFIC SCAFFOLDING FRANCHISE LIMITED, PACIFIC SCAFFOLDING SERVICES </title>
+            <description>LIMITED, ACCESS SCAFFOLDING LIMITED, ACCESS SCAFFOLDING FRANCHISE LIMITED, ACCESS SCAFFOLDING &lt;br/&gt;SERVICES LIMITED, ACCESS PACIFIC FRANCHISE SYSTEMS LIMITED, ADVANCE SCAFFOLD LIMITED and SCAFFOLDING CONCEPTS LIMITED ("the companies")&lt;br/&gt;Public Notice of Appointment of Administrator and Notice of First Meeting of Creditors&lt;br/&gt;Pursuant to a...</description>
+            <category>Notice/Issue/2011/109</category>
+            <pubDate>2011-07-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-aa4983</link>
+            <guid>2011-aa4983</guid>
+        </item>
+        
+        <item>
+            <title>TU&#039;ERE FISHING LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator &lt;br/&gt;Pursuant to Section 239ADW of the Companies Act 1993&lt;br/&gt;Notice is hereby given that Peter Coleman, accountant, was appointed as administrator of the above-named company, on 21 June 2011, by the company pursuant to section 239I...</description>
+            <category>Notice/Issue/2011/90</category>
+            <pubDate>2011-06-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-aa4351</link>
+            <guid>2011-aa4351</guid>
+        </item>
+        
+        <item>
+            <title>LEAWELD MANUFACTURING LIMITED (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;Company No.: 1303406&lt;br/&gt;On 28 March 2011, the company, under section 239I of the Companies Act 1993, appointed Damien Grant and Steven Khov as joint and several administrators.&lt;br/&gt;Notice to Secured Creditors&lt;br/&gt;Notice is hereby given that any...</description>
+            <category>Notice/Issue/2011/47</category>
+            <pubDate>2011-04-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-aa2306</link>
+            <guid>2011-aa2306</guid>
+        </item>
+        
+        <item>
+            <title>WGL RETAIL HOLDINGS LIMITED, WHITCOULLS GROUP LIMITED, CALENDAR CLUB NEW ZEALAND LIMITED, BORDERS NEW ZEALAND LIMITED and REDGROUP ONLINE LIMITED (all administrators appointed) (&quot;the group&quot;)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Company Nos.: 120265, 131870, 826130, 944114, 2223528&lt;br/&gt;Notice is given that on 17 February 2011, the group, under section 239I of the Companies Act 1993, appointed Steven Sherman, John Melluish and Ryan Eagle of Ferrier Hodgson, GPO...</description>
+            <category>Notice/Issue/2011/19</category>
+            <pubDate>2011-02-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-aa1172</link>
+            <guid>2011-aa1172</guid>
+        </item>
+        
+        <item>
+            <title>FAIRFAX INDUSTRIES LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, has been appointed administrator of FAIRFAX INDUSTRIES LIMITED (administrator appointed) on 5 February 2011 pursuant to section 239I...</description>
+            <category>Notice/Issue/2011/16</category>
+            <pubDate>2011-02-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-aa893</link>
+            <guid>2011-aa893</guid>
+        </item>
+        
+        <item>
+            <title>E &amp; B MANAGEMENT LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator &lt;br/&gt;Pursuant to Section 239ADW of the Companies Act 1993&lt;br/&gt;Notice is hereby given that Peter Coleman, accountant, was appointed as administrator of the above-named company, on 1 February 2011, by the company pursuant to section 239I...</description>
+            <category>Notice/Issue/2011/14</category>
+            <pubDate>2011-02-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-aa868</link>
+            <guid>2011-aa868</guid>
+        </item>
+        
+        <item>
+            <title>MOKUM TEXTILES LIMITED (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;The above-named company was placed into voluntary administration with effect from 4.00pm on Wednesday &lt;br/&gt;22 December 2010 by written resolution of the board of &lt;br/&gt;the company of even date.&lt;br/&gt;Gareth Russel Hoole and Kevin David Pitfield were...</description>
+            <category>Notice/Issue/2011/1</category>
+            <pubDate>2011-01-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-aa80</link>
+            <guid>2011-aa80</guid>
+        </item>
+        
+        <item>
+            <title>ACTIVE REHAB LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, has been appointed administrator of ACTIVE REHAB LIMITED (administrator appointed) on 14 December 2010 pursuant to section 239I...</description>
+            <category>Notice/Issue/2010/179</category>
+            <pubDate>2010-12-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-aa9716</link>
+            <guid>2010-aa9716</guid>
+        </item>
+        
+        <item>
+            <title>SWAGES ENGINEERING LIMITED (in administration)</title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;Notice is given that on 19 November 2010 at 11.35am, the company, pursuant to section 239I of the Companies Act 1993, appointed Craig Andrew Young and Raymond Gordon Burgess as administrators.&lt;br/&gt;Notice of Meeting of Creditors&lt;br/&gt;Notice...</description>
+            <category>Notice/Issue/2010/156</category>
+            <pubDate>2010-11-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-aa9031</link>
+            <guid>2010-aa9031</guid>
+        </item>
+        
+        <item>
+            <title>NEW ZEALAND GLOBAL LIMITED (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;The Companies Act 1993&lt;br/&gt;The above-named company was placed into voluntary administration with effect from 12.00 midday on Wednesday 13 October 2010 by written resolution of the board of the company of even date.&lt;br/&gt;Gareth Russel Hoole and...</description>
+            <category>Notice/Issue/2010/143</category>
+            <pubDate>2010-10-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-aa8064</link>
+            <guid>2010-aa8064</guid>
+        </item>
+        
+        <item>
+            <title>THE WEB COMPANY NZ LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of THE WEB COMPANY NZ LIMITED (administrator appointed) on 30 September 2010, pursuant to section...</description>
+            <category>Notice/Issue/2010/138</category>
+            <pubDate>2010-10-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-aa7789</link>
+            <guid>2010-aa7789</guid>
+        </item>
+        
+        <item>
+            <title>SHOCK ENTERTAINMENT NZ LIMITED (administrators appointed) (&quot;the company&quot;)</title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;Company No.: 1284893&lt;br/&gt;Notice is given that on 12 August 2010, pursuant to section 239I of the Companies Act 1993, David Ross and Richard Albarran were appointed administrators of the company.&lt;br/&gt;DAVID ROSS, Administrator.&lt;br/&gt;Address for Service: C/o...</description>
+            <category>Notice/Issue/2010/105</category>
+            <pubDate>2010-08-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-aa6416</link>
+            <guid>2010-aa6416</guid>
+        </item>
+        
+        <item>
+            <title>PRESENTATION HOMES LIMITED</title>
+            <description>Notice of Appointment of Voluntary Administrator&lt;br/&gt;Pursuant to Sections 239AO and 239ADW(1)(b) of the Companies Act 1993&lt;br/&gt;Stephen Lawrence Delamere Webb, lawyer, Neighbourhood Law, Nelson, has been appointed voluntary administrator of the above-named company on 16 June 2010 by the company, pursuant...</description>
+            <category>Notice/Issue/2010/70</category>
+            <pubDate>2010-06-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-aa4750</link>
+            <guid>2010-aa4750</guid>
+        </item>
+        
+        <item>
+            <title>HARBOUR CITY SIGNS LIMITED (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;The Companies Act 1993&lt;br/&gt;The above-named company was placed into voluntary administration with effect from 3.00pm on Wednesday &lt;br/&gt;16 June 2010 by written resolution of the board of the company of even date.&lt;br/&gt;Gareth Russel Hoole and Andrew...</description>
+            <category>Notice/Issue/2010/70</category>
+            <pubDate>2010-06-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-aa4758</link>
+            <guid>2010-aa4758</guid>
+        </item>
+        
+        <item>
+            <title>BATO MANAGEMENT NO. 1 LIMITED, BATO MANAGEMENT NO 2 LIMITED, BATO MANAGEMENT NO.4 LIMITED, BATO MANAGEMENT NO 5 LIMITED, BATO MANAGEMENT NO.6 LIMITED, BATO MANAGEMENT SERVICES LIMITED, BATO NO. 3 LIMITED, OPAKI CONCEPTS LIMITED, TARARUA RENTALS LIMITED and TARARUA SECURITIES LIMITED (all administrator appointed)</title>
+            <description>Notice of Appointment of Administrator&lt;br/&gt;Pursuant to Section 239ADW of the Companies Act 1993&lt;br/&gt;Notice is hereby given that Murray G. Allott, chartered accountant, was appointed as administrator of the &lt;br/&gt;above-named companies on 8 April 2010 by the passing &lt;br/&gt;of a resolution...</description>
+            <category>Notice/Issue/2010/46</category>
+            <pubDate>2010-04-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-aa2873</link>
+            <guid>2010-aa2873</guid>
+        </item>
+        
+        <item>
+            <title>INDEPENDENT MAGAZINE DISTRIBUTORS LIMITED (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;Company No.: 938177&lt;br/&gt;On 13 January 2010, the company, under section 239I of the Companies Act 1993 (as amended), appointed Peter Drennan and Steven Khov as joint and several administrators.&lt;br/&gt;Notice to Secured Creditors&lt;br/&gt;Notice is hereby given...</description>
+            <category>Notice/Issue/2010/3</category>
+            <pubDate>2010-01-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-aa400</link>
+            <guid>2010-aa400</guid>
+        </item>
+        
+        <item>
+            <title>ROD PERCIVAL BUILDERS LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, was appointed administrator of ROD PERCIVAL BUILDERS LIMITED (administrator appointed) on 20 November 2009, pursuant to section...</description>
+            <category>Notice/Issue/2009/171</category>
+            <pubDate>2009-11-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa9739</link>
+            <guid>2009-aa9739</guid>
+        </item>
+        
+        <item>
+            <title>DON OLIVER BAR BELL 1977 LIMITED (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;The Companies Act 1993&lt;br/&gt;The above-named company was placed into voluntary administration with effect from 4.45pm on 10 November 2009 by written resolution of the board of the company of even date.&lt;br/&gt;Gareth Russel Hoole and Kevin David...</description>
+            <category>Notice/Issue/2009/167</category>
+            <pubDate>2009-11-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa9444</link>
+            <guid>2009-aa9444</guid>
+        </item>
+        
+        <item>
+            <title>FLIGHT EXPERIENCE GROUP LIMITED (administrators appointed)</title>
+            <description>Notice of Appointment of Voluntary Administrators and Notice of First Meeting of Creditors&lt;br/&gt;Pursuant to Sections 239AO and 239ADW(1)(b) of the Companies Act 1993&lt;br/&gt;Notice is hereby given that Iain Andrew Nellies and Wayne John Deuchrass, of Insolvency Management Limited, were appointed...</description>
+            <category>Notice/Issue/2009/154</category>
+            <pubDate>2009-10-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa8721</link>
+            <guid>2009-aa8721</guid>
+        </item>
+        
+        <item>
+            <title>NORTH HARBOUR RESIDENTIAL LIMITED</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Notice is hereby given that on 11 August 2009 at 9.00am, the company, in terms of section 239I of the Companies &lt;br/&gt;Act 1993, appointed Paul Graham Sargison and John &lt;br/&gt;Maurice Leonard, chartered accountants of Auckland, as...</description>
+            <category>Notice/Issue/2009/124</category>
+            <pubDate>2009-08-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa6788</link>
+            <guid>2009-aa6788</guid>
+        </item>
+        
+        <item>
+            <title>DISCOVER NATUROPATHY LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, has been appointed administrator of DISCOVER NATUROPATHY LIMITED (administrator appointed) on 22 July 2009, pursuant to section...</description>
+            <category>Notice/Issue/2009/110</category>
+            <pubDate>2009-07-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa6284</link>
+            <guid>2009-aa6284</guid>
+        </item>
+        
+        <item>
+            <title>ALLELY HOUSE LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Notice is hereby given that Bryan Edward Williams, insolvency practitioner of Auckland, has been appointed administrator of ALLELY HOUSE LIMITED (administrator appointed) on 2 July 2009, pursuant to section 239I...</description>
+            <category>Notice/Issue/2009/99</category>
+            <pubDate>2009-07-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa5791</link>
+            <guid>2009-aa5791</guid>
+        </item>
+        
+        <item>
+            <title>TG COWS LIMITED (formerly HONK COWS LIMITED) (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Company No.: 2046396&lt;br/&gt;On 10 June 2009, the company, under section 239I of the Companies Act 1993 (as amended), appointed Damien Grant and Steven Khov, as joint and several administrators.&lt;br/&gt;Notice to Secured Creditors&lt;br/&gt;Notice is hereby given to...</description>
+            <category>Notice/Issue/2009/94</category>
+            <pubDate>2009-06-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa5304</link>
+            <guid>2009-aa5304</guid>
+        </item>
+        
+        <item>
+            <title>PNZFX LIMITED (subject to deed of company arrangement)</title>
+            <description>Notice of Release From Administration&lt;br/&gt;Pursuant to Section 239E(1) of the Companies Act 1993&lt;br/&gt;Notice is hereby given that the termination requirements under the deed of company arrangement dated the 29th day of January 2009 have been met, and the administrators will...</description>
+            <category>Notice/Issue/2009/84</category>
+            <pubDate>2009-06-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa4880</link>
+            <guid>2009-aa4880</guid>
+        </item>
+        
+        <item>
+            <title>PANIMATION LIMITED (subject to deed of company arrangement)</title>
+            <description>Notice of Release From Administration&lt;br/&gt;Pursuant to Section 239E(1) of the Companies Act 1993&lt;br/&gt;Notice is hereby given that the termination requirements under the deed of company arrangement dated the 29th day of January 2009 have been met, and the administrators will...</description>
+            <category>Notice/Issue/2009/84</category>
+            <pubDate>2009-06-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa4902</link>
+            <guid>2009-aa4902</guid>
+        </item>
+        
+        <item>
+            <title>HOMES AUCKLAND EAST TRUSTEE COMPANY LIMITED (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator and&lt;br/&gt;Notice of Meeting of Creditors&lt;br/&gt;Notice is hereby given that on 8 May 2009 at 9.00am, the company, in terms of section 239I of the Companies Act 1993, appointed Paul Graham Sargison, chartered accountant of Auckland,...</description>
+            <category>Notice/Issue/2009/72</category>
+            <pubDate>2009-05-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa4362</link>
+            <guid>2009-aa4362</guid>
+        </item>
+        
+        <item>
+            <title>BUILD OTAGO LIMITED (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Pursuant to Sections 239AO and 239ADW(1)(b) of the Companies Act 1993&lt;br/&gt;Notice is hereby given that Iain Andrew Nellies and Paul William Gerrard Jenkins, of Insolvency Management Limited, were appointed as joint and several administrators to the...</description>
+            <category>Notice/Issue/2009/62</category>
+            <pubDate>2009-05-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa3959</link>
+            <guid>2009-aa3959</guid>
+        </item>
+        
+        <item>
+            <title>CEA TRADING LIMITED (in receivership) (administrators appointed)</title>
+            <description>Notice of Appointment of Voluntary Administrators&lt;br/&gt;Pursuant to Sections 239AO and 239ADW(1)(b) of the Companies Act 1993&lt;br/&gt;Jeffrey Philip Meltzer and Arron Leslie Heath, chartered accountants of Meltzer Mason Heath, Auckland, were appointed voluntary administrators to the above-named company on 28 April...</description>
+            <category>Notice/Issue/2009/62</category>
+            <pubDate>2009-05-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa3849</link>
+            <guid>2009-aa3849</guid>
+        </item>
+        
+        <item>
+            <title>ESCALATOR ADVERTISING LIMITED</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Pursuant to Section 239I of the Companies Act 1993 &lt;br/&gt;Notice is hereby given that on 20 April 2009, John Joseph Cregten and Andrew John McKay, chartered accountants of Auckland, were appointed joint and several administrators of...</description>
+            <category>Notice/Issue/2009/57</category>
+            <pubDate>2009-04-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa3553</link>
+            <guid>2009-aa3553</guid>
+        </item>
+        
+        <item>
+            <title>VCOMMS LIMITED (in administration)</title>
+            <description>Notice of Appointment of Administrators and&lt;br/&gt;Notice of First Meeting of Creditors&lt;br/&gt;Pursuant to Section 239AO of the Companies Act 1993&lt;br/&gt;Notice is given that Malcolm Grant Hollis and John &lt;br/&gt;Howard Ross Fisk, chartered accountants of Christchurch and Wellington respectively, were appointed joint...</description>
+            <category>Notice/Issue/2009/48</category>
+            <pubDate>2009-04-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa3172</link>
+            <guid>2009-aa3172</guid>
+        </item>
+        
+        <item>
+            <title>NYLEX (NEW ZEALAND) LIMITED (in receivership) (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Pursuant to Section 239ADW(1)(b) of the Companies Act 1993&lt;br/&gt;I advise that Jeffrey Philip Meltzer and Michael Lamacraft, insolvency practitioners of Meltzer Mason Heath, Chartered Accountants, Auckland, were appointed administrators to the above-named company on 12 February...</description>
+            <category>Notice/Issue/2009/20</category>
+            <pubDate>2009-02-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa1466</link>
+            <guid>2009-aa1466</guid>
+        </item>
+        
+        <item>
+            <title>NYLEX ENGINEERING SYSTEMS LIMITED (in receivership) (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Pursuant to Section 239ADW(1)(b) of the Companies Act 1993&lt;br/&gt;I advise that Jeffrey Philip Meltzer and Michael Lamacraft, insolvency practitioners of Meltzer Mason Heath, Chartered Accountants, Auckland, were appointed administrators to the above-named company on 12 February...</description>
+            <category>Notice/Issue/2009/20</category>
+            <pubDate>2009-02-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-aa1467</link>
+            <guid>2009-aa1467</guid>
+        </item>
+        
+        <item>
+            <title>PNZFX Limited (formerly Photon NZFX Pty Limited)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Notice is hereby given that on 8 December 2008 &lt;br/&gt;at 6.29pm, the company, in terms of section 239I of the Companies Act 1993, appointed Paul Graham Sargison &lt;br/&gt;and Gerald Stanley Rea, chartered accountants of Auckland, as...</description>
+            <category>Notice/Issue/2008/195</category>
+            <pubDate>2008-12-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa9519</link>
+            <guid>2008-aa9519</guid>
+        </item>
+        
+        <item>
+            <title>Panimation Limited (formerly Photon Animation Limited)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Notice is hereby given that on 8 December 2008 &lt;br/&gt;at 6.29pm, the company, in terms of section 239I of the Companies Act 1993, appointed Paul Graham Sargison &lt;br/&gt;and Gerald Stanley Rea, chartered accountants of Auckland, as...</description>
+            <category>Notice/Issue/2008/195</category>
+            <pubDate>2008-12-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa9518</link>
+            <guid>2008-aa9518</guid>
+        </item>
+        
+        <item>
+            <title>Jones Publishing Limited, Top Gear NZ Limited and Dish Publishing Limited (all administrators appointed)</title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;Company Nos.: 1034251, 1605916 and 1610687 &lt;br/&gt;On 5 December 2008, the companies, under section 239I of the Companies Act 1993 (as amended), appointed Damien Grant and Steven Khov, of Waterstone Insolvency, as joint and several...</description>
+            <category>Notice/Issue/2008/192</category>
+            <pubDate>2008-12-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa9401</link>
+            <guid>2008-aa9401</guid>
+        </item>
+        
+        <item>
+            <title>The Fine Wine Delivery Company Limited (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;The Companies Act 1993&lt;br/&gt;The above-named company was placed into voluntary administration with effect from 5.00pm on 17 November 2008 by written resolution of the board of the company of even date.&lt;br/&gt;Gareth Russel Hoole and Kevin David...</description>
+            <category>Notice/Issue/2008/177</category>
+            <pubDate>2008-11-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa8790</link>
+            <guid>2008-aa8790</guid>
+        </item>
+        
+        <item>
+            <title>Orange Insurance Limited (in voluntary administration) (&quot;the company&quot;)</title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;Pursuant to Section 239AO of the Companies Act 1993&lt;br/&gt;Company No.: 1562369&lt;br/&gt;Notice is hereby given that Stephen Rex Tietjens and Laurence George Chilcott were appointed administrators&lt;br/&gt;of the company on 30 October 2008, pursuant to section 239I...</description>
+            <category>Notice/Issue/2008/169</category>
+            <pubDate>2008-11-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa8263</link>
+            <guid>2008-aa8263</guid>
+        </item>
+        
+        <item>
+            <title>CCR Christchurch Limited (trading as Cobb &amp; Co Northwood) (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Company No.: 1425223&lt;br/&gt;Notice is hereby given that on 21 October 2008, the &lt;br/&gt;above-named company appointed David Ian Ruscoe and Richard Grant Simpson as voluntary administrators of the company pursuant to section 239I of the Companies Act...</description>
+            <category>Notice/Issue/2008/164</category>
+            <pubDate>2008-10-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa7955</link>
+            <guid>2008-aa7955</guid>
+        </item>
+        
+        <item>
+            <title>Dominion Finance Holdings Limited </title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Pursuant to Section 239I of the Companies Act 1993 &lt;br/&gt;Notice is hereby given that on 16 October 2008, John Joseph Cregten and Andrew John McKay, chartered accountants, both of Auckland, were appointed joint and several administrators...</description>
+            <category>Notice/Issue/2008/162</category>
+            <pubDate>2008-10-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa7855</link>
+            <guid>2008-aa7855</guid>
+        </item>
+        
+        <item>
+            <title>OPI New Zealand Limited</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Pursuant to Section 239I of the Companies Act 1993&lt;br/&gt;Notice is hereby given that on 9 October 2008, John Joseph Cregten and Andrew John McKay, chartered accountants of Auckland, were appointed joint and several administrators of the...</description>
+            <category>Notice/Issue/2008/159</category>
+            <pubDate>2008-10-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa7662</link>
+            <guid>2008-aa7662</guid>
+        </item>
+        
+        <item>
+            <title>AMC Construction Limited and Anton Myles Contracting Limited (administrators appointed)</title>
+            <description>Notice of Appointment of Administrator&lt;br/&gt;Company Nos.: 1053359, 810342&lt;br/&gt;I, Andrew Marchel Oorschot, of Ashton Wheelans &amp;amp; Hegan, Chartered Accountants, give notice, pursuant to section 239ADW of the Companies Act 1993, that I was appointed administrator of the above-named companies by a...</description>
+            <category>Notice/Issue/2008/156</category>
+            <pubDate>2008-10-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa7495</link>
+            <guid>2008-aa7495</guid>
+        </item>
+        
+        <item>
+            <title>Prestige Engineering Limited (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator&lt;br/&gt;Notice is hereby given that on 3 September 2008, the company, in terms of section 239I of the Companies&lt;br/&gt;Act 1993, appointed Ian Matthews as administrator.&lt;br/&gt;Notice of Meetings of Creditors&lt;br/&gt;The first creditors' meeting is at 2.00pm on...</description>
+            <category>Notice/Issue/2008/141</category>
+            <pubDate>2008-09-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa6839</link>
+            <guid>2008-aa6839</guid>
+        </item>
+        
+        <item>
+            <title>A &amp; M Construction (Auckland) Limited </title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Notice is hereby given that on 20 August 2008 at 10.00am, the company, in terms of section 239I of the Companies&lt;br/&gt;Act 1993, appointed Paul Graham Sargison and John Maurice Leonard, chartered accountants of Auckland, as administrators.&lt;br/&gt;Notice...</description>
+            <category>Notice/Issue/2008/133</category>
+            <pubDate>2008-08-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa6146</link>
+            <guid>2008-aa6146</guid>
+        </item>
+        
+        <item>
+            <title>Parkside Developments Limited (administrator appointed)</title>
+            <description>Notice of Appointment of Administrator&lt;br/&gt;Company No.: 686381&lt;br/&gt;I, Andrew Marchel Oorschot, of Ashton Wheelans &amp; Hegan, Chartered Accountants, give notice, pursuant to section 239ADW of the Companies Act 1993 (as amended), that&lt;br/&gt;I was appointed administrator of the above-named company by the...</description>
+            <category>Notice/Issue/2008/114</category>
+            <pubDate>2008-07-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa4992</link>
+            <guid>2008-aa4992</guid>
+        </item>
+        
+        <item>
+            <title>North Island Metals Limited (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;Company No.: 2067851&lt;br/&gt;On 5 June 2008, the company, under section 239I of the Companies Act 1993 (as amended), appointed Damien Grant and Steven Khov, of Waterstone Insolvency, as joint administrators.&lt;br/&gt;Notice to Secured Creditors&lt;br/&gt;Notice to hereby...</description>
+            <category>Notice/Issue/2008/100</category>
+            <pubDate>2008-06-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa4183</link>
+            <guid>2008-aa4183</guid>
+        </item>
+        
+        <item>
+            <title>ICP Biotechnology Limited, ICP Holdings Limited, ICP Biologicals Limited and ICPBio Limited (all in voluntary administration) </title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;The Companies Act 1993&lt;br/&gt;The above-named companies were placed into voluntary administration with effect from 4.00pm on 14 May 2008 by written resolutions of the respective boards of the companies of even date.&lt;br/&gt;Gareth Russel Hoole and Kevin...</description>
+            <category>Notice/Issue/2008/87</category>
+            <pubDate>2008-05-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa3537</link>
+            <guid>2008-aa3537</guid>
+        </item>
+        
+        <item>
+            <title>Jewellery Distributors of New Zealand Limited and Kleins (New Zealand) Limited (both administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Pursuant to Section 239ADW of the Companies Act 1993&lt;br/&gt;(as amended)&lt;br/&gt;Company Nos.: 813813, 588341&lt;br/&gt;Notice is hereby given that we, Stephen John Tubbs and Brian Mayo-Smith, of BDO Spicers, were appointed joint administrators of the above-named companies by...</description>
+            <category>Notice/Issue/2008/84</category>
+            <pubDate>2008-05-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa3180</link>
+            <guid>2008-aa3180</guid>
+        </item>
+        
+        <item>
+            <title>Dragonfly 2007 Limited (trading as Dragonfly Café’ and Gallery) (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Pursuant to Section 239L of the Companies Act 1993&lt;br/&gt;Take notice that Bernard Spencer Montgomerie and Stuart James Cunningham, insolvency practitioners of Auckland, have been appointed administrators of Dragonfly 2007 Limited (administrators appointed).&lt;br/&gt;The administration commenced on 7...</description>
+            <category>Notice/Issue/2008/71</category>
+            <pubDate>2008-04-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa2411</link>
+            <guid>2008-aa2411</guid>
+        </item>
+        
+        <item>
+            <title>Jennian Homes North Shore Limited (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Notice is hereby given that on 28 March 2008 at 12.17pm, Paul Graham Sargison and Gerald Stanley Rea, chartered accountants of Auckland, were appointed by the Court as administrators of the company. &lt;br/&gt;Notice of Meeting of...</description>
+            <category>Notice/Issue/2008/71</category>
+            <pubDate>2008-04-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa2288</link>
+            <guid>2008-aa2288</guid>
+        </item>
+        
+        <item>
+            <title>R M S Shopfitters Limited (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Notice is hereby given that on 28 March 2008 at 10.30am, the company, in terms of section 239I of the Companies Act 1993, appointed Paul Graham Sargison and Gerald Stanley Rea, chartered accountants of Auckland, as...</description>
+            <category>Notice/Issue/2008/71</category>
+            <pubDate>2008-04-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa2289</link>
+            <guid>2008-aa2289</guid>
+        </item>
+        
+        <item>
+            <title>Swordfish Lodge Management Limited (trading as Gulf Harbour Lodge) (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Pursuant to Section 239L of the Companies Act 1993&lt;br/&gt;(as amended)&lt;br/&gt;Take notice that Bernard Spencer Montgomerie and Stuart James Cunningham, insolvency practitioners of Auckland, have been appointed administrators of Swordfish Lodge Management Limited (administrators appointed).&lt;br/&gt;The administration commenced...</description>
+            <category>Notice/Issue/2008/58</category>
+            <pubDate>2008-03-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa1599</link>
+            <guid>2008-aa1599</guid>
+        </item>
+        
+        <item>
+            <title>Phoenix Building Limited (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Pursuant to Section 239ADW of the Companies Act 1993&lt;br/&gt;(as amended)&lt;br/&gt;Company No.: 1839696&lt;br/&gt;We, Colin Anthony Gower and Stephen John Tubbs, of BDO Spicers, were appointed joint administrators of the above-named company by the company on 18 February...</description>
+            <category>Notice/Issue/2008/41</category>
+            <pubDate>2008-02-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa1166</link>
+            <guid>2008-aa1166</guid>
+        </item>
+        
+        <item>
+            <title>A.C. Mason (1997) Limited </title>
+            <description>Notice of Appointment of Administrator&lt;br/&gt;Notice is hereby given that on 19 February 2008 at 9.00am, the company, in terms of section 239I of the Companies Act 1993, appointed Paul Graham Sargison, chartered accountant of Auckland, as administrator. &lt;br/&gt;Notice of Meeting...</description>
+            <category>Notice/Issue/2008/41</category>
+            <pubDate>2008-02-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa1209</link>
+            <guid>2008-aa1209</guid>
+        </item>
+        
+        <item>
+            <title>Northern Energy Services Limited (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators &lt;br/&gt;Company No.: 1266938&lt;br/&gt;On 14 February 2008, the company, under section 239I of the Companies Act 1993 (as amended), appointed Damien Grant and Steven Khov, of Waterstone Insolvency, as joint and several administrators.&lt;br/&gt;Notice of First Meeting...</description>
+            <category>Notice/Issue/2008/31</category>
+            <pubDate>2008-02-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa1085</link>
+            <guid>2008-aa1085</guid>
+        </item>
+        
+        <item>
+            <title>Argent Networks Limited (administrators appointed) (&quot;the company&quot;)</title>
+            <description>Notification of Appointment as External Administrators&lt;br/&gt;Pursuant to Section 239I of the Companies Act 1993&lt;br/&gt;Company No.: 1147166&lt;br/&gt;Notice is hereby given that Grant Graham and Brendon Gibson, of KordaMentha, Level 16, 45 Queen Street, Auckland, were appointed administrators of the company&lt;br/&gt;on 30...</description>
+            <category>Notice/Issue/2008/17</category>
+            <pubDate>2008-02-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-aa739</link>
+            <guid>2008-aa739</guid>
+        </item>
+        
+        <item>
+            <title>ETS Instruments Limited </title>
+            <description>Notice of Appointment of Replacement Administrator&lt;br/&gt;Notice is hereby given that on the resignation of Bryan James Scott as administrator of the company, the directors, in accordance with section 239H of the Companies Act 1993, on 14 December 2007 at 11.25am,...</description>
+            <category>Notice/Issue/2007/142</category>
+            <pubDate>2007-12-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-aa8777</link>
+            <guid>2007-aa8777</guid>
+        </item>
+        
+        <item>
+            <title>Sales &amp; Promotions NZ Limited, Salepro Plastics Limited and Connect Systems Limited (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators and of a First Meeting of Creditors&lt;br/&gt;Company Nos.: 32352, 828121, 474358&lt;br/&gt;On 4 December 2007, the companies, under section 239I of the Companies Act 1993 (as amended), appointed David Stuart Vance and Henry David Levin, of...</description>
+            <category>Notice/Issue/2007/138</category>
+            <pubDate>2007-12-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-aa8492</link>
+            <guid>2007-aa8492</guid>
+        </item>
+        
+        <item>
+            <title>Icon Digital Entertainment Limited (administrators appointed)</title>
+            <description>Notice of Appointment of Administrators&lt;br/&gt;Pursuant to Section 239ADW of the Companies Act 1993&lt;br/&gt;(as amended)&lt;br/&gt;Company No.: 1836900&lt;br/&gt;We, Stephen John Tubbs, Brian Mayo-Smith and Shaun Neil Adams, all of BDO Spicers, were appointed joint administrators of the above-named company by the company...</description>
+            <category>Notice/Issue/2007/130</category>
+            <pubDate>2007-11-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-aa8115</link>
+            <guid>2007-aa8115</guid>
+        </item>
+        
+    </channel>
+</rss>

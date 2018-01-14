@@ -1,0 +1,1192 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>New Zealand Gazette Notices Feed</title>
+        <link>https://gazette.govt.nz/home/NoticeSearch?noticeType=fs</link>
+		<atom:link href="https://gazette.govt.nz/home/NoticeSearch?noticeType=fs" rel="self" type="application/rss+xml" />
+		<description>New Zealand Gazette XML feed based on search: https://gazette.govt.nz/home/NoticeSearch?noticeType=fs</description>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>&lt;p&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section &lt;span class="no-break"&gt;92(1)(g)&lt;/span&gt; of the Friendly Societies and Credit Unions Act 1982, cancelled the registration of:&lt;/p&gt;
+&lt;p class="indent" style="padding-left: 30px;"&gt;&lt;span style="color: #000000;"&gt;&lt;span class="hanging-indent"&gt;PIONEER LODGE OF...</description>
+            <category>Notice/Issue/2017/2</category>
+            <pubDate>2017-01-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-fs114</link>
+            <guid>2017-fs114</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>&lt;p&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section &lt;span class="no-break"&gt;92(1)(f)&lt;/span&gt; of the Friendly Societies and Credit Unions Act 1982, cancelled the registration of:&lt;/p&gt;
+&lt;p class="indent" style="padding-left: 30px;"&gt;&lt;span style="color: #000000;"&gt;&lt;span class="hanging-indent"&gt;ST PATRICK&amp;rsquo;S BRANCH...</description>
+            <category>Notice/Issue/2016/118</category>
+            <pubDate>2016-12-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-fs6983</link>
+            <guid>2016-fs6983</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>&lt;p&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section &lt;span class="no-break"&gt;92(1)(g)&lt;/span&gt; of the Friendly Societies and Credit Unions Act 1982, cancelled the registration of:&lt;/p&gt;
+&lt;p class="indent" style="padding-left: 30px;"&gt;&lt;span style="color: #000000;"&gt;&lt;span class="hanging-indent"&gt;LILY OF RICHMOND...</description>
+            <category>Notice/Issue/2016/101</category>
+            <pubDate>2016-11-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-fs6317</link>
+            <guid>2016-fs6317</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>&lt;p&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section &lt;span class="no-break"&gt;92(1)(f)&lt;/span&gt; of the Friendly Societies and Credit Unions Act 1982, cancelled the registration of:&lt;/p&gt;
+&lt;p class="indent" style="padding-left: 30px;"&gt;&lt;span class="hanging-indent"&gt;IMMACULATE CONCEPTION BRANCH &lt;span class="no-break"&gt;NO...</description>
+            <category>Notice/Issue/2016/63</category>
+            <pubDate>2016-07-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-fs4047</link>
+            <guid>2016-fs4047</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>&lt;p style="text-align: left;"&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section &lt;span class="no-break"&gt;92(1)(g)&lt;/span&gt; of the Friendly Societies and Credit Unions Act 1982, cancelled the registration of:&lt;/p&gt;
+&lt;p class="indent" style="padding-left: 30px; text-align: left;"&gt;&lt;span class="hanging-indent"&gt;IVY...</description>
+            <category>Notice/Issue/2016/34</category>
+            <pubDate>2016-04-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-fs2156</link>
+            <guid>2016-fs2156</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>&lt;p&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section &lt;span class="no-break"&gt;92(1)(g)&lt;/span&gt; of the Friendly Societies and Credit Unions Act 1982, cancelled the registration of:&lt;/p&gt;
+&lt;p class="indent" style="padding-left: 30px;"&gt;&lt;span class="hanging-indent"&gt;MISTLETOE LODGE OF THE DRUIDS...</description>
+            <category>Notice/Issue/2016/29</category>
+            <pubDate>2016-04-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-fs1791</link>
+            <guid>2016-fs1791</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>&lt;p style="text-align: left;"&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section &lt;span class="no-break"&gt;92(1)(g)&lt;/span&gt; of the Friendly Societies and Credit Unions Act 1982, cancelled the registration of:&lt;/p&gt;
+&lt;p class="indent" style="padding-left: 30px; text-align: left;"&gt;&lt;span class="hanging-indent"&gt;ANCHOR...</description>
+            <category>Notice/Issue/2016/5</category>
+            <pubDate>2016-01-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-fs366</link>
+            <guid>2016-fs366</guid>
+        </item>
+        
+        <item>
+            <title>DRUIDS FRIENDLY SOCIETY OF CANTERBURY NZ</title>
+            <description>&lt;h2 class="gaz-heading-2" style="text-align: left;"&gt;Advertisement of Dissolution&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for...</description>
+            <category>Notice/Issue/2015/101</category>
+            <pubDate>2015-09-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-fs5412</link>
+            <guid>2015-fs5412</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>&lt;p style="text-align: justify;"&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section &lt;span class="no-break"&gt;92(1)(f)&lt;/span&gt; of the Friendly Societies and Credit Unions Act 1982, cancelled the registration of the following friendly societies:&lt;/p&gt;
+&lt;p class="indent" style="padding-left:...</description>
+            <category>Notice/Issue/2015/101</category>
+            <pubDate>2015-09-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-fs5411</link>
+            <guid>2015-fs5411</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>&lt;p style="text-align: justify;"&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section &lt;span class="no-break"&gt;140(1)(g)&lt;/span&gt; of the Friendly Societies and Credit Unions Act 1982, cancelled the registration of CHRISTCHURCH EMERGENCY SERVICES CREDIT UNION (1802871).&lt;/p&gt;
+&lt;p...</description>
+            <category>Notice/Issue/2015/20</category>
+            <pubDate>2015-03-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-fs1134</link>
+            <guid>2015-fs1134</guid>
+        </item>
+        
+        <item>
+            <title>INDEPENDENT ORDER OF ODD FELLOWS OF NEW ZEALAND FRIENDLY SOCIETY</title>
+            <description>&lt;h2 class="gaz-heading-2"&gt;Advertisement of Dissolution&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span&gt;Notice is hereby given that the Registrar of Friendly Societies and &lt;/span&gt;&lt;span class="no-break"&gt;Credit U&lt;/span&gt;&lt;span&gt;nions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for &lt;/span&gt;INDEPENDENT...</description>
+            <category>Notice/Issue/2014/148</category>
+            <pubDate>2014-12-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-fs7503</link>
+            <guid>2014-fs7503</guid>
+        </item>
+        
+        <item>
+            <title>FULTON HOGAN (CANTERBURY) COLLECTIVE BENEVOLENT ORGANISATION</title>
+            <description>&lt;h2 class="gaz-heading-2" style="text-align: justify;"&gt;Advertisement of Dissolution&lt;/h2&gt;
+&lt;p style="text-align: justify;"&gt;Notice is hereby given that the Registrar of Friendly Societies and &lt;span class="no-break"&gt;Credit U&lt;/span&gt;nions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution...</description>
+            <category>Notice/Issue/2014/132</category>
+            <pubDate>2014-10-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-fs6624</link>
+            <guid>2014-fs6624</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section &lt;br/&gt;92(1)(f) of the Friendly Societies and Credit Unions Act 1982, cancelled the registration of the following branches of the dissolved UNITY OTAGO FRIENDLY...</description>
+            <category>Notice/Issue/2014/96</category>
+            <pubDate>2014-08-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-fs5052</link>
+            <guid>2014-fs5052</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92(1)(d) of the Friendly Societies and Credit Unions Act 1982 (by virtue of section 140), cancelled the registration of:&lt;br/&gt;CREDIT UNION NEW ZEALAND 1931986....</description>
+            <category>Notice/Issue/2013/68</category>
+            <pubDate>2013-05-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-fs3171</link>
+            <guid>2013-fs3171</guid>
+        </item>
+        
+        <item>
+            <title>DRUIDS NAUMAI LODGE FRIENDLY SOCIETY</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for DRUIDS NAUMAI LODGE FRIENDLY SOCIETY...</description>
+            <category>Notice/Issue/2013/64</category>
+            <pubDate>2013-05-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-fs3078</link>
+            <guid>2013-fs3078</guid>
+        </item>
+        
+        <item>
+            <title>ASHBURTON UNITED FRIENDLY SOCIETIES DISPENSARY (1803014)</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 &lt;br/&gt;of the Friendly Societies and Credit Unions Act 1982, &lt;br/&gt;register an instrument of dissolution for the ASHBURTON UNITED FRIENDLY SOCIETIES...</description>
+            <category>Notice/Issue/2012/147</category>
+            <pubDate>2012-12-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-fs7969</link>
+            <guid>2012-fs7969</guid>
+        </item>
+        
+        <item>
+            <title>MANCHESTER UNITY FRIENDLY SOCIETY (1802899)</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for the Auckland District of &lt;br/&gt;the...</description>
+            <category>Notice/Issue/2012/131</category>
+            <pubDate>2012-11-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-fs7008</link>
+            <guid>2012-fs7008</guid>
+        </item>
+        
+        <item>
+            <title>COURT HERETAUNGA (1802946) </title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for COURT HERETAUNGA (Hawkes Bay Foresters...</description>
+            <category>Notice/Issue/2012/120</category>
+            <pubDate>2012-09-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-fs6102</link>
+            <guid>2012-fs6102</guid>
+        </item>
+        
+        <item>
+            <title>COURT RUAHINE (1802945) </title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for COURT RUAHINE (Hawkes Bay Foresters...</description>
+            <category>Notice/Issue/2012/120</category>
+            <pubDate>2012-09-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-fs6103</link>
+            <guid>2012-fs6103</guid>
+        </item>
+        
+        <item>
+            <title>COURT SIR HENRY HAVELOCK (1802944) </title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register &lt;br/&gt;an instrument of dissolution for COURT SIR HENRY HAVELOCK (Hawkes...</description>
+            <category>Notice/Issue/2012/120</category>
+            <pubDate>2012-09-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-fs6104</link>
+            <guid>2012-fs6104</guid>
+        </item>
+        
+        <item>
+            <title>HAWKES BAY FORESTERS FRIENDLY SOCIETY</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section &lt;br/&gt;94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for HAWKES BAY FORESTERS FRIENDLY SOCIETY...</description>
+            <category>Notice/Issue/2012/73</category>
+            <pubDate>2012-06-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-fs3871</link>
+            <guid>2012-fs3871</guid>
+        </item>
+        
+        <item>
+            <title>ASHLEY DISTRICT OF THE MANCHESTER UNITY FRIENDLY SOCIETY</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section &lt;br/&gt;94 of the Friendly Societies and Credit Unions Act &lt;br/&gt;1982, register an instrument of dissolution for ASHLEY DISTRICT OF THE MANCHESTER...</description>
+            <category>Notice/Issue/2012/40</category>
+            <pubDate>2012-04-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-fs2062</link>
+            <guid>2012-fs2062</guid>
+        </item>
+        
+        <item>
+            <title>UNITY OTAGO FRIENDLY SOCIETY</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section &lt;br/&gt;94 of the Friendly Societies and Credit Unions Act &lt;br/&gt;1982, register an instrument of dissolution for UNITY OTAGO FRIENDLY SOCIETY unless,...</description>
+            <category>Notice/Issue/2012/40</category>
+            <pubDate>2012-04-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-fs2063</link>
+            <guid>2012-fs2063</guid>
+        </item>
+        
+        <item>
+            <title>HIBERNIAN CREDIT UNION (in liquidation)</title>
+            <description>Notice of Appointment of Liquidators and&lt;br/&gt;Notice to Creditors to Claim&lt;br/&gt;Jeremy Michael Morley and John Howard Ross Fisk, chartered accountants of Wellington, were appointed joint and several liquidators of HIBERNIAN CREDIT UNION (in liquidation), pursuant to the terms of the Friendly...</description>
+            <category>Notice/Issue/2012/11</category>
+            <pubDate>2012-02-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-fs438</link>
+            <guid>2012-fs438</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92(1)(g) of the Friendly Societies and Credit Unions Act 1982, and at the request of the society, cancelled the registration of:&lt;br/&gt;CHRISTCHURCH WORKING MEN’S...</description>
+            <category>Notice/Issue/2011/0</category>
+            <pubDate>2011-12-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-fs8486</link>
+            <guid>2011-fs8486</guid>
+        </item>
+        
+        <item>
+            <title>DRUIDS FRIENDLY SOCIETY OF CANTERBURY NZ CREDIT UNION (1802883)</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 140 &lt;br/&gt;of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for DRUIDS FRIENDLY SOCIETY OF CANTERBURY...</description>
+            <category>Notice/Issue/2011/173</category>
+            <pubDate>2011-11-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-fs7894</link>
+            <guid>2011-fs7894</guid>
+        </item>
+        
+        <item>
+            <title>HIBERNIAN CREDIT UNION</title>
+            <description>Notice of Direction to Suspend Business&lt;br/&gt;Friendly Societies and Credit Union Act 1982&lt;br/&gt;The Registrar of Friendly Societies and Credit Unions gives notice that a direction has been given to the HIBERNIAN CREDIT UNION under section 139 of the Friendly Societies and...</description>
+            <category>Notice/Issue/2011/105</category>
+            <pubDate>2011-07-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-fs4682</link>
+            <guid>2011-fs4682</guid>
+        </item>
+        
+        <item>
+            <title>I.O.O.F. CREDIT UNION (1802894)</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 140 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for I.O.O.F. CREDIT UNION unless, within...</description>
+            <category>Notice/Issue/2011/57</category>
+            <pubDate>2011-04-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-fs2722</link>
+            <guid>2011-fs2722</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92(1)(g) of the Friendly Societies and Credit Unions Act 1982, and at the request of the society, cancelled the registration of:&lt;br/&gt;COURT RODERICK DHU...</description>
+            <category>Notice/Issue/2011/5</category>
+            <pubDate>2011-01-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-fs280</link>
+            <guid>2011-fs280</guid>
+        </item>
+        
+        <item>
+            <title>WANGANUI DISTRICT OF THE MANCHESTER UNITY FRIENDLY SOCIETY</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for WANGANUI DISTRICT OF THE MANCHESTER...</description>
+            <category>Notice/Issue/2010/76</category>
+            <pubDate>2010-07-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-fs4910</link>
+            <guid>2010-fs4910</guid>
+        </item>
+        
+        <item>
+            <title>ASSOCIATION OF MANCHESTER UNITY CREDIT UNIONS </title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Friendly Societies and Credit Unions Act 1982&lt;br/&gt;No.: 1802893&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 &lt;br/&gt;of the Friendly Societies and Credit Unions Act 1982, register an instrument of...</description>
+            <category>Notice/Issue/2010/29</category>
+            <pubDate>2010-03-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-fs1837</link>
+            <guid>2010-fs1837</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to sections 92(1)(g) and 140 of the Friendly Societies and Credit Unions Act 1982, and at the request of the association, cancelled the registration of:&lt;br/&gt;NATIONAL...</description>
+            <category>Notice/Issue/2010/25</category>
+            <pubDate>2010-03-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-fs1550</link>
+            <guid>2010-fs1550</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>Notice is also hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92(1)(g) of the Friendly Societies and Credit Unions Act 1982, and at the request of the society, cancelled the registration of:&lt;br/&gt;THE BLUFF...</description>
+            <category>Notice/Issue/2009/135</category>
+            <pubDate>2009-09-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-fs7436</link>
+            <guid>2009-fs7436</guid>
+        </item>
+        
+        <item>
+            <title>NATIONAL ASSOCIATION OF CREDIT UNIONS </title>
+            <description>Notice of Registration&lt;br/&gt;No.: 2235687&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions, pursuant to Part III of the Friendly Societies and Credit Unions Act 1982, registered on 11 May 2009 the NATIONAL ASSOCIATION OF CREDIT UNIONS...</description>
+            <category>Notice/Issue/2009/72</category>
+            <pubDate>2009-05-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-fs4306</link>
+            <guid>2009-fs4306</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92(1)(g) of the Friendly Societies and Credit Unions Act 1982, and at the request of the societies, cancelled the registration of the following:...</description>
+            <category>Notice/Issue/2009/35</category>
+            <pubDate>2009-03-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-fs2431</link>
+            <guid>2009-fs2431</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration</title>
+            <description>Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92(1)(c) of the Friendly Societies and Credit Unions Act 1982, cancelled the registration of the friendly societies and the credit union listed below...</description>
+            <category>Notice/Issue/2009/35</category>
+            <pubDate>2009-03-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-fs2427</link>
+            <guid>2009-fs2427</guid>
+        </item>
+        
+        <item>
+            <title>Suspension of Registration</title>
+            <description>Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section &lt;br/&gt;92(1)(c) of the Friendly Societies and Credit Unions Act 1982, suspended for 3 months the registration of the society listed below because they...</description>
+            <category>Notice/Issue/2009/35</category>
+            <pubDate>2009-03-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-fs2428</link>
+            <guid>2009-fs2428</guid>
+        </item>
+        
+        <item>
+            <title>COURT ROBIN HOOD NO. 3930 ANCIENT ORDER OF FORESTERS </title>
+            <description>Advertisement of Dissolution&lt;br/&gt;No.: 1802958&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for COURT ROBIN HOOD NO....</description>
+            <category>Notice/Issue/2009/35</category>
+            <pubDate>2009-03-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-fs2426</link>
+            <guid>2009-fs2426</guid>
+        </item>
+        
+        <item>
+            <title>Court Raleigh Ancient Order of Foresters No. 6246</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94&lt;br/&gt;of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for Court Raleigh Ancient Order of Foresters...</description>
+            <category>Notice/Issue/2007/69</category>
+            <pubDate>2007-06-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-fs4116</link>
+            <guid>2007-fs4116</guid>
+        </item>
+        
+        <item>
+            <title>North Canterbury District of the Manchester Unity Friendly Society</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for North Canterbury District of the...</description>
+            <category>Notice/Issue/2007/69</category>
+            <pubDate>2007-06-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-fs4115</link>
+            <guid>2007-fs4115</guid>
+        </item>
+        
+        <item>
+            <title>Pride of Oamaru Ancient Order of Foresters</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Society No.: 1802953&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92(1)(g) of the Friendly Societies and Credit Unions Act 1982, cancelled the registration of the friendly society Pride of...</description>
+            <category>Notice/Issue/2007/61</category>
+            <pubDate>2007-06-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-fs3772</link>
+            <guid>2007-fs3772</guid>
+        </item>
+        
+        <item>
+            <title>North Otago United Friendly Societies Dispensary</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for North Otago United Friendly Societies...</description>
+            <category>Notice/Issue/2007/7</category>
+            <pubDate>2007-01-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-fs457</link>
+            <guid>2007-fs457</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Cancellation of Registration</title>
+            <description>Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 91 (1) (f) of the Friendly Societies and Credit Unions Act 1982, on the 7th day of November 2005, cancelled the registration of...</description>
+            <category>Notice/Issue/2005/193</category>
+            <pubDate>2005-11-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-fs7582</link>
+            <guid>2005-fs7582</guid>
+        </item>
+        
+        <item>
+            <title>Dannevirke United Friendly Societies Dispensary</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for Dannevirke United Friendly Societies Dispensary...</description>
+            <category>Notice/Issue/2005/161</category>
+            <pubDate>2005-09-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-fs6168</link>
+            <guid>2005-fs6168</guid>
+        </item>
+        
+        <item>
+            <title>Court Southern Star of the Ancient Order</title>
+            <description>of Foresters&lt;br/&gt;Advertisement of Instrument of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for Court Southern...</description>
+            <category>Notice/Issue/2005/154</category>
+            <pubDate>2005-09-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-fs5857</link>
+            <guid>2005-fs5857</guid>
+        </item>
+        
+        <item>
+            <title>Court Thistle of the Forest Ancient Order</title>
+            <description>of Foresters&lt;br/&gt;Advertisement of Instrument of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for Court Thistle...</description>
+            <category>Notice/Issue/2005/73</category>
+            <pubDate>2005-04-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-fs2510</link>
+            <guid>2005-fs2510</guid>
+        </item>
+        
+        <item>
+            <title>The Institution of Professional Engineers </title>
+            <description>New Zealand (Benevolent Society)&lt;br/&gt;Notice of Dissolution of Incorporated Society&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 &lt;br/&gt;of the Friendly Societies and Credit Unions Act 1982, &lt;br/&gt;register an instrument of dissolution...</description>
+            <category>Notice/Issue/2004/160</category>
+            <pubDate>2004-12-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-fs8183</link>
+            <guid>2004-fs8183</guid>
+        </item>
+        
+        <item>
+            <title>Druids of New Zealand Northern Jurisdiction 1999 Murchison Lodge No. 86</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for Druids Murchison Lodge...</description>
+            <category>Notice/Issue/2004/121</category>
+            <pubDate>2004-09-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-fs6106</link>
+            <guid>2004-fs6106</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Cancellation of Registration</title>
+            <description>Section 92 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the registration of New Zealand Medical Insurance Fund, registered number 37/000, has been cancelled pursuant to section 92 (1) (f) of the Friendly Societies and...</description>
+            <category>Notice/Issue/2004/111</category>
+            <pubDate>2004-09-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-fs5731</link>
+            <guid>2004-fs5731</guid>
+        </item>
+        
+        <item>
+            <title>Court Waireka Ancient Order of Foresters (A.O.F.) No. 4925</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for Court Waireka A.O.F....</description>
+            <category>Notice/Issue/2004/101</category>
+            <pubDate>2004-08-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-fs5514</link>
+            <guid>2004-fs5514</guid>
+        </item>
+        
+        <item>
+            <title>Wanganui Catholic Credit Union (66/520)</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution for Wanganui Catholic Credit...</description>
+            <category>Notice/Issue/2004/93</category>
+            <pubDate>2004-07-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-fs4995</link>
+            <guid>2004-fs4995</guid>
+        </item>
+        
+        <item>
+            <title>Otago &amp; Southland United Ancient Order of Druids (U.A.O.D.): Acorn Lodge No. 4</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit...</description>
+            <category>Notice/Issue/2003/1</category>
+            <pubDate>2003-01-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2003-fs365</link>
+            <guid>2003-fs365</guid>
+        </item>
+        
+        <item>
+            <title>Bluff UFS Dispensary (40/041)</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit...</description>
+            <category>Notice/Issue/2002/168</category>
+            <pubDate>2002-11-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-fs7792</link>
+            <guid>2002-fs7792</guid>
+        </item>
+        
+        <item>
+            <title>Grand Lodge of Otago &amp; Southland United Ancient Order of Druids (U.A.O.D.), Lily of the Valley Lodge No. 11 U.A.O.D., West Harbour Lodge No. 6 U.A.O.D., All Nations Lodge No. 20 U.A.O.D.</title>
+            <description>and Endeavour Lodge No. 7 U.A.O.D.&lt;br/&gt;Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will register an instrument of dissolution...</description>
+            <category>Notice/Issue/2002/135</category>
+            <pubDate>2002-09-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-fs6161</link>
+            <guid>2002-fs6161</guid>
+        </item>
+        
+        <item>
+            <title>United Otago District Ancient Order of Foresters: Court Southern No. 9298</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit...</description>
+            <category>Notice/Issue/2002/76</category>
+            <pubDate>2002-07-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-fs4434</link>
+            <guid>2002-fs4434</guid>
+        </item>
+        
+        <item>
+            <title>United Otago District Ancient Order of Foresters: Court Royal Oak No. 6532</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit...</description>
+            <category>Notice/Issue/2002/76</category>
+            <pubDate>2002-07-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-fs4437</link>
+            <guid>2002-fs4437</guid>
+        </item>
+        
+        <item>
+            <title>United Otago District Ancient Order of Foresters: Court St Andrews No. 6127</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit...</description>
+            <category>Notice/Issue/2002/41</category>
+            <pubDate>2002-04-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-fs2660</link>
+            <guid>2002-fs2660</guid>
+        </item>
+        
+        <item>
+            <title>Wanganui Health Services Credit Union</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit...</description>
+            <category>Notice/Issue/2002/31</category>
+            <pubDate>2002-04-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-fs2233</link>
+            <guid>2002-fs2233</guid>
+        </item>
+        
+        <item>
+            <title>Canterbury Foresters Friendly Society</title>
+            <description>Court Woodford&lt;br/&gt;Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and...</description>
+            <category>Notice/Issue/2001/149</category>
+            <pubDate>2001-11-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-fs7597</link>
+            <guid>2001-fs7597</guid>
+        </item>
+        
+        <item>
+            <title>United Otago District Ancient Order of Foresters Court Pride of Green Island No. 8613</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will register an instrument of dissolution of Court Pride of Green...</description>
+            <category>Notice/Issue/2001/132</category>
+            <pubDate>2001-09-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-fs6788</link>
+            <guid>2001-fs6788</guid>
+        </item>
+        
+        <item>
+            <title>Canterbury Foresters Friendly Society</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit...</description>
+            <category>Notice/Issue/2001/124</category>
+            <pubDate>2001-09-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-fs6320</link>
+            <guid>2001-fs6320</guid>
+        </item>
+        
+        <item>
+            <title>United Otago District Ancient Order of Foresters: Court Excelsior No. 6128 A.O.F., Court Littlejohn No. 6837 A.O.F., Court Robin Hood No. 3991 A.O.F., Court Pride of Dunedin No. 3780 A.O.F., Court Woodlands Pride No. 8041 A.O.F. and Court Pride of the Leith No. 3992 A.O.F.</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will register an instrument of dissolution for the above-named branches of...</description>
+            <category>Notice/Issue/2001/124</category>
+            <pubDate>2001-09-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-fs6469</link>
+            <guid>2001-fs6469</guid>
+        </item>
+        
+        <item>
+            <title>United Otago District Ancient Order of Foresters Court Marion No. 8476 A.O.F.</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will register an instrument&lt;br/&gt;of dissolution of United Otago District Ancient Order...</description>
+            <category>Notice/Issue/2001/109</category>
+            <pubDate>2001-08-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-fs5977</link>
+            <guid>2001-fs5977</guid>
+        </item>
+        
+        <item>
+            <title>Scallop Credit Union</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will register an instrument of dissolution of Scallop Credit Union unless,...</description>
+            <category>Notice/Issue/2001/97</category>
+            <pubDate>2001-08-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-fs5896</link>
+            <guid>2001-fs5896</guid>
+        </item>
+        
+        <item>
+            <title>Karamea Medical Association</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will register an instrument of dissolution of the Karamea Medical Association...</description>
+            <category>Notice/Issue/2001/97</category>
+            <pubDate>2001-08-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-fs5911</link>
+            <guid>2001-fs5911</guid>
+        </item>
+        
+        <item>
+            <title>United Otago District Ancient Order of Foresters</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit...</description>
+            <category>Notice/Issue/2001/66</category>
+            <pubDate>2001-06-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-fs4395</link>
+            <guid>2001-fs4395</guid>
+        </item>
+        
+        <item>
+            <title>The Five Star Credit Union</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit...</description>
+            <category>Notice/Issue/2001/64</category>
+            <pubDate>2001-06-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-fs4228</link>
+            <guid>2001-fs4228</guid>
+        </item>
+        
+        <item>
+            <title>Canterbury Foresters Credit Union</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit...</description>
+            <category>Notice/Issue/2001/57</category>
+            <pubDate>2001-06-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-fs3897</link>
+            <guid>2001-fs3897</guid>
+        </item>
+        
+        <item>
+            <title>Waiheke Credit Union</title>
+            <description>Public Notice of Revocation of Suspension of Business&lt;br/&gt;Pursuant to Section 139 (8) of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Notice of Suspension of Business dated the 7th day of December 2000 has today...</description>
+            <category>Notice/Issue/2001/1</category>
+            <pubDate>2001-01-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-fs308</link>
+            <guid>2001-fs308</guid>
+        </item>
+        
+        <item>
+            <title>Waiheke Credit Union</title>
+            <description>Public Notice of Suspension of Business&lt;br/&gt;Pursuant to Section 139 (1) of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the business of the above-named credit union has today been suspended.&lt;br/&gt;The reason for the suspension is that...</description>
+            <category>Notice/Issue/2000/0</category>
+            <pubDate>2000-12-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-fs9194</link>
+            <guid>2000-fs9194</guid>
+        </item>
+        
+        <item>
+            <title>Union Care Credit Union (formerly The Post Office Investment Society Limited)</title>
+            <description>Revocation of Exemptions &lt;br/&gt;Under Section 160 (7) of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Pursuant to section 160 (7) of the Friendly Societies and Credit Unions Act 1982 ("the Act"), I hereby revoke the exemptions granted to Union Care...</description>
+            <category>Notice/Issue/2000/132</category>
+            <pubDate>2000-09-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-fs7033</link>
+            <guid>2000-fs7033</guid>
+        </item>
+        
+        <item>
+            <title>Harbours and Health Credit Union</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit...</description>
+            <category>Notice/Issue/2000/132</category>
+            <pubDate>2000-09-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-fs6972</link>
+            <guid>2000-fs6972</guid>
+        </item>
+        
+        <item>
+            <title>Waimate Savings Club</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and&lt;br/&gt;Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions...</description>
+            <category>Notice/Issue/2000/78</category>
+            <pubDate>2000-07-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-fs4905</link>
+            <guid>2000-fs4905</guid>
+        </item>
+        
+        <item>
+            <title>Court Star of Dunsandel</title>
+            <description>Advertisement of Instrument of Dissolution&lt;br/&gt;Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to Section 94 of the Friendly Societies and Credit...</description>
+            <category>Notice/Issue/2000/49</category>
+            <pubDate>2000-05-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-fs3167</link>
+            <guid>2000-fs3167</guid>
+        </item>
+        
+        <item>
+            <title>Bay of Plenty Power Board Credit Union 66/556</title>
+            <description>Advertisement of Dissolution&lt;br/&gt;Pursuant to Section 94&lt;br/&gt;Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution of Bay of...</description>
+            <category>Notice/Issue/2000/7</category>
+            <pubDate>2000-01-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-fs568</link>
+            <guid>2000-fs568</guid>
+        </item>
+        
+        <item>
+            <title>New Zealand District No. 84 Independent Order of Rechabites Advertisement...</title>
+            <description>New Zealand District No. 84 Independent Order of Rechabites Advertisement of Dissolution Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982 Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-09-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-fs6652</link>
+            <guid>1999-fs6652</guid>
+        </item>
+        
+        <item>
+            <title>Rotorua Lodge No. 80 United Ancient Order of Druids Advertisement...</title>
+            <description>Rotorua Lodge No. 80 United Ancient Order of Druids Advertisement of Dissolution Pursuant to Section 94 Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-08-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-fs5556</link>
+            <guid>1999-fs5556</guid>
+        </item>
+        
+        <item>
+            <title>Court Stratford A.O.F. No. 7302 Advertisement of Dissolution Pursuant to...</title>
+            <description>Court Stratford A.O.F. No. 7302 Advertisement of Dissolution Pursuant to Section 94 Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-06-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-fs4374</link>
+            <guid>1999-fs4374</guid>
+        </item>
+        
+        <item>
+            <title>Marlborough Hospital &amp; Districts Credit Union Advertisement of Dissolution Pursuant...</title>
+            <description>Marlborough Hospital &amp;amp; Districts Credit Union Advertisement of Dissolution Pursuant to Section 94 Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982,...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-06-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-fs4150</link>
+            <guid>1999-fs4150</guid>
+        </item>
+        
+        <item>
+            <title>Dow Elanco (N.Z.) Limited Credit Union Advertisement of Dissolution Pursuant...</title>
+            <description>Dow Elanco (N.Z.) Limited Credit Union Advertisement of Dissolution Pursuant to Section 94 Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982,...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-06-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-fs4152</link>
+            <guid>1999-fs4152</guid>
+        </item>
+        
+        <item>
+            <title>Court Taranaki A.O.F. No. 4356 Taranaki Foresters Friendly Society Advertisement...</title>
+            <description>Court Taranaki A.O.F. No. 4356 Taranaki Foresters Friendly Society Advertisement of Dissolution Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982 Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-05-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-fs3408</link>
+            <guid>1999-fs3408</guid>
+        </item>
+        
+        <item>
+            <title>Auckland Lodge No. 2 U.A.O.D. Advertisement of Dissolution Pursuant to...</title>
+            <description>Auckland Lodge No. 2 U.A.O.D. Advertisement of Dissolution Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982 Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-05-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-fs3244</link>
+            <guid>1999-fs3244</guid>
+        </item>
+        
+        <item>
+            <title>New Zealand Medical Insurance Fund Friendly Society Registered Pursuant to...</title>
+            <description>New Zealand Medical Insurance Fund Friendly Society Registered Pursuant to Section 17 of the Friendly Societies and the Credit Unions Act 1982  New Zealand Medical Insurance Fund is registered as a friendly society under Part II of the Act....</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-04-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-fs3131</link>
+            <guid>1999-fs3131</guid>
+        </item>
+        
+        <item>
+            <title>Canterbury Foresters Friendly Society Court Pride of Courtenay Advertisement of...</title>
+            <description>Canterbury Foresters Friendly Society Court Pride of Courtenay Advertisement of Dissolution Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982 Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-04-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-fs2354</link>
+            <guid>1999-fs2354</guid>
+        </item>
+        
+        <item>
+            <title>Taranaki Foresters Friendly Society Advertisement of Dissolution Pursuant to Section...</title>
+            <description>Taranaki Foresters Friendly Society Advertisement of Dissolution Pursuant to Section 94 of the Friendly Societies and Credit Unions Act 1982 Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-04-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-fs2357</link>
+            <guid>1999-fs2357</guid>
+        </item>
+        
+        <item>
+            <title>Hawkes Bay District Manchester Unity Friendly Society Advertisement of Dissolution...</title>
+            <description>Hawkes Bay District Manchester Unity Friendly Society Advertisement of Dissolution Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-03-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-fs1867</link>
+            <guid>1999-fs1867</guid>
+        </item>
+        
+        <item>
+            <title>New Zealand Waterfront Workers Union Napier Branch Benevolent Society Advertisement...</title>
+            <description>New Zealand Waterfront Workers Union Napier Branch Benevolent Society Advertisement of Dissolution Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-03-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-fs1866</link>
+            <guid>1999-fs1866</guid>
+        </item>
+        
+        <item>
+            <title>Transfer of Friendly Societies and Credit Unions Registry Office Notice...</title>
+            <description>Transfer of Friendly Societies and Credit Unions Registry Office Notice is hereby given that the Registry Office maintained by the Registrar of Friendly Societies and Credit Unions pursuant to section 5 (1) of the Friendly Societies and Credit Unions Act...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-09-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-fs6623</link>
+            <guid>1998-fs6623</guid>
+        </item>
+        
+        <item>
+            <title>St Joseph&#039;s Branch No. 1031 Cancellation of Registration Notice is...</title>
+            <description>St Joseph's Branch No. 1031 Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (f) of the Friendly Societies and Credit Unions Act 1982, on the 28th...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-09-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-fs6298</link>
+            <guid>1998-fs6298</guid>
+        </item>
+        
+        <item>
+            <title>Totara Lodge Advertisement of Dissolution Notice is hereby given that...</title>
+            <description>Totara Lodge Advertisement of Dissolution Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution of Totara Lodge,...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-08-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-fs6015</link>
+            <guid>1998-fs6015</guid>
+        </item>
+        
+        <item>
+            <title>Whangarei Lodge Cancellation of Registration Notice is hereby given that...</title>
+            <description>Whangarei Lodge Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (g) of the Friendly Societies and Credit Unions Act 1982, on the 11th day of August...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-08-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-fs5785</link>
+            <guid>1998-fs5785</guid>
+        </item>
+        
+        <item>
+            <title>Fulton Hogan (Canterbury) Collective Benevolent Organisation Benevolent Society Registered Pursuant...</title>
+            <description>Fulton Hogan (Canterbury) Collective Benevolent Organisation Benevolent Society Registered Pursuant to section 17 of the Friendly Societies and Credit Unions Act 1982, Fulton Hogan (Canterbury) Collective Benevolent Organisation is registered as a benevolent society under Part II of the Act....</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-08-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-fs5836</link>
+            <guid>1998-fs5836</guid>
+        </item>
+        
+        <item>
+            <title>Auckland Regional Staff Friendly Society Cancellation of Registration Notice is...</title>
+            <description>Auckland Regional Staff Friendly Society Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (c) of the Friendly Societies and Credit Unions Act 1982, on the 22nd...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-07-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-fs5260</link>
+            <guid>1998-fs5260</guid>
+        </item>
+        
+        <item>
+            <title>Newmarket Workingmen&#039;s Club Cancellation of Registration Notice is hereby given...</title>
+            <description>Newmarket Workingmen's Club Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (c) of the Friendly Societies and Credit Unions Act 1982, on 23 June 1998, cancelled...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-07-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-fs4489</link>
+            <guid>1998-fs4489</guid>
+        </item>
+        
+        <item>
+            <title>Wellington Municipal Employees&#039; Benefit Society Advertisement of Dissolution Notice is...</title>
+            <description>Wellington Municipal Employees' Benefit Society Advertisement of Dissolution Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-07-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-fs4490</link>
+            <guid>1998-fs4490</guid>
+        </item>
+        
+        <item>
+            <title>Star of the West Lodge Notice of Cancellation of Registration...</title>
+            <description>Star of the West Lodge Notice of Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (g) of the Friendly Societies and Credit Unions Act 1982, on...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-06-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-fs4243</link>
+            <guid>1998-fs4243</guid>
+        </item>
+        
+        <item>
+            <title>Davis Staff Benevolent Society Cancellation of Registration Notice is hereby...</title>
+            <description>Davis Staff Benevolent Society Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (g) of the Friendly Societies and Credit Unions Act 1982, on the 22nd day...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-06-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-fs3676</link>
+            <guid>1998-fs3676</guid>
+        </item>
+        
+        <item>
+            <title>Wellington Amalgamated Watersiders&#039; Benefit Society Advertisement of Dissolution Notice is...</title>
+            <description>Wellington Amalgamated Watersiders' Benefit Society Advertisement of Dissolution Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-05-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-fs3269</link>
+            <guid>1998-fs3269</guid>
+        </item>
+        
+        <item>
+            <title>Credit Union Wairarapa Suspension of Business Under the provisions of...</title>
+            <description>Credit Union Wairarapa Suspension of Business Under the provisions of section 139 (1) of the Friendly Societies and Credit Unions Act 1982, the Registrar of Friendly Societies and Credit Unions has prohibited Credit Union Wairarapa from: Borrowing money; Accepting any...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-12-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-fs8633</link>
+            <guid>1997-fs8633</guid>
+        </item>
+        
+        <item>
+            <title>Taharoa Credit Union Advertisement of Dissolution Notice is hereby given...</title>
+            <description>Taharoa Credit Union Advertisement of Dissolution Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to sections 140 and 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-11-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-fs7963</link>
+            <guid>1997-fs7963</guid>
+        </item>
+        
+        <item>
+            <title>Far North Credit Union Suspension of Business Under the provisions...</title>
+            <description>Far North Credit Union Suspension of Business Under the provisions of section 139 (1) of the Friendly Societies and Credit Unions Act 1982, the Registrar of Friendly Societies and Credit Unions has prohibited Far North Credit Union from: borrowing money;...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-08-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-fs5834</link>
+            <guid>1997-fs5834</guid>
+        </item>
+        
+        <item>
+            <title>Media Credit Union Revocation of Suspension of Business Under the...</title>
+            <description>Media Credit Union Revocation of Suspension of Business Under the provisions of section 139 of the Friendly Societies and Credit Unions Act 1982, the Registrar of the Friendly Societies and Credit Unions has revoked the suspension of business of Media...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-07-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-fs4947</link>
+            <guid>1997-fs4947</guid>
+        </item>
+        
+        <item>
+            <title>Media Credit Union Suspension of Business Under the provisions of...</title>
+            <description>Media Credit Union Suspension of Business Under the provisions of section 139 (1) of the Friendly Societies and Credit Unions Act 1982, the Registrar of the Friendly Societies and Credit Unions has prohibited the Media Credit Union from: Borrowing money....</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-06-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-fs3818</link>
+            <guid>1997-fs3818</guid>
+        </item>
+        
+        <item>
+            <title>Loyal City of Wellington Lodge Friendly Society Registered Pursuant to...</title>
+            <description>Loyal City of Wellington Lodge Friendly Society Registered Pursuant to Section 17 of the Friendly Societies and Credit Unions Act 1982 Loyal City of Wellington Lodge is registered as a branch of the Wellington District of Manchester Unity Friendly Society...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-06-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-fs3672</link>
+            <guid>1997-fs3672</guid>
+        </item>
+        
+        <item>
+            <title>Manukau Workers Welfare Society Advertisement of Dissolution Notice is hereby...</title>
+            <description>Manukau Workers Welfare Society Advertisement of Dissolution Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution of...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-05-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-fs3207</link>
+            <guid>1997-fs3207</guid>
+        </item>
+        
+        <item>
+            <title>Collingwood Lodge Cancellation of Registration Notice is hereby given that...</title>
+            <description>Collingwood Lodge Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (g) of the Friendly Societies and Credit Unions Act 1982, on 1 May 1997, cancelled the...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-05-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-fs2832</link>
+            <guid>1997-fs2832</guid>
+        </item>
+        
+        <item>
+            <title>Makino Lodge Cancellation of Registration Notice is hereby given that...</title>
+            <description>Makino Lodge Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (g) of the Friendly Societies and Credit Unions Act 1982, on 6 November 1996, cancelled the...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-11-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-fs7315</link>
+            <guid>1996-fs7315</guid>
+        </item>
+        
+        <item>
+            <title>Wairoa Lodge Cancellation of Registration Notice is hereby given that...</title>
+            <description>Wairoa Lodge Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (g) of the Friendly Societies and Credit Unions Act 1982, on 18 June 1996, cancelled the...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-06-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-fs3993</link>
+            <guid>1996-fs3993</guid>
+        </item>
+        
+        <item>
+            <title>Court Pride of Alexandra Advertisement of Dissolution Notice is hereby...</title>
+            <description>Court Pride of Alexandra Advertisement of Dissolution Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution of...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-05-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-fs3132</link>
+            <guid>1996-fs3132</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Revocation of Suspension of Business Notice is hereby...</title>
+            <description>Notice of Revocation of Suspension of Business Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, on 15 April 1996, removed the suspension of the business of Te Teko District Family Credit Union which was...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-04-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-fs2562</link>
+            <guid>1996-fs2562</guid>
+        </item>
+        
+        <item>
+            <title>Waitaki International Ltd, Imlay, Employees&#039; Sick and Accident Benefit Society...</title>
+            <description>Waitaki International Ltd, Imlay, Employees' Sick and Accident Benefit Society Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (c) of the Friendly Societies and Credit Unions...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-03-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-fs1510</link>
+            <guid>1996-fs1510</guid>
+        </item>
+        
+        <item>
+            <title>Lyttelton Waterfront Workers&#039; Sick Benefit Society Cancellation of Registration Notice...</title>
+            <description>Lyttelton Waterfront Workers' Sick Benefit Society Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (c) of the Friendly Societies and Credit Unions Act 1982, on 29...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-03-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-fs1512</link>
+            <guid>1996-fs1512</guid>
+        </item>
+        
+        <item>
+            <title>Sigma Mutual Benefit Society Cancellation of Registration Notice is hereby...</title>
+            <description>Sigma Mutual Benefit Society Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (c) of the Friendly Societies and Credit Unions Act 1982, on 29 February 1996,...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-03-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-fs1511</link>
+            <guid>1996-fs1511</guid>
+        </item>
+        
+        <item>
+            <title>Turanganui Lodge Cancellation of Registration Notice is hereby given that...</title>
+            <description>Turanganui Lodge Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (g) of the Friendly Societies and Credit Unions Act 1982, on 8 January 1996, cancelled the...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-01-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-fs329</link>
+            <guid>1996-fs329</guid>
+        </item>
+        
+        <item>
+            <title>Te Teko District Family Credit Union Notice of Annual General...</title>
+            <description>Te Teko District Family Credit Union Notice of Annual General Meeting Date: 17 December 1995. Time: 11.00 a.m. Venue: Te Teko School, Te Teko. Business: (a) To ascertain that a quorum is present. (b) The minutes of the last annual...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-12-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-fs7983</link>
+            <guid>1995-fs7983</guid>
+        </item>
+        
+        <item>
+            <title>Friendly Society Registered Pursuant to sections 17 and 11 (1)...</title>
+            <description>Friendly Society Registered Pursuant to sections 17 and 11 (1) (b) of the Friendly Societies and Credit Unions Act 1982, DAVIS STAFF BENEVOLENT SOCIETY with a registered office at the Davis Sawmilling Company Limited, Murphy's Line, Featherston, is registered as...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-12-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-fs8011</link>
+            <guid>1995-fs8011</guid>
+        </item>
+        
+        <item>
+            <title>Advertisement of Application for Putting Credit Union into Liquidation ...</title>
+            <description>Advertisement of Application for Putting Credit Union into Liquidation  M. No. 110/95 In the High Court of New Zealand, Rotorua Registry In the matter of the Friendly Societies and Credit Unions Act 1982, and in the matter of the...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-10-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-fs6502</link>
+            <guid>1995-fs6502</guid>
+        </item>
+        
+        <item>
+            <title>Jagpro Union Members&#039; Benevolent Organisation Cancellation of Registration Notice is...</title>
+            <description>Jagpro Union Members' Benevolent Organisation Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (d) of the Friendly Societies and Credit Unions Act 1982, on 25 September...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-10-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-fs6503</link>
+            <guid>1995-fs6503</guid>
+        </item>
+        
+        <item>
+            <title>Moturoa Lodge, Clifton Lodge and Mungaroa Lodge Cancellation of Registration...</title>
+            <description>Moturoa Lodge, Clifton Lodge and Mungaroa Lodge Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (g) of the Friendly Societies and Credit Unions Act 1982, on...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-09-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-fs6202</link>
+            <guid>1995-fs6202</guid>
+        </item>
+        
+        <item>
+            <title>MacKay Lodge Cancellation of Registration Notice is hereby given that...</title>
+            <description>MacKay Lodge Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (g) of the Friendly Societies and Credit Unions Act 1982, on 14 September 1995, cancelled the...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-09-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-fs6201</link>
+            <guid>1995-fs6201</guid>
+        </item>
+        
+        <item>
+            <title>Oak of Tauranga Lodge Cancellation of Registration Notice is hereby...</title>
+            <description>Oak of Tauranga Lodge Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (g) of the Friendly Societies and Credit Unions Act 1982, on 11 April 1995,...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-04-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-fs2545</link>
+            <guid>1995-fs2545</guid>
+        </item>
+        
+        <item>
+            <title>The South Otago Friendly Societies&#039; Hospital Benefit Association Cancellation of...</title>
+            <description>The South Otago Friendly Societies' Hospital Benefit Association Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (g) of the Friendly Societies and Credit Unions Act 1982,...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-03-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-fs2001</link>
+            <guid>1995-fs2001</guid>
+        </item>
+        
+        <item>
+            <title>United Friendly Societies Wanganui Advertisement of Dissolution Notice is hereby...</title>
+            <description>United Friendly Societies Wanganui Advertisement of Dissolution Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register an instrument of dissolution of...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-12-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-fs8807</link>
+            <guid>1994-fs8807</guid>
+        </item>
+        
+        <item>
+            <title>The Milk Vendors Federation of New Zealand Credit Union Advertisement...</title>
+            <description>The Milk Vendors Federation of New Zealand Credit Union Advertisement of Dissolution Notice is hereby given that the Registrar of Friendly Societies and Credit Unions will, pursuant to section 94 of the Friendly Societies and Credit Unions Act 1982, register...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-11-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-fs8455</link>
+            <guid>1994-fs8455</guid>
+        </item>
+        
+        <item>
+            <title>Te Teko District Family Credit Union Notice of Suspension of...</title>
+            <description>Te Teko District Family Credit Union Notice of Suspension of Business Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 139 of the Friendly Societies and Credit Unions Act 1982, on 4...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-11-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-fs8179</link>
+            <guid>1994-fs8179</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration Notice is hereby given that the Registrar...</title>
+            <description>Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (f) of the Friendly Societies and Credit Unions Act 1982, on 17 May 1994, cancelled the registration of...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-05-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-fs3718</link>
+            <guid>1994-fs3718</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration Notice is hereby given that the Registrar...</title>
+            <description>Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (c) of the Friendly Societies and Credit Unions Act 1982, on 22 December 1993, cancelled the registration of...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-02-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-fs703</link>
+            <guid>1994-fs703</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration Notice is hereby given that the Registrar...</title>
+            <description>Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to section 92 (1) (g) of the Friendly Societies and Credit Unions Act 1982, on the 13th day of December 1993, cancelled...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-01-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-fs222</link>
+            <guid>1994-fs222</guid>
+        </item>
+        
+        <item>
+            <title>Cancellation of Registration Notice is hereby given that the Registrar...</title>
+            <description>Cancellation of Registration Notice is hereby given that the Registrar of Friendly Societies and Credit Unions has, pursuant to sections 140 and 92 (1) (f) of the Friendly Societies and Credit Unions Act 1982, on 6 December 1993, cancelled the...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-12-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-fs10525</link>
+            <guid>1993-fs10525</guid>
+        </item>
+        
+        <item>
+            <title>Prometheus Credit Union Credit Union Registered Pursuant to sections 104...</title>
+            <description>Prometheus Credit Union Credit Union Registered Pursuant to sections 104 and 17 of the Friendly Societies and Credit Unions Act 1982, Prometheus Credit Union with a registered office at 33 Hastings Street, Napier, is registered as a credit union under...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-12-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-fs10139</link>
+            <guid>1993-fs10139</guid>
+        </item>
+        
+    </channel>
+</rss>
