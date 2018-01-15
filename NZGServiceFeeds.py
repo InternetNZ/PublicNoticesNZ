@@ -38,27 +38,27 @@ FEEDS = [    [ 'New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch
 
 def lambda_handler(event, context):
 
-    # Get the service resource
-    sqs = boto3.resource('sqs')
+# Get the service resource
+sqs = boto3.resource('sqs')
 
-    # Get the queue
-    queue = sqs.get_queue_by_name(QueueName='NZGFeedsQueue')
+# Get the queue
+queue = sqs.get_queue_by_name(QueueName='NZGFeedsQueue')
 
-    for feed in FEEDS:
-        # Create a new message
-        body = feed[1]
-        attributes =  {
-                            'tags': {
-                                'StringValue': feed[3],
-                                'DataType': 'String'
-                            }
+for feed in FEEDS:
+    # Create a new message
+    body = feed[1]
+    attributes =  {
+                        'tags': {
+                            'StringValue': feed[3],
+                            'DataType': 'String'
                         }
+                    }
 
-    #    print(body)
-    #    print(attributes)
+#    print(body)
+#    print(attributes)
 
-        response = queue.send_message(MessageBody=body,MessageAttributes=attributes)
+    response = queue.send_message(MessageBody=body,MessageAttributes=attributes)
 
-        # The response is NOT a resource, but gives you a message ID and MD5
-    #    print(response.get('MessageId'))
-    #    print(response.get('MD5OfMessageBody'))
+    # The response is NOT a resource, but gives you a message ID and MD5
+#    print(response.get('MessageId'))
+#    print(response.get('MD5OfMessageBody'))
