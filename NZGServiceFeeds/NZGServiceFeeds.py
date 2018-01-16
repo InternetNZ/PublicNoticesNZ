@@ -46,7 +46,7 @@ def media(feed, entry):
                 img_url = img_src(soup)
                 if img_url is not None:
                     media_root = feed.get_media_root()
-                    media_ext = os.path.splitext(img_url)[1][0:4] # e.g. .png?v=2 becomes just .png # TODO check againt .jpeg and other ext > 3
+                    media_ext = os.path.splitext(img_url)[1][0:4]  # e.g. .png?v=2 becomes just .png # TODO check againt .jpeg and other ext > 3
                     media_path = media_root + media_ext
                     urllib.urlretrieve(img_url, media_path)
                     return media_path
@@ -62,6 +62,8 @@ def post_tweet(payload):
 
     # Get the service resource
     sqs = boto3.resource('sqs')
+    snsmessage = {"alert": "TweetInQueue"}
+    snsclient = boto3.client('sns')
 
     # Get the queue
  #   feedqueue = sqs.get_queue_by_name(QueueName='NZGFeedsQueue')
@@ -122,7 +124,7 @@ def post_tweet(payload):
 #            print ( " ", time.strftime("%c"), "-", tweet_text )
 
             # Get the queue
-            tweetqueue = sqs.get_queue_by_name(QueueName='NZGTweetQueue')
+            #tweetqueue = sqs.get_queue_by_name(QueueName='NZGTweetQueue')
 
 
             body = str(entry.link)
@@ -131,8 +133,16 @@ def post_tweet(payload):
                                     'StringValue': str(entry.title),
                                     'DataType': 'String'
                                 },
+                                'url': {
+                                    'StringValue': str(entry.link),
+                                    'DataType': 'String'
+                                },
                                 'description': {
                                     'StringValue': str(entry.description),
+                                    'DataType': 'String'
+                                },
+                                'hashtags': {
+                                    'StringValue': str('#testing'),
                                     'DataType': 'String'
                                 },
                                 'dateAdded': {
@@ -142,20 +152,26 @@ def post_tweet(payload):
                             }
 
 
-            tweetresponse = tweetqueue.send_message(MessageBody=body,MessageAttributes=attributes)
-
-            table.put_item(
-                Item={
-                    'url': entry.link,
-                    'title': entry.title,
-                    'desc': entry.description,
-                    'dateAdded': time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed),
-                }
+            snsmessage = json.dumps({'servicename': 'NZGServiceFeeds', 'payload': attributes})
+            print(snsmessage)
+            snsresponse = snsclient.publish(
+                TargetArn='arn:aws:sns:ap-southeast-2:435562053273:NewTweetOnQueue',
+                Message=snsmessage
             )
+            print(snsresponse)
 
-        #else:
-        #    print("Seen Before"+entry.link)
-   # feed[0].delete()
+            #tweetresponse = tweetqueue.send_message(MessageBody=body,MessageAttributes=attributes)
+
+            # table.put_item(
+            #     Item={
+            #         'url': entry.link,
+            #         'title': entry.title,
+            #         'desc': entry.description,
+            #         'dateAdded': time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed),
+            #     }
+            # )
+
+
 
 def lambda_handler(event, context):
 

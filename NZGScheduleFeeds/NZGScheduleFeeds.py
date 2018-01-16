@@ -10,9 +10,9 @@ from botocore.exceptions import ClientError
 # Feed(Name, XML, Media, Hashtags)
 
 FEEDS = [    [ 'New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=aw&rss=1', '', '#liquidations #commercial #OpenGovt #gazetteNZ'],
-	      [ 'New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=aa&rss=1', '', '#appointmentreleaseofadministrators #commercial #OpenGovt #gazetteNZ'],
-	      [ 'New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=al&rss=1', '', '#appointmentreleaseofliquidators #commercial #OpenGovt #gazetteNZ'],
-	      [ 'New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=ar&rss=1', '', '#appointmentreleaseofrecieversmanagers #commercial #OpenGovt #gazetteNZ'],
+#	      [ 'New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=aa&rss=1', '', '#appointmentreleaseofadministrators #commercial #OpenGovt #gazetteNZ'],
+#	      [ 'New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=al&rss=1', '', '#appointmentreleaseofliquidators #commercial #OpenGovt #gazetteNZ'],
+#	      [ 'New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=ar&rss=1', '', '#appointmentreleaseofrecieversmanagers #commercial #OpenGovt #gazetteNZ'],
 #	      [ 'New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=ba&rss=1', '', '#bankrupcy #commercial #OpenGovt #gazetteNZ'],
 #	      [ 'New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=cb&rss=1', '', '#cessation #commercial #OpenGovt #gazetteNZ'],
 #	      [ 'New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch?noticeType=ct&rss=1', '', '#charitabletrusts #commercial #OpenGovt #gazetteNZ'],
@@ -42,7 +42,7 @@ def lambda_handler(event, context):
     sqs = boto3.resource('sqs')
 
     # Get the queue
-#    queue = sqs.get_queue_by_name(QueueName='NZGFeedsQueue')
+    queue = sqs.get_queue_by_name(QueueName='NZGFeedsQueue')
     snsmessage = {"alert": "TweetInQueue"}
     snsclient = boto3.client('sns')
 
@@ -61,7 +61,7 @@ def lambda_handler(event, context):
         snsmessage = json.dumps({'servicename': 'NZGScheduleFeeds', 'payload': feed[1]})
 
 
-#        response = queue.send_message(MessageBody=body,MessageAttributes=attributes)
+        response = queue.send_message(MessageBody=body,MessageAttributes=attributes)
         snsresponse = snsclient.publish(
             TargetArn='arn:aws:sns:ap-southeast-2:435562053273:NewFeedOnQueue',
             Message=snsmessage
