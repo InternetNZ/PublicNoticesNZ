@@ -1,8 +1,16 @@
 # NZ Gazette Tweeter / Public Notices
 
-Applies [feedr](https://github.com/housed/feedr) to generate a Twitter feed of notices from the NZ Gazette, which is where the NZ Government officially announces things.
+Applies [feedr](https://github.com/housed/feedr) to generate a Twitter feed of notices from the [NZ Gazette](https://gazette.govt.nz/), which is where the NZ Government officially announces things.
 
 Currently works to get feeds, but is likely to dump lots of tweets at once in a way that we might not want.
+
+## Gazette copyright and terms of use
+
+All Gazette content, including the rss feeds we draw from, is [copyright](https://gazette.govt.nz/footer/copyright/) Department of Internal Affairs, CC-BY 3.0 NZ.
+
+The open [terms of use](https://gazette.govt.nz/footer/terms-of-use/), and CC-BY copyright, are a great example of New Zealand's Government making information available for use under the [NZGOAL framework](https://www.ict.govt.nz/guidance-and-resources/open-government/new-zealand-government-open-access-and-licensing-nzgoal-framework/).
+
+We thank the Department of Internal Affairs, and the New Zealand Government for moving to open up information like the NZ Gazette!
 
 # Feedr project self-description:
 
