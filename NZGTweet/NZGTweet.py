@@ -4,7 +4,7 @@ from feed import Feed
 from bs4 import BeautifulSoup
 import tweepy, urllib,  os, json
 
-
+# Twitter Account Keys
 # Separate keys.py file holds secrets
 from keys import CONSUMER_KEY, CONSUMER_SECRET, ACCESS_KEY, ACCESS_SECRET
 
@@ -17,7 +17,6 @@ TWEET_URL_LENGTH = 22
 TWEET_IMG_LENGTH = 23
 TWEET_NET_LENGTH = TWEET_MAX_LENGTH - TWEET_URL_LENGTH
 
-# Twitter Account Keys
 
 def html_doc(entry):
 
@@ -81,10 +80,7 @@ def post_tweet(payload):
     tweet_desc = description[:body_length]
     tweet_text = "%s %s %s" % (title, url, hashtags)
 
-    #            if tweet_media is not None:
-    #                api.update_with_media(tweet_media, tweet_text)
-    #            else:
-    #                api.update_status(tweet_text)
+    api.update_status(tweet_text)
     print("New Entry: "+tweet_text)
 
 

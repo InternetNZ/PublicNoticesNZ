@@ -9,11 +9,6 @@ from botocore.exceptions import ClientError
 
 
 
-DATABASE = '../database/rss_entries.db'
-
-# Initialize the list of desired feeds
-# Feed(Name, XML, Media, Hashtags)
-
 
 
 # Define the net max length of the text portion of a tweet
@@ -22,7 +17,7 @@ TWEET_URL_LENGTH = 22
 TWEET_IMG_LENGTH = 23
 TWEET_NET_LENGTH = TWEET_MAX_LENGTH - TWEET_URL_LENGTH - TWEET_IMG_LENGTH
 
-# Twitter Account Keys
+
 
 def html_doc(entry):
         if hasattr(entry, 'content'):
@@ -58,42 +53,18 @@ def media(feed, entry):
 
 def post_tweet(payload):
 
-
-
     # Get the service resource
-    sqs = boto3.resource('sqs')
     snsmessage = {"alert": "TweetInQueue"}
     snsclient = boto3.client('sns')
-
-    # Get the queue
- #   feedqueue = sqs.get_queue_by_name(QueueName='NZGFeedsQueue')
-
-
-
-
     dynamodb = boto3.resource('dynamodb', region_name='ap-southeast-2')
     table = dynamodb.Table('NZGazTweet')
 
-
-
-#    feed = feedqueue.receive_messages()
-#    if (len(feed) ==0):
-#        print("No messages available from queue ")
-#        return
-
-#    url = feed[0].body
-    url = payload
+    url = payload['url']['StringValue']
     print("Feed from SQS: "+url)
-
-
-
 
     parsed_feed = feedparser.parse(url)
 
     for entry in parsed_feed.entries:
-
-
-
         try:
             response = table.get_item(
                 Key={
@@ -103,32 +74,12 @@ def post_tweet(payload):
         except ClientError as e:
             print(e.response['Error']['Message'])
 
-        if not 'Item' in response:
-            data = (entry.link, entry.title, entry.description, time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed))
+        if 'Item' not in response:
+#            data = (entry.link, entry.title, entry.description, time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed))
 
-            #hashtag_length = len(feed.get_hashtag())
-            #body_length = TWEET_NET_LENGTH - hashtag_length
+            print("New Entry: "+entry.link)
 
-#            tweet_body = entry.title.encode('utf-8')
-#                tweet_desc = entry.description.encode('utf-8')[:body_length]
-#            tweet_url = entry.link.encode('utf-8')
-#            tweet_hashtag = feed.get_hashtag()
-#            tweet_text = "%s %s" % (tweet_body, tweet_url)
-#            tweet_media = media(feed, entry)
-
-#            if tweet_media is not None:
-#                api.update_with_media(tweet_media, tweet_text)
-#            else:
-#                api.update_status(tweet_text)
-            print("New Entry"+entry.link)
-#            print ( " ", time.strftime("%c"), "-", tweet_text )
-
-            # Get the queue
-            #tweetqueue = sqs.get_queue_by_name(QueueName='NZGTweetQueue')
-
-
-            body = str(entry.link)
-            attributes =  {
+            attributes = {
                                 'title': {
                                     'StringValue': str(entry.title),
                                     'DataType': 'String'
@@ -142,7 +93,7 @@ def post_tweet(payload):
                                     'DataType': 'String'
                                 },
                                 'hashtags': {
-                                    'StringValue': str('#testing'),
+                                    'StringValue': str(payload['tags']['StringValue']),
                                     'DataType': 'String'
                                 },
                                 'dateAdded': {
@@ -151,26 +102,12 @@ def post_tweet(payload):
                                 },
                             }
 
-
             snsmessage = json.dumps({'servicename': 'NZGServiceFeeds', 'payload': attributes})
-            print(snsmessage)
+#            print(snsmessage)
             snsresponse = snsclient.publish(
                 TargetArn='arn:aws:sns:ap-southeast-2:435562053273:NewTweetOnQueue',
                 Message=snsmessage
             )
-            print(snsresponse)
-
-            #tweetresponse = tweetqueue.send_message(MessageBody=body,MessageAttributes=attributes)
-
-            # table.put_item(
-            #     Item={
-            #         'url': entry.link,
-            #         'title': entry.title,
-            #         'desc': entry.description,
-            #         'dateAdded': time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed),
-            #     }
-            # )
-
 
 
 def lambda_handler(event, context):

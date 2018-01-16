@@ -38,30 +38,24 @@ FEEDS = [    [ 'New Zealand Gazette', 'https://gazette.govt.nz/home/NoticeSearch
 
 def lambda_handler(event, context):
 
-    # Get the service resource
-    sqs = boto3.resource('sqs')
+# Get the service resource
 
-    # Get the queue
-    queue = sqs.get_queue_by_name(QueueName='NZGFeedsQueue')
-    snsmessage = {"alert": "TweetInQueue"}
     snsclient = boto3.client('sns')
 
     for feed in FEEDS:
-        # Create a new message
-        body = feed[1]
-        attributes =  {
+        attributes = {
+                            'url': {
+                                'StringValue': feed[1],
+                                'DataType': 'String'
+                            },
                             'tags': {
                                 'StringValue': feed[3],
                                 'DataType': 'String'
                             }
                         }
 
-        snsmessage = {"feedurl": feed[1]}
+        snsmessage = json.dumps({'servicename': 'NZGScheduleFeeds', 'payload': attributes})
 
-        snsmessage = json.dumps({'servicename': 'NZGScheduleFeeds', 'payload': feed[1]})
-
-
-        response = queue.send_message(MessageBody=body,MessageAttributes=attributes)
         snsresponse = snsclient.publish(
             TargetArn='arn:aws:sns:ap-southeast-2:435562053273:NewFeedOnQueue',
             Message=snsmessage
