@@ -3,6 +3,7 @@
 #from feed import Feed
 from bs4 import BeautifulSoup
 import tweepy, feedparser, urllib, sqlite3, time, os, json
+from datetime import datetime, timedelta
 import boto3
 from boto3.dynamodb.conditions import Key, Attr
 from botocore.exceptions import ClientError
@@ -65,49 +66,54 @@ def post_tweet(payload):
     parsed_feed = feedparser.parse(url)
 
     for entry in parsed_feed.entries:
-        try:
-            response = table.get_item(
-                Key={
-                    'url': entry.link,
-                }
-            )
-        except ClientError as e:
-            print(e.response['Error']['Message'])
 
-        if 'Item' not in response:
-#            data = (entry.link, entry.title, entry.description, time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed))
+        gazTime = datetime.strptime(entry.updated_parsed, "%Y-%m-%d %H:%M:%S")
 
-            print("New Entry: "+entry.link)
+        if datetime.now() - gazTime < timedelta(days=1):
+            print("Got Tweet within 24 hours of now")
+            try:
+                response = table.get_item(
+                    Key={
+                        'url': entry.link,
+                    }
+                )
+            except ClientError as e:
+                print(e.response['Error']['Message'])
 
-            attributes = {
-                                'title': {
-                                    'StringValue': str(entry.title),
-                                    'DataType': 'String'
-                                },
-                                'url': {
-                                    'StringValue': str(entry.link),
-                                    'DataType': 'String'
-                                },
-                                'description': {
-                                    'StringValue': str(entry.description),
-                                    'DataType': 'String'
-                                },
-                                'hashtags': {
-                                    'StringValue': str(payload['tags']['StringValue']),
-                                    'DataType': 'String'
-                                },
-                                'dateAdded': {
-                                    'StringValue': str(time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed)),
-                                    'DataType': 'String'
-                                },
-                            }
+            if 'Item' not in response:
+    #            data = (entry.link, entry.title, entry.description, time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed))
 
-            snsmessage = json.dumps({'servicename': 'NZGServiceFeeds', 'payload': attributes})
-#            print(snsmessage)
-            snsresponse = snsclient.publish(
-                TargetArn='arn:aws:sns:ap-southeast-2:435562053273:NewTweetOnQueue',
-                Message=snsmessage
-            )
+                print("New Entry: "+entry.link)
+
+                attributes = {
+                                    'title': {
+                                        'StringValue': str(entry.title),
+                                        'DataType': 'String'
+                                    },
+                                    'url': {
+                                        'StringValue': str(entry.link),
+                                        'DataType': 'String'
+                                    },
+                                    'description': {
+                                        'StringValue': str(entry.description),
+                                        'DataType': 'String'
+                                    },
+                                    'hashtags': {
+                                        'StringValue': str(payload['tags']['StringValue']),
+                                        'DataType': 'String'
+                                    },
+                                    'dateAdded': {
+                                        'StringValue': str(time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed)),
+                                        'DataType': 'String'
+                                    },
+                                }
+
+                snsmessage = json.dumps({'servicename': 'NZGServiceFeeds', 'payload': attributes})
+    #            print(snsmessage)
+                snsresponse = snsclient.publish(
+                    TargetArn='arn:aws:sns:ap-southeast-2:435562053273:NewTweetOnQueue',
+                    Message=snsmessage
+                )
 
 
 def lambda_handler(event, context):
