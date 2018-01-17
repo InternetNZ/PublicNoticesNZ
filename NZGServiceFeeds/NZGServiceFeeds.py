@@ -67,10 +67,10 @@ def post_tweet(payload):
 
     for entry in parsed_feed.entries:
 
-        gazTime = datetime.strptime(entry.updated_parsed, "%Y-%m-%d %H:%M:%S")
+        gazTime = datetime.strptime(time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed), "%Y-%m-%d %H:%M:%S")
 
         if datetime.now() - gazTime < timedelta(days=1):
-            print("Got Tweet within 24 hours of now")
+            print("Got Tweet within 24 hours of now: %s" % time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed))
             try:
                 response = table.get_item(
                     Key={
@@ -84,7 +84,14 @@ def post_tweet(payload):
     #            data = (entry.link, entry.title, entry.description, time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed))
 
                 print("New Entry: "+entry.link)
-
+                table.put_item(
+                    Item={
+                        'url': entry.link,
+                        'title': entry.title,
+                        'desc': entry.description,
+                        'dateAdded': time.strftime("%Y-%m-%d %H:%M:%S", entry.updated_parsed),
+                    }
+                )
                 attributes = {
                                     'title': {
                                         'StringValue': str(entry.title),
