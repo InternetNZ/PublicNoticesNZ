@@ -1,0 +1,2061 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>New Zealand Gazette Notices Feed</title>
+        <link>https://gazette.govt.nz/home/NoticeSearch?noticeType=ps</link>
+		<atom:link href="https://gazette.govt.nz/home/NoticeSearch?noticeType=ps" rel="self" type="application/rss+xml" />
+		<description>New Zealand Gazette XML feed based on search: https://gazette.govt.nz/home/NoticeSearch?noticeType=ps</description>
+        
+        <item>
+            <title>Reappointment of Temporary Ombudsman</title>
+            <description>&lt;p&gt;Pursuant to sections 3 and 8 of the Ombudsmen Act 1975, Her Excellency the &lt;span class="no-break"&gt;Governor-General&lt;/span&gt; of &lt;span class="no-break"&gt;New Zealand&lt;/span&gt; has been pleased to reappoint&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Leo Michael Donnelly, of Wellington&lt;/p&gt;
+&lt;p&gt;as an Ombudsman for a period of 11 months commencing...</description>
+            <category>Notice/Issue/2017/73</category>
+            <pubDate>2017-07-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-ps3446</link>
+            <guid>2017-ps3446</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Parliamentary Commissioner for the Environment</title>
+            <description>&lt;p&gt;Pursuant to section 4 of the Environment Act 1986, Her Excellency the &lt;span class="no-break"&gt;Governor-General&lt;/span&gt; of &lt;span class="no-break"&gt;New Zealand&lt;/span&gt; has been pleased to appoint&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;the Right Honourable Simon David Upton, of Wellington&lt;/p&gt;
+&lt;p&gt;as Parliamentary Commissioner for the Environment for a term...</description>
+            <category>Notice/Issue/2017/52</category>
+            <pubDate>2017-05-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-ps2283</link>
+            <guid>2017-ps2283</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>&lt;p&gt;Pursuant to section &lt;span class="no-break"&gt;129(1)&lt;/span&gt; of the Electoral Act 1993, I, David Cunningham Carter, Speaker of the House of Representatives, give notice that David Richard Cunliffe has resigned his seat in the House of Representatives for the New Lynn Electoral...</description>
+            <category>Notice/Issue/2017/44</category>
+            <pubDate>2017-04-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-ps1903</link>
+            <guid>2017-ps1903</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>&lt;p&gt;Pursuant to section &lt;span class="no-break"&gt;129(1)&lt;/span&gt; of the Electoral Act 1993, I, David Cunningham Carter, Speaker of the House of Representatives, give notice that John Phillip Key has resigned his seat in the House of Representatives for the Helensville Electoral District...</description>
+            <category>Notice/Issue/2017/40</category>
+            <pubDate>2017-04-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-ps1711</link>
+            <guid>2017-ps1711</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>&lt;p&gt;Pursuant to section &lt;span class="no-break"&gt;134(1)&lt;/span&gt; of the Electoral Act 1993, I, David Cunningham Carter, Speaker of the House of Representatives, give notice that Jacinda Ardern has resigned her seat in the House of Representatives effective at the close of Tuesday...</description>
+            <category>Notice/Issue/2017/27</category>
+            <pubDate>2017-03-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-ps1166</link>
+            <guid>2017-ps1166</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>&lt;p&gt;Pursuant to section &lt;span class="no-break"&gt;129(1)&lt;/span&gt; of the Electoral Act 1993, I, David Cunningham Carter, Speaker of the House of Representatives, give notice that David James Shearer has resigned his seat in the House of Representatives for the &lt;span class="no-break"&gt;Mt Albert&lt;/span&gt;...</description>
+            <category>Notice/Issue/2017/1</category>
+            <pubDate>2017-01-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-ps2</link>
+            <guid>2017-ps2</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Controller and Auditor-General</title>
+            <description>&lt;p&gt;Pursuant to section &lt;span class="no-break"&gt;7(2)&lt;/span&gt; and clause 2 of Schedule 3 of the Public Audit Act 2001, Her Excellency the &lt;span class="no-break"&gt;Governor-General&lt;/span&gt; of &lt;span class="no-break"&gt;New Zealand&lt;/span&gt; has been pleased to appoint&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Martin Thomas Harold Matthews&lt;/p&gt;
+&lt;p&gt;as the Controller and Auditor-General...</description>
+            <category>Notice/Issue/2016/121</category>
+            <pubDate>2016-12-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-ps7315</link>
+            <guid>2016-ps7315</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>&lt;p&gt;Pursuant to section &lt;span class="no-break"&gt;129(1)&lt;/span&gt; of the Electoral Act 1993, I, David Cunningham Carter, Speaker of the House of Representatives, give notice that Philip Bruce Goff has resigned his seat in the House of Representatives for the &lt;span class="no-break"&gt;Mt Roskill&lt;/span&gt;...</description>
+            <category>Notice/Issue/2016/93</category>
+            <pubDate>2016-10-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-ps5847</link>
+            <guid>2016-ps5847</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>&lt;p&gt;Pursuant to section &lt;span class="no-break"&gt;134(1)&lt;/span&gt; of the Electoral Act 1993, I, David Cunningham Carter, Speaker of the House of Representatives, give notice that Kevin Grant Hague has resigned his seat in the House of Representatives effective at midnight on Thursday,...</description>
+            <category>Notice/Issue/2016/90</category>
+            <pubDate>2016-10-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-ps5607</link>
+            <guid>2016-ps5607</guid>
+        </item>
+        
+        <item>
+            <title>Temporary Appointment of Ombudsman</title>
+            <description>&lt;p&gt;Pursuant to sections 3 and 8 of the Ombudsmen Act 1975, His Excellency the &lt;span class="no-break"&gt;Governor-General&lt;/span&gt; of &lt;span class="no-break"&gt;New Zealand&lt;/span&gt; has been pleased to appoint&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Leo Michael Donnelly, of Wellington&lt;/p&gt;
+&lt;p&gt;as Ombudsman for a term of one year commencing on...</description>
+            <category>Notice/Issue/2016/63</category>
+            <pubDate>2016-07-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-ps4021</link>
+            <guid>2016-ps4021</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to section &lt;span class="no-break"&gt;134(1)&lt;/span&gt; of the Electoral Act 1993, I, David Cunningham Carter, Speaker of the House of Representatives, give notice that Timothy John Groser has resigned his seat in the House of Representatives effective at midnight...</description>
+            <category>Notice/Issue/2015/142</category>
+            <pubDate>2015-12-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-ps7473</link>
+            <guid>2015-ps7473</guid>
+        </item>
+        
+        <item>
+            <title>Legislation (Official Electronic Versions) Notice 2015</title>
+            <description>&lt;p style="text-align: justify;"&gt;The Chief Parliamentary Counsel gives the following notice.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li style="text-align: justify;"&gt;Official electronic versions of legislation are issued under section 17 of the Legislation Act 2012 and are available free of charge on the &lt;span class="no-break"&gt;New Zealand&lt;/span&gt; Legislation website.&lt;/li&gt;
+&lt;li style="text-align:...</description>
+            <category>Notice/Issue/2015/141</category>
+            <pubDate>2015-12-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-ps7126</link>
+            <guid>2015-ps7126</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Ombudsman</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to sections 3 and 5 of the Ombudsmen Act 1975, His Excellency the &lt;span class="no-break"&gt;Governor-General&lt;/span&gt; of &lt;span class="no-break"&gt;New Zealand&lt;/span&gt; has been pleased to appoint&lt;/p&gt;
+&lt;p style="padding-left: 30px;"&gt;Peter Francis Boshier&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;as Ombudsman and Chief Ombudsman for a term...</description>
+            <category>Notice/Issue/2015/135</category>
+            <pubDate>2015-12-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-ps7195</link>
+            <guid>2015-ps7195</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to section &lt;span class="no-break"&gt;134(1)&lt;/span&gt; of the Electoral Act 1993, I, David Cunningham Carter, Speaker of the House of Representatives, give notice that Russel William Norman has resigned his seat in the House of Representatives effective at midnight...</description>
+            <category>Notice/Issue/2015/118</category>
+            <pubDate>2015-11-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-ps6223</link>
+            <guid>2015-ps6223</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Deputy Controller and Auditor-General</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to section 1&lt;span class="no-break"&gt;1(2)&lt;/span&gt; and clause 2 of Schedule 3 of the Public Audit Act 2001, His Excellency the &lt;span class="no-break"&gt;Governor-General&lt;/span&gt; of &lt;span class="no-break"&gt;New Zealand&lt;/span&gt; has been pleased to appoint&lt;/p&gt;
+&lt;p style="text-align: justify; padding-left: 30px;"&gt;Greg Mark Schollum&lt;/p&gt;
+&lt;p style="text-align:...</description>
+            <category>Notice/Issue/2015/109</category>
+            <pubDate>2015-10-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-ps5735</link>
+            <guid>2015-ps5735</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Deputy Clerk of the House of Representatives</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to section 7 of the Clerk of the House of Representatives Act 1988, His Excellency the Administrator of the Government has been pleased to appoint&lt;/p&gt;
+&lt;p class="indent" style="text-align: justify;"&gt;Rafael Ignacio &lt;span class="no-break"&gt;Gonzalez-Montero&lt;/span&gt; Tejada, of Wellington&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;as Deputy...</description>
+            <category>Notice/Issue/2015/78</category>
+            <pubDate>2015-07-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-ps4372</link>
+            <guid>2015-ps4372</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to section 129(1) of the Electoral Act 1993, I, David Cunningham Carter, Speaker of the House of Representatives, give notice that Michael Lewis Sabin has resigned his seat in the House of Representatives for the Northland Electoral...</description>
+            <category>Notice/Issue/2015/11</category>
+            <pubDate>2015-02-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-ps593</link>
+            <guid>2015-ps593</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>Pursuant to section 129(1) of the Electoral Act 1993, &lt;br/&gt;I, David Cunningham Carter, Speaker of the House of Representatives, give notice that John Banks has resigned his seat in the House of Representatives for the Epsom Electoral District with effect...</description>
+            <category>Notice/Issue/2014/62</category>
+            <pubDate>2014-06-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-ps3644</link>
+            <guid>2014-ps3644</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, David Cunningham Carter, Speaker of the House of Representatives, give notice that Shane Geoffrey Jones has resigned his seat in the House of Representatives effective at the conclusion of Thursday,...</description>
+            <category>Notice/Issue/2014/52</category>
+            <pubDate>2014-05-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-ps3175</link>
+            <guid>2014-ps3175</guid>
+        </item>
+        
+        <item>
+            <title>Legislation (Publication) Notice 2014</title>
+            <description>In accordance with section 7 of the Legislation Act 2012, the Attorney-General gives the following notice.&lt;br/&gt;N o t i c e&lt;br/&gt;1. Title-This notice is the Legislation (Publication) Notice 2014.&lt;br/&gt;2. Commencement-This notice comes into force on the day after the date...</description>
+            <category>Notice/Issue/2014/46</category>
+            <pubDate>2014-05-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-ps2718</link>
+            <guid>2014-ps2718</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, David Cunningham Carter, Speaker of the House of Representatives, give notice that Katrina May Shanks has resigned her seat in the House of Representatives effective at the conclusion of Tuesday,...</description>
+            <category>Notice/Issue/2014/6</category>
+            <pubDate>2014-01-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-ps1</link>
+            <guid>2014-ps1</guid>
+        </item>
+        
+        <item>
+            <title>Legislation (Official Electronic Versions) Notice 2014 </title>
+            <description>The Chief Parliamentary Counsel gives the following notice.&lt;br/&gt;1. Official electronic versions of legislation are issued on and from 6 January 2014 under section 17 of the Legislation Act 2012 and are available free of charge on the New Zealand Legislation...</description>
+            <category>Notice/Issue/2014/1</category>
+            <pubDate>2014-01-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-ps71</link>
+            <guid>2014-ps71</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>Pursuant to section 129(1) of the Electoral Act 1993, &lt;br/&gt;I, Eric Wilbur Roy, Deputy Speaker of the House of Representatives, give notice that Lianne Audrey Dalziel has resigned her seat in the House of Representatives for the Christchurch East Electoral...</description>
+            <category>Notice/Issue/2013/141</category>
+            <pubDate>2013-10-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-ps6396</link>
+            <guid>2013-ps6396</guid>
+        </item>
+        
+        <item>
+            <title>Certification of Indicative Referendum Petition</title>
+            <description>I hereby certify, under section 18 of the Citizens Initiated Referenda Act 1993, that the petition of&lt;br/&gt;Roy Reid&lt;br/&gt;is correct, as I am satisfied that it has been signed by not less than 10 percent of the eligible electors.&lt;br/&gt;Dated at Wellington...</description>
+            <category>Notice/Issue/2013/124</category>
+            <pubDate>2013-09-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-ps5690</link>
+            <guid>2013-ps5690</guid>
+        </item>
+        
+        <item>
+            <title>Legislation (Publication) Notice 2013</title>
+            <description>Pursuant to section 7 of the Legislation Act 2012, the Attorney-General gives the following notice.&lt;br/&gt;N o t i c e&lt;br/&gt;1. Title-This notice is the Legislation (Publication) Notice 2013.&lt;br/&gt;2. Commencement-This notice comes into force on the day after the date of...</description>
+            <category>Notice/Issue/2013/108</category>
+            <pubDate>2013-08-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-ps5101</link>
+            <guid>2013-ps5101</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Ombudsman</title>
+            <description>Pursuant to sections 3 and 5 of the Ombudsmen Act 1975, His Excellency the Governor-General of New Zealand has been pleased to appoint&lt;br/&gt;Ron Paterson, of Auckland&lt;br/&gt;as Ombudsman for a term of five years commencing on&lt;br/&gt;4 June 2013.&lt;br/&gt;Dated at Wellington this...</description>
+            <category>Notice/Issue/2013/72</category>
+            <pubDate>2013-06-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-ps3335</link>
+            <guid>2013-ps3335</guid>
+        </item>
+        
+        <item>
+            <title>Vacating of Office of Ombudsman</title>
+            <description>I, The Right Honourable David Carter, Speaker of the House of Representatives, give notice that &lt;br/&gt;David Graham McGee, CNZM, QC&lt;br/&gt;pursuant to section 5(3) of the Ombudsmen Act 1975, &lt;br/&gt;has resigned from the office of Ombudsman with effect from 31 May...</description>
+            <category>Notice/Issue/2013/68</category>
+            <pubDate>2013-05-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-ps3319</link>
+            <guid>2013-ps3319</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, David Cunningham Carter, Speaker of the House of Representatives, give notice that Aaron Wayne Gilmore has resigned his seat in the House of Representatives with effect on 27 May 2013,...</description>
+            <category>Notice/Issue/2013/66</category>
+            <pubDate>2013-05-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-ps2857</link>
+            <guid>2013-ps2857</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, David Cunningham Carter, Speaker of the House of Representatives, give notice that Jacqueline Diane Blue &lt;br/&gt;has resigned her seat in the House of Representatives with effect on Monday 20 May...</description>
+            <category>Notice/Issue/2013/60</category>
+            <pubDate>2013-05-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-ps2624</link>
+            <guid>2013-ps2624</guid>
+        </item>
+        
+        <item>
+            <title>Notification That Indicative Referendum Petition has Lapsed</title>
+            <description>I hereby certify, under section 18 of the Citizens Initiated Referenda Act 1993, that the petition of &lt;br/&gt; Roy Reid&lt;br/&gt;has lapsed.&lt;br/&gt;Dated at Wellington this 7th day of May 2013.&lt;br/&gt;MARY HARRIS, Clerk of the House of Representatives.&lt;br/&gt;</description>
+            <category>Notice/Issue/2013/54</category>
+            <pubDate>2013-05-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-ps2751</link>
+            <guid>2013-ps2751</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>Pursuant to section 129(1) of the Electoral Act 1993, &lt;br/&gt;I, David Cunningham Carter, Speaker of the House of Representatives, give notice that by reason of the death &lt;br/&gt;of Parekura Tureia Horomia on 29 April 2013, his seat &lt;br/&gt;in the House...</description>
+            <category>Notice/Issue/2013/53</category>
+            <pubDate>2013-05-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-ps2588</link>
+            <guid>2013-ps2588</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, David Cunningham Carter, Speaker of the House of Representatives, give notice that Charles Pierre Chauvel &lt;br/&gt;has resigned his seat in the House of Representatives with effect on Monday 11 March...</description>
+            <category>Notice/Issue/2013/28</category>
+            <pubDate>2013-03-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-ps1304</link>
+            <guid>2013-ps1304</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives</title>
+            <description>Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, David Cunningham Carter, Speaker of the House of Representatives, give notice that Alexander Lockwood Smith has resigned his seat in the House of Representatives with effect at 12.00 midnight on...</description>
+            <category>Notice/Issue/2013/16</category>
+            <pubDate>2013-02-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2013-ps826</link>
+            <guid>2013-ps826</guid>
+        </item>
+        
+        <item>
+            <title>Acts and Regulations Publication Notice 2012 </title>
+            <description>Pursuant to section 9 of the Acts and Regulations Publication Act 1989, the Attorney-General gives the following notice.&lt;br/&gt;N o t i c e&lt;br/&gt;1. Title-This notice is the Acts and Regulations Publication Notice 2012.&lt;br/&gt;2. Commencement-This notice comes into force on the...</description>
+            <category>Notice/Issue/2012/142</category>
+            <pubDate>2012-11-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-ps7823</link>
+            <guid>2012-ps7823</guid>
+        </item>
+        
+        <item>
+            <title>Notification That Indicative Referendum Petition has Lapsed</title>
+            <description>I hereby certify, pursuant to section 15(5) of the Citizens Initiated Referenda Act 1993, that the petition of &lt;br/&gt; Dr Muriel Newman&lt;br/&gt;and&lt;br/&gt; Dr Hugh Barr&lt;br/&gt;has lapsed.&lt;br/&gt;Dated at Wellington this 14th day of July 2012.&lt;br/&gt;MARY HARRIS, Clerk of the House of...</description>
+            <category>Notice/Issue/2012/86</category>
+            <pubDate>2012-07-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-ps4411</link>
+            <guid>2012-ps4411</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Parliamentary Commissioner for the Environment</title>
+            <description>Pursuant to section 4 of the Environment Act 1986, His Excellency the Governor-General of New Zealand has been pleased to appoint&lt;br/&gt;Dr Janice Claire Wright, of Wellington&lt;br/&gt;as Parliamentary Commissioner for the Environment for a term of five years.&lt;br/&gt;Dated at Wellington this...</description>
+            <category>Notice/Issue/2012/61</category>
+            <pubDate>2012-05-31 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-ps3168</link>
+            <guid>2012-ps3168</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that:&lt;br/&gt;Roy Reid&lt;br/&gt;- has been approved to use, for the purposes of &lt;br/&gt;an indicative referendum petition, the wording determined in the paragraph below;&lt;br/&gt;- is the promoter...</description>
+            <category>Notice/Issue/2012/49</category>
+            <pubDate>2012-05-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-ps2602</link>
+            <guid>2012-ps2602</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from &lt;br/&gt;Roy Reid &lt;br/&gt;a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to voters in...</description>
+            <category>Notice/Issue/2012/33</category>
+            <pubDate>2012-03-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2012-ps1566</link>
+            <guid>2012-ps1566</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House</title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 129(1) of the Electoral Act 1993, &lt;br/&gt;I, Alexander Lockwood Smith, Speaker of the House of Representatives, give notice that Chris Joseph Carter has resigned his seat in the House of Representatives for the &lt;br/&gt;Te Atatu Electoral...</description>
+            <category>Notice/Issue/2011/148</category>
+            <pubDate>2011-10-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-ps6763</link>
+            <guid>2011-ps6763</guid>
+        </item>
+        
+        <item>
+            <title>Acts and Regulations Publication Notice (No 2) 2011</title>
+            <description>Pursuant to section 9 of the Acts and Regulations Publication Act 1989, the Attorney-General gives the following notice.&lt;br/&gt;N o t i c e&lt;br/&gt;1. Title-This notice is the Acts and Regulations Publication Notice (No 2) 2011.&lt;br/&gt;2. Commencement-This notice comes into force...</description>
+            <category>Notice/Issue/2011/118</category>
+            <pubDate>2011-08-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-ps5324</link>
+            <guid>2011-ps5324</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House</title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 129(1) of the Electoral Act 1993, &lt;br/&gt;I, Alexander Lockwood Smith, Speaker of the House of Representatives, give notice that John McGregor Carter has resigned his seat in the House of Representatives for the Northland Electoral District...</description>
+            <category>Notice/Issue/2011/106</category>
+            <pubDate>2011-07-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-ps4863</link>
+            <guid>2011-ps4863</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that:&lt;br/&gt;Dr Muriel Newman&lt;br/&gt;and&lt;br/&gt;Dr Hugh Barr &lt;br/&gt;- have been approved to use, for the purposes of an indicative referendum petition, the wording determined in the paragraph...</description>
+            <category>Notice/Issue/2011/105</category>
+            <pubDate>2011-07-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-ps4797</link>
+            <guid>2011-ps4797</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House </title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 129(1) of the Electoral Act 1993, &lt;br/&gt;I, Alexander Lockwood Smith, Speaker of the House of Representatives, give notice that Hone Pani Tamati Waka Nene Harawira has resigned his seat in the House of Representatives for Te...</description>
+            <category>Notice/Issue/2011/68</category>
+            <pubDate>2011-05-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-ps3212</link>
+            <guid>2011-ps3212</guid>
+        </item>
+        
+        <item>
+            <title>Acts and Regulations Publication Notice 2011</title>
+            <description>Pursuant to section 9 of the Acts and Regulations Publication Act 1989, the Attorney-General gives the following notice.&lt;br/&gt;N o t i c e&lt;br/&gt;1. Title-This notice is the Acts and Regulations Publication Notice 2011.&lt;br/&gt;2. Commencement-This notice comes into force on the...</description>
+            <category>Notice/Issue/2011/59</category>
+            <pubDate>2011-05-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-ps2974</link>
+            <guid>2011-ps2974</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from &lt;br/&gt;Dr Muriel Newman&lt;br/&gt;and &lt;br/&gt;Dr Hugh Barr&lt;br/&gt;a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put...</description>
+            <category>Notice/Issue/2011/55</category>
+            <pubDate>2011-04-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-ps2547</link>
+            <guid>2011-ps2547</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House </title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, Alexander Lockwood Smith, Speaker of the House &lt;br/&gt;of Representatives, give notice that Darren Colyn Hughes has resigned his seat in the House of Representatives with effect at the close...</description>
+            <category>Notice/Issue/2011/45</category>
+            <pubDate>2011-04-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-ps2284</link>
+            <guid>2011-ps2284</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House </title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 129(1) of the Electoral Act 1993, &lt;br/&gt;I, Alexander Lockwood Smith, Speaker of the House &lt;br/&gt;of Representatives, give notice that Pansy Wong has resigned her seat in the House of Representatives for &lt;br/&gt;the Botany Electoral District effective...</description>
+            <category>Notice/Issue/2011/3</category>
+            <pubDate>2011-01-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2011-ps3</link>
+            <guid>2011-ps3</guid>
+        </item>
+        
+        <item>
+            <title>Notification That Indicative Referendum Petition has Lapsed</title>
+            <description>I hereby certify, pursuant to section 15(5) of the Citizens Initiated Referenda Act 1993, that the petition of &lt;br/&gt; Larry Baldock &lt;br/&gt;has lapsed.&lt;br/&gt;Dated at Wellington this 20th day of December 2010.&lt;br/&gt;MARY HARRIS, Clerk of the House of Representatives.&lt;br/&gt;</description>
+            <category>Notice/Issue/2010/179</category>
+            <pubDate>2010-12-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-ps9822</link>
+            <guid>2010-ps9822</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House </title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 129(1) of the Electoral Act 1993, &lt;br/&gt;I, Alexander Lockwood Smith, Speaker of the House of Representatives, give notice that Winifred Alexandra Laban has resigned her seat in the House of Representatives for the Mana Electoral District...</description>
+            <category>Notice/Issue/2010/141</category>
+            <pubDate>2010-10-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-ps7975</link>
+            <guid>2010-ps7975</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House </title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, Alexander Lockwood Smith, Speaker of the House of Representatives, give notice that David Arthur Garrett has resigned his seat in the House of Representatives effective &lt;br/&gt;at 12.00 midnight on...</description>
+            <category>Notice/Issue/2010/128</category>
+            <pubDate>2010-09-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-ps7539</link>
+            <guid>2010-ps7539</guid>
+        </item>
+        
+        <item>
+            <title>Reappointment of Deputy Controller and Auditor-General</title>
+            <description>Pursuant to section 11(2) of the Public Audit Act 2001, His Excellency the Governor-General of New Zealand has been pleased to reappoint&lt;br/&gt;Phillippa Catherine Smith&lt;br/&gt;as the Deputy Controller and Auditor-General for a term of five years commencing on 8 August 2010.&lt;br/&gt;Dated...</description>
+            <category>Notice/Issue/2010/76</category>
+            <pubDate>2010-07-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-ps5072</link>
+            <guid>2010-ps5072</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Withdrawal of an Indicative Referendum Petition</title>
+            <description>Pursuant to section 22A of the Citizens Initiated Referenda Act 1993, I hereby give notice that:&lt;br/&gt;Unite Union &lt;br/&gt;has withdrawn its petition for an indicative referendum on the following question:&lt;br/&gt;"Should the adult minimum wage be raised in steps over the next...</description>
+            <category>Notice/Issue/2010/55</category>
+            <pubDate>2010-05-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-ps3614</link>
+            <guid>2010-ps3614</guid>
+        </item>
+        
+        <item>
+            <title>Reappointment of Ombudsman and </title>
+            <description>Chief Ombudsman&lt;br/&gt;Pursuant to sections 3 and 5(2) of the Ombudsmen Act 1975, His Excellency the Governor-General has been pleased &lt;br/&gt;to reappoint&lt;br/&gt;Beverley Anne Wakem, CBE, of Wellington&lt;br/&gt;as an Ombudsman and as Chief Ombudsman for a term commencing on 1 March 2010.&lt;br/&gt;Dated...</description>
+            <category>Notice/Issue/2010/23</category>
+            <pubDate>2010-02-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-ps1409</link>
+            <guid>2010-ps1409</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House </title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, Alexander Lockwood Smith, Speaker of the House of Representatives, give notice that Jeanette Mary Fitzsimons has resigned her seat in the House of Representatives effective at 12.00 midnight on...</description>
+            <category>Notice/Issue/2010/13</category>
+            <pubDate>2010-02-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2010-ps963</link>
+            <guid>2010-ps963</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Approval of Form for the Purposes of an Indicative Referendum Petition</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I give notice that&lt;br/&gt; Larry Baldock&lt;br/&gt; - has been approved to use a form for the purposes of an indicative referendum petition.&lt;br/&gt;Dated at Wellington this 10th day of December...</description>
+            <category>Notice/Issue/2009/188</category>
+            <pubDate>2009-12-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-ps10306</link>
+            <guid>2009-ps10306</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that &lt;br/&gt; Larry Baldock&lt;br/&gt; - has been approved to use, for the purposes of &lt;br/&gt;an indicative referendum petition, the wording determined in the paragraph below;&lt;br/&gt;-...</description>
+            <category>Notice/Issue/2009/188</category>
+            <pubDate>2009-12-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-ps10305</link>
+            <guid>2009-ps10305</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House </title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, Alexander Lockwood Smith, Speaker of the House of Representatives, give notice that Susan Bradford has resigned her seat in the House of Representatives effective at 12.00 midnight on Friday,...</description>
+            <category>Notice/Issue/2009/158</category>
+            <pubDate>2009-10-31 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-ps8566</link>
+            <guid>2009-ps8566</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that, on 9 September 2009, I received from &lt;br/&gt;	Larry Baldock &lt;br/&gt;a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put...</description>
+            <category>Notice/Issue/2009/138</category>
+            <pubDate>2009-09-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-ps7652</link>
+            <guid>2009-ps7652</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Controller and Auditor-General</title>
+            <description>Pursuant to section 7(2) of the Public Audit Act 2001, His Excellency the Governor-General of New Zealand has been pleased to appoint&lt;br/&gt;Lynette Diana Provost, of Upper Hutt&lt;br/&gt;as Controller and Auditor-General for a term of 7 years commencing on 5 October...</description>
+            <category>Notice/Issue/2009/131</category>
+            <pubDate>2009-09-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-ps7364</link>
+            <guid>2009-ps7364</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House </title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, Alexander Lockwood Smith, Speaker of the House of Representatives, give notice that Richard Westwood Worth has resigned his seat in the House of Representatives effective at 9.00am on Tuesday,...</description>
+            <category>Notice/Issue/2009/87</category>
+            <pubDate>2009-06-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-ps5195</link>
+            <guid>2009-ps5195</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I give notice that &lt;br/&gt;	Unite Union&lt;br/&gt;	–	has been approved to use, for the purposes of an indicative referendum petition, the wording determined in the paragraph below;&lt;br/&gt;	–	is the promoter of an...</description>
+            <category>Notice/Issue/2009/62</category>
+            <pubDate>2009-05-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-ps3994</link>
+            <guid>2009-ps3994</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House </title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, Alexander Lockwood Smith, Speaker of the House of Representatives, give notice that Michael John Cullen has resigned his seat in the House of Representatives effective at 12.00 midnight on...</description>
+            <category>Notice/Issue/2009/58</category>
+            <pubDate>2009-05-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-ps3568</link>
+            <guid>2009-ps3568</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House </title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 129(1) of the Electoral Act 1993, &lt;br/&gt;I, William Lindsay Tisch, Deputy Speaker of the House of Representatives, give notice that Helen Elizabeth Clark has resigned her seat in the House of Representatives for the &lt;br/&gt;Mt Albert...</description>
+            <category>Notice/Issue/2009/51</category>
+            <pubDate>2009-04-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-ps3497</link>
+            <guid>2009-ps3497</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Unite&lt;br/&gt;a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to voters in an indicative...</description>
+            <category>Notice/Issue/2009/16</category>
+            <pubDate>2009-02-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2009-ps1326</link>
+            <guid>2009-ps1326</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Withdrawal of an Indicative Referendum Petition</title>
+            <description>Pursuant to section 22A of the Citizens Initiated Referenda Act 1993, I hereby give notice that:&lt;br/&gt;William (Bill) Elliott&lt;br/&gt;has withdrawn his petition for an indicative referendum on the following question:&lt;br/&gt;“Should the results of all citizens initiated referenda be binding on the...</description>
+            <category>Notice/Issue/2008/177</category>
+            <pubDate>2008-11-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-ps8753</link>
+            <guid>2008-ps8753</guid>
+        </item>
+        
+        <item>
+            <title>Writ for General Election</title>
+            <description>———&lt;br/&gt;ANAND SATYANAND, Governor-General&lt;br/&gt;To the Chief Electoral Officer:&lt;br/&gt;Pursuant to section 125 of the Electoral Act 1993, I authorise and require you to make all necessary arrangements for the conduct of a general election.&lt;br/&gt;The last day and time for the nomination of...</description>
+            <category>Notice/Issue/2008/157</category>
+            <pubDate>2008-10-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-ps7587</link>
+            <guid>2008-ps7587</guid>
+        </item>
+        
+        <item>
+            <title>Notifying Writ for General Election</title>
+            <description>———&lt;br/&gt;ANAND SATYANAND, Governor-General&lt;br/&gt;A PROCLAMATION&lt;br/&gt;I, The Honourable Anand Satyanand, Governor-General of New Zealand, hereby declare that, pursuant to the Electoral Act 1993, I have today signed the Writ authorising and requiring the Chief Electoral Officer to conduct a general election.&lt;br/&gt;Given under...</description>
+            <category>Notice/Issue/2008/157</category>
+            <pubDate>2008-10-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-ps7588</link>
+            <guid>2008-ps7588</guid>
+        </item>
+        
+        <item>
+            <title>Dissolving the Parliament of New Zealand</title>
+            <description>———&lt;br/&gt;ANAND SATYANAND, Governor-General&lt;br/&gt;A PROCLAMATION&lt;br/&gt;I, The Honourable Anand Satyanand, Governor-General of New Zealand, pursuant to section 18 of the Constitution Act 1986, hereby dissolve the Parliament of New Zealand.&lt;br/&gt;Given under the hand of His Excellency the Governor-General, and issued under the...</description>
+            <category>Notice/Issue/2008/153</category>
+            <pubDate>2008-10-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-ps7435</link>
+            <guid>2008-ps7435</guid>
+        </item>
+        
+        <item>
+            <title>Certification of Indicative Referendum Petition</title>
+            <description>Pursuant to section 18 of the Citizens Initiated Referenda Act 1993, I certify that the petition of &lt;br/&gt;	Sheryl Savill &lt;br/&gt;is correct.&lt;br/&gt;Dated at Wellington this 22nd day of August 2008.&lt;br/&gt;MARY HARRIS, Clerk of the House of Representatives.&lt;br/&gt;</description>
+            <category>Notice/Issue/2008/133</category>
+            <pubDate>2008-08-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-ps6303</link>
+            <guid>2008-ps6303</guid>
+        </item>
+        
+        <item>
+            <title>Notification That Indicative Referendum Petition has Lapsed</title>
+            <description>I hereby certify, pursuant to section 18(1)(b) of the Citizens Initiated Referenda Act 1993, that the petition of&lt;br/&gt;Larry Baldock&lt;br/&gt;has lapsed.&lt;br/&gt;Dated at Wellington this 27th day of June 2008.&lt;br/&gt;MARY HARRIS, Clerk of the House of Representatives.&lt;br/&gt;</description>
+            <category>Notice/Issue/2008/114</category>
+            <pubDate>2008-07-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-ps5096</link>
+            <guid>2008-ps5096</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House </title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, Margaret Anne Wilson, Speaker of the House of Representatives, give notice that Nandor Steven Tanczos has resigned his seat in the House of Representatives with effect at the close...</description>
+            <category>Notice/Issue/2008/105</category>
+            <pubDate>2008-06-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-ps4480</link>
+            <guid>2008-ps4480</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Deputy Clerk of the House of Representatives</title>
+            <description>Pursuant to section 7 of the Clerk of the House of Representatives Act 1988, His Excellency the Governor-General of&lt;br/&gt;New Zealand has been pleased to appoint&lt;br/&gt;Debra June Angus, of Wellington&lt;br/&gt;as Deputy Clerk of the House of Representatives for a term commencing...</description>
+            <category>Notice/Issue/2008/84</category>
+            <pubDate>2008-05-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-ps3404</link>
+            <guid>2008-ps3404</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Chief Ombudsman</title>
+            <description>Pursuant to section 3(4) of the Ombudsmen Act 1975,&lt;br/&gt;His Excellency the Governor-General of New Zealand has been pleased to appoint&lt;br/&gt;Beverley Anne Wakem, C.B.E., Ombudsman of Wellington&lt;br/&gt;as Chief Ombudsman.&lt;br/&gt;Dated at Wellington this 21st day of April 2008.&lt;br/&gt;H. E. CLARK, Prime...</description>
+            <category>Notice/Issue/2008/76</category>
+            <pubDate>2008-04-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-ps2828</link>
+            <guid>2008-ps2828</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House </title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134(1) of the Electoral Act 1993, &lt;br/&gt;I, Margaret Anne Wilson, Speaker of the House of Representatives, give notice that Dianne Fae Yates has resigned her seat in the House of Representatives with effect at the close...</description>
+            <category>Notice/Issue/2008/66</category>
+            <pubDate>2008-03-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-ps2105</link>
+            <guid>2008-ps2105</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House</title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134(1) of the Electoral Act 1993,&lt;br/&gt;I, Margaret Anne Wilson, Speaker of the House of Representatives, give notice that Margaret Ann Hartley&lt;br/&gt;has resigned her seat in the House of Representatives with effect at the close of Thursday,...</description>
+            <category>Notice/Issue/2008/42</category>
+            <pubDate>2008-02-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-ps1404</link>
+            <guid>2008-ps1404</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House</title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134(1) of the Electoral Act 1993,&lt;br/&gt;I, Margaret Anne Wilson, Speaker of the House of Representatives, give notice that Brian John Donnelly &lt;br/&gt;has resigned his seat in the House of Representatives with effect at the close of...</description>
+            <category>Notice/Issue/2008/23</category>
+            <pubDate>2008-02-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2008-ps988</link>
+            <guid>2008-ps988</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Clerk of the House of Representatives</title>
+            <description>Pursuant to section 7 of the Clerk of the House&lt;br/&gt;of Representatives Act 1988, His Excellency the&lt;br/&gt;Governor-General of New Zealand has been pleased&lt;br/&gt;to appoint&lt;br/&gt; Mary Winifred Harris, of Te Horo&lt;br/&gt;as Clerk of the House of Representatives for a term commencing on...</description>
+            <category>Notice/Issue/2007/138</category>
+            <pubDate>2007-12-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps8640</link>
+            <guid>2007-ps8640</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that&lt;br/&gt;	William (Bill) Elliott &lt;br/&gt;	–	has been approved to use, for the purposes of an indicative referendum petition, the wording determined in the paragraph below;&lt;br/&gt;	–	is the promoter...</description>
+            <category>Notice/Issue/2007/130</category>
+            <pubDate>2007-11-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps8174</link>
+            <guid>2007-ps8174</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Acting Chief Ombudsman</title>
+            <description>Pursuant to section 3(5) of the Ombudsmen Act 1975, &lt;br/&gt;His Excellency the Governor-General on 23 November 2007 appointed&lt;br/&gt;Beverley Anne Wakem, C.B.E., Ombudsman, of Wellington&lt;br/&gt;to act for the Chief Ombudsman during the Chief Ombudsman’s incapacity by illness.&lt;br/&gt;Dated at Wellington this 26th...</description>
+            <category>Notice/Issue/2007/130</category>
+            <pubDate>2007-11-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps8194</link>
+            <guid>2007-ps8194</guid>
+        </item>
+        
+        <item>
+            <title>Vacating of Office of Clerk of the House of Representatives</title>
+            <description>I, The Honourable Margaret Wilson, M.P., Speaker of the House of Representatives, give notice that &lt;br/&gt; David Graham McGee, C.N.Z.M., Q.C.,&lt;br/&gt;pursuant to section 11(1) of the Clerk of the House of Representatives Act 1988, has resigned from the office &lt;br/&gt;of...</description>
+            <category>Notice/Issue/2007/112</category>
+            <pubDate>2007-10-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps7234</link>
+            <guid>2007-ps7234</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Ombudsman</title>
+            <description>Pursuant to sections 3 and 5 of the Ombudsmen Act 1975, His Excellency the Governor-General has been pleased to appoint&lt;br/&gt;	David Graham McGee, C.N.Z.M., Q.C., of Wellington&lt;br/&gt;as an Ombudsman, for a term commencing on 19 November 2007.&lt;br/&gt;Dated at Wellington this 15th...</description>
+            <category>Notice/Issue/2007/112</category>
+            <pubDate>2007-10-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps7235</link>
+            <guid>2007-ps7235</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from&lt;br/&gt;	William (Bill) Elliott&lt;br/&gt;a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to voters in an...</description>
+            <category>Notice/Issue/2007/102</category>
+            <pubDate>2007-09-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps6527</link>
+            <guid>2007-ps6527</guid>
+        </item>
+        
+        <item>
+            <title>Appointments to the Abortion Supervisory Committee</title>
+            <description>Pursuant to sections 10 and 11 of the Contraception, Sterilisation, and Abortion Act 1977, His Excellency the Governor-General has been pleased to appoint&lt;br/&gt;Professor Linda Jane Holloway, D.C.N.Z.M., medical practitioner, of Dunedin&lt;br/&gt;as a member and as Chairman of the Abortion Supervisory...</description>
+            <category>Notice/Issue/2007/74</category>
+            <pubDate>2007-06-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps4291</link>
+            <guid>2007-ps4291</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Additional Ombudsman</title>
+            <description>Pursuant to section 8 of the Ombudsmen Act 1975, &lt;br/&gt;His Excellency the Governor-General of New Zealand has been pleased to appoint&lt;br/&gt;	Melwyn Purefoy Smith, of Wellington&lt;br/&gt;as an additional Ombudsman, for a period of six months commencing on 8 June 2007.&lt;br/&gt;Dated at...</description>
+            <category>Notice/Issue/2007/58</category>
+            <pubDate>2007-05-31 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps3674</link>
+            <guid>2007-ps3674</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Deputy Police Complaints Authority</title>
+            <description>Pursuant to section 8 of the Police Complaints Authority Act 1988, His Excellency the Governor-General of New Zealand has been pleased to appoint&lt;br/&gt;Michael Henry Walkinton Lance, acting District Court Judge, of Wellington&lt;br/&gt;as deputy to the Police Complaints Authority for a...</description>
+            <category>Notice/Issue/2007/40</category>
+            <pubDate>2007-04-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps2361</link>
+            <guid>2007-ps2361</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that Larry Baldock:&lt;br/&gt;	–	has been approved to use, for the purposes of an indicative referendum petition, the wording determined in the paragraph below;&lt;br/&gt;	–	is the promoter of...</description>
+            <category>Notice/Issue/2007/24</category>
+            <pubDate>2007-03-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps1231</link>
+            <guid>2007-ps1231</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that Sheryl Savill:&lt;br/&gt;	–	has been approved to use, for the purposes of an indicative referendum petition, the wording determined in the paragraph below;&lt;br/&gt;	–	is the promoter of...</description>
+            <category>Notice/Issue/2007/24</category>
+            <pubDate>2007-03-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps1232</link>
+            <guid>2007-ps1232</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House</title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134(1) of the Electoral Act 1993,&lt;br/&gt;I, Margaret Anne Wilson, Speaker of the House of Representatives, give notice that Georgina Beyer has resigned her seat in the House of Representatives with effect on Friday, 16 February 2007,...</description>
+            <category>Notice/Issue/2007/17</category>
+            <pubDate>2007-02-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps1045</link>
+            <guid>2007-ps1045</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House</title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134(1) of the Electoral Act 1993,&lt;br/&gt;I, Margaret Anne Wilson, Speaker of the House of Representatives, give notice that Donald Thomas Brash&lt;br/&gt;has resigned his seat in the House of Representatives with effect on Tuesday, 6 February 2007,...</description>
+            <category>Notice/Issue/2007/12</category>
+            <pubDate>2007-02-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps677</link>
+            <guid>2007-ps677</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from &lt;br/&gt;Larry Baldock &lt;br/&gt;a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to voters&lt;br/&gt;in an...</description>
+            <category>Notice/Issue/2007/1</category>
+            <pubDate>2007-01-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps262</link>
+            <guid>2007-ps262</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from &lt;br/&gt;Sheryl Savill &lt;br/&gt;a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to voters&lt;br/&gt;in an...</description>
+            <category>Notice/Issue/2007/1</category>
+            <pubDate>2007-01-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2007-ps261</link>
+            <guid>2007-ps261</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Additional Ombudsman</title>
+            <description>Pursuant to section 8 of the Ombudsmen Act 1975,&lt;br/&gt;His Excellency the Governor-General of New Zealand&lt;br/&gt;has been pleased to appoint&lt;br/&gt;Melwyn Purefoy Smith, of Wellington&lt;br/&gt;as an additional Ombudsman, for a period of six months.&lt;br/&gt;Dated at Wellington this 8th day of December 2006.&lt;br/&gt;HELEN...</description>
+            <category>Notice/Issue/2006/172</category>
+            <pubDate>2006-12-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2006-ps8656</link>
+            <guid>2006-ps8656</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Police Complaints Authority</title>
+            <description>Pursuant to sections 4 and 5 of the Police Complaints Authority Act 1988, His Excellency the Governor-General of New Zealand has been pleased to appoint&lt;br/&gt;The Honourable Justice Lowell Patria Goddard, Q.C., High Court Judge, of Wellington&lt;br/&gt;as Police Complaints Authority, for...</description>
+            <category>Notice/Issue/2006/172</category>
+            <pubDate>2006-12-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2006-ps8655</link>
+            <guid>2006-ps8655</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Parliamentary Commissioner for the Environment</title>
+            <description>Pursuant to section 4 of the Environment Act 1986,&lt;br/&gt;His Excellency the Governor-General of New Zealand has been pleased to appoint&lt;br/&gt;Dr Janice Claire Wright, of Wellington&lt;br/&gt;as Parliamentary Commissioner for the Environment, for a term commencing on 5 March 2007.&lt;br/&gt;Dated at Wellington...</description>
+            <category>Notice/Issue/2006/172</category>
+            <pubDate>2006-12-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2006-ps8654</link>
+            <guid>2006-ps8654</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House</title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134 (1) of the Electoral Act 1993,&lt;br/&gt;I, Margaret Anne Wilson, Speaker of the House of Representatives, give notice that James Robert Sutton has resigned his seat in the House of Representatives with effect on Sunday, 30...</description>
+            <category>Notice/Issue/2006/87</category>
+            <pubDate>2006-07-31 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2006-ps5147</link>
+            <guid>2006-ps5147</guid>
+        </item>
+        
+        <item>
+            <title>Notification That Indicative Referendum Petition has Lapsed</title>
+            <description>I hereby certify, pursuant to section 15 (5) of the Citizens Initiated Referenda Act 1993, that the petition of&lt;br/&gt;John van Buren&lt;br/&gt;has lapsed.&lt;br/&gt;Dated at Wellington this 7th day of April 2006.&lt;br/&gt;D. G. MCGEE, Clerk of the House of Representatives.&lt;br/&gt;</description>
+            <category>Notice/Issue/2006/35</category>
+            <pubDate>2006-04-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2006-ps2408</link>
+            <guid>2006-ps2408</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House</title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134 (1) of the Electoral Act 1993,&lt;br/&gt;I, Margaret Anne Wilson, Speaker of the House of Representatives, give notice that by reason of the death of Rod David Donald on 6 November 2005, his seat in the...</description>
+            <category>Notice/Issue/2005/189</category>
+            <pubDate>2005-11-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-ps7561</link>
+            <guid>2005-ps7561</guid>
+        </item>
+        
+        <item>
+            <title>Writ for General Election</title>
+            <description>———&lt;br/&gt;SILVIA CARTWRIGHT, Governor-General&lt;br/&gt;&lt;br/&gt;To the Chief Electoral Officer:&lt;br/&gt;&lt;br/&gt;Pursuant to section 125 of the Electoral Act 1993, I authorise and require you to make all necessary arrangements for the conduct of a general election.&lt;br/&gt;&lt;br/&gt;The last day and time for the nomination of...</description>
+            <category>Notice/Issue/2005/131</category>
+            <pubDate>2005-08-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-ps5424</link>
+            <guid>2005-ps5424</guid>
+        </item>
+        
+        <item>
+            <title>Notifying Writ for General Election</title>
+            <description>———&lt;br/&gt;SILVIA CARTWRIGHT, Governor-General&lt;br/&gt;A PROCLAMATION&lt;br/&gt;&lt;br/&gt;I, The Honourable Dame Silvia Cartwright, Governor-General of New Zealand, hereby declare that, pursuant to the Electoral Act 1993, I have today signed the Writ authorising and requiring the Chief Electoral Officer to conduct a general election.&lt;br/&gt;&lt;br/&gt;Given...</description>
+            <category>Notice/Issue/2005/131</category>
+            <pubDate>2005-08-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-ps5423</link>
+            <guid>2005-ps5423</guid>
+        </item>
+        
+        <item>
+            <title>Dissolving the Parliament of New Zealand</title>
+            <description>———&lt;br/&gt;SILVIA CARTWRIGHT, Governor-General&lt;br/&gt;A PROCLAMATION&lt;br/&gt;I, The Honourable Dame Silvia Cartwright, Governor-General of New Zealand, pursuant to section 18 of the Constitution Act 1986, hereby dissolve the Parliament of New Zealand.&lt;br/&gt;Given under the hand of Her Excellency the Governor-General, and issued under...</description>
+            <category>Notice/Issue/2005/124</category>
+            <pubDate>2005-08-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-ps5264</link>
+            <guid>2005-ps5264</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Withdrawal of an Indicative Referendum Petition</title>
+            <description>Pursuant to section 22A of the Citizens Initiated Referenda Act 1993, I hereby give notice that &lt;br/&gt;	NZflag.com Trust &lt;br/&gt;has withdrawn its petition for an indicative referendum on the following question:&lt;br/&gt;“Should the design of the New Zealand flag be changed?”&lt;br/&gt;Dated at...</description>
+            <category>Notice/Issue/2005/123</category>
+            <pubDate>2005-08-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-ps5087</link>
+            <guid>2005-ps5087</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Deputy Controller and </title>
+            <description>Auditor-General&lt;br/&gt;Pursuant to section 11 of the Public Audit Act 2001, Her Excellency the Governor-General has been pleased to appoint&lt;br/&gt;	Phillippa Catherine Smith, of Wellington&lt;br/&gt;as Deputy Controller and Auditor-General for a term of five years commencing on 8 August 2005.&lt;br/&gt;Dated at Wellington...</description>
+            <category>Notice/Issue/2005/105</category>
+            <pubDate>2005-07-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-ps4130</link>
+            <guid>2005-ps4130</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Deputy to the Police </title>
+            <description>Complaints Authority&lt;br/&gt;Pursuant to section 8 of the Police Complaints Authority Act 1988, Her Excellency the Governor-General has been pleased to appoint&lt;br/&gt;	John Alexander Lemon Gibson, Q.C., of Wellington&lt;br/&gt;as deputy to the Police Complaints Authority for a term of two years.&lt;br/&gt;Dated at...</description>
+            <category>Notice/Issue/2005/100</category>
+            <pubDate>2005-06-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-ps4129</link>
+            <guid>2005-ps4129</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Judicial Conduct Commissioner</title>
+            <description>Pursuant to section 7 (2) and clause 1 (1) of Schedule 2 of the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004, Her Excellency the Governor-General has been pleased to appoint&lt;br/&gt;	Ian Leslie Haynes, O.N.Z.M., of Auckland&lt;br/&gt;as the Judicial Conduct...</description>
+            <category>Notice/Issue/2005/78</category>
+            <pubDate>2005-05-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-ps2817</link>
+            <guid>2005-ps2817</guid>
+        </item>
+        
+        <item>
+            <title>Reappointment of Additional Ombudsman</title>
+            <description>Pursuant to section 8 of the Ombudsmen Act 1975, Her Excellency the Governor-General has been pleased to reappoint&lt;br/&gt;Melwyn Purefoy Smith, of Wellington&lt;br/&gt;as an additional Ombudsman, for a period of six months commencing on 5 June 2005.&lt;br/&gt;Dated at Wellington this 12th...</description>
+            <category>Notice/Issue/2005/70</category>
+            <pubDate>2005-04-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-ps2405</link>
+            <guid>2005-ps2405</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that John van Buren:&lt;br/&gt;	–	has been approved to use, for the purposes of an indicative referendum petition, the wording determined in the paragraph below;&lt;br/&gt;	–	is the promoter...</description>
+            <category>Notice/Issue/2005/62</category>
+            <pubDate>2005-04-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-ps2107</link>
+            <guid>2005-ps2107</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House</title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134 (1) of the Electoral Act 1993,&lt;br/&gt;I, Margaret Anne Wilson, Speaker of the House of Representatives, give notice that Jonathan Lucas Hunt has resigned his seat in the House of Representatives with effect on Thursday, 31...</description>
+            <category>Notice/Issue/2005/59</category>
+            <pubDate>2005-04-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-ps1920</link>
+            <guid>2005-ps1920</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Members of the </title>
+            <description>Electoral Commission&lt;br/&gt;Pursuant to sections 8 (4) (b) and 10 (1A) of the Electoral Act 1993, Her Excellency the Governor-General has been pleased to appoint, on the nomination of the House of Representatives&lt;br/&gt;	David Francis Caygill, of Christchurch&lt;br/&gt;to represent the Government; and&lt;br/&gt;	John...</description>
+            <category>Notice/Issue/2005/52</category>
+            <pubDate>2005-03-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-ps1628</link>
+            <guid>2005-ps1628</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from John Douglas van Buren a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to...</description>
+            <category>Notice/Issue/2005/22</category>
+            <pubDate>2005-01-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2005-ps317</link>
+            <guid>2005-ps317</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Ombudsman</title>
+            <description>Pursuant to section 3 of the Ombudsmen Act 1975,&lt;br/&gt;Her Excellency the Governor-General has been pleased&lt;br/&gt;to appoint&lt;br/&gt;	Beverley Anne Wakem, of Wellington&lt;br/&gt;as an Ombudsman, for a term commencing on 1 March 2005.&lt;br/&gt;Dated at Wellington this 14th day of December 2004.&lt;br/&gt;HELEN CLARK, Prime...</description>
+            <category>Notice/Issue/2004/175</category>
+            <pubDate>2004-12-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-ps8516</link>
+            <guid>2004-ps8516</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House</title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134 (1) of the Electoral Act 1993,&lt;br/&gt;I, Jonathan Lucas Hunt, Speaker of the House of Representatives, give notice that the seat of Donna Lynn Awatere Huata in the House of Representatives has become vacant by reason...</description>
+            <category>Notice/Issue/2004/150</category>
+            <pubDate>2004-11-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-ps7777</link>
+            <guid>2004-ps7777</guid>
+        </item>
+        
+        <item>
+            <title>Certification of Indicative Referendum Petition</title>
+            <description>I hereby certify that, pursuant to sections 16 (2) and 18 (1) (b) of the Citizens Initiated Referenda Act 1993, the petition of &lt;br/&gt;	Larry D. Baldock&lt;br/&gt;and&lt;br/&gt;	Gordon F. Copeland &lt;br/&gt;has lapsed.&lt;br/&gt;Dated at Wellington this 10th day of November 2004.&lt;br/&gt;D. G. MCGEE,...</description>
+            <category>Notice/Issue/2004/145</category>
+            <pubDate>2004-11-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-ps7518</link>
+            <guid>2004-ps7518</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that NZFlag.com Trust:&lt;br/&gt;	-	has been approved to use, for the purposes of an indicative referendum petition, the wording determined in the paragraph below;&lt;br/&gt;	-	is the promoter of...</description>
+            <category>Notice/Issue/2004/132</category>
+            <pubDate>2004-10-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-ps6846</link>
+            <guid>2004-ps6846</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from NZFlag.com Trust a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to voters in...</description>
+            <category>Notice/Issue/2004/93</category>
+            <pubDate>2004-07-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-ps4986</link>
+            <guid>2004-ps4986</guid>
+        </item>
+        
+        <item>
+            <title>Certification of Indicative Referendum Petition</title>
+            <description>I hereby certify that, pursuant to section 15 (5) of the Citizens Initiated Referenda Act 1993, the petition of &lt;br/&gt;	Dennis J. Gates &lt;br/&gt;has lapsed.&lt;br/&gt;Dated at Wellington this 6th day of July 2004.&lt;br/&gt;D. G. MCGEE, Clerk of the House of Representatives....</description>
+            <category>Notice/Issue/2004/85</category>
+            <pubDate>2004-07-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-ps4467</link>
+            <guid>2004-ps4467</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House of Representatives for Te Tai Hauauru</title>
+            <description>Electoral District&lt;br/&gt;Pursuant to section 129 (1) of the Electoral Act 1993,&lt;br/&gt;I, Jonathan Lucas Hunt, Speaker of the House of Representatives, give notice that Tariana Turia has resigned her seat in the House of Representatives for Te Tai Hauauru Electoral District...</description>
+            <category>Notice/Issue/2004/53</category>
+            <pubDate>2004-05-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-ps3189</link>
+            <guid>2004-ps3189</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Police Complaints Authority</title>
+            <description>Pursuant to sections 4 and 5 of the Police Complaints Authority Act 1988, Her Excellency the Governor-General has been pleased to reappoint&lt;br/&gt;	Ian Albert Borrin, of Wellington&lt;br/&gt;as Police Complaints Authority for a term of two years.&lt;br/&gt;Dated at Wellington this 30th day...</description>
+            <category>Notice/Issue/2004/39</category>
+            <pubDate>2004-04-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-ps2171</link>
+            <guid>2004-ps2171</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Withdrawal of Citizens Indicative Referendum Petition </title>
+            <description>I give notice that, in accordance with section 22A (1) of&lt;br/&gt;the Citizens Initiated Referenda Act 1993, the indicative referendum petition of&lt;br/&gt;	Steve Baron&lt;br/&gt;has been withdrawn by the promoter. &lt;br/&gt;Dated at Wellington this 16th day of February 2004.&lt;br/&gt;D. G. MCGEE, Clerk of...</description>
+            <category>Notice/Issue/2004/17</category>
+            <pubDate>2004-02-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2004-ps1080</link>
+            <guid>2004-ps1080</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that Larry D. Baldock, M.P., and Gordon F. Copeland, M.P.: &lt;br/&gt;	-	have been approved to use, for the purposes of an indicative referendum petition, the wording...</description>
+            <category>Notice/Issue/2003/148</category>
+            <pubDate>2003-10-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2003-ps7136</link>
+            <guid>2003-ps7136</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Larry &lt;br/&gt;D. Baldock, M.P., and Gordon F. Copeland, M.P., a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question...</description>
+            <category>Notice/Issue/2003/126</category>
+            <pubDate>2003-09-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2003-ps5853</link>
+            <guid>2003-ps5853</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in House</title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 134 (1) of the Electoral Act 1993,&lt;br/&gt;I, Jonathan Lucas Hunt, Speaker of the House of Representatives, give notice that Graham Desmond Kelly has resigned his seat in the House of Representatives with effect on Friday, 25...</description>
+            <category>Notice/Issue/2003/86</category>
+            <pubDate>2003-07-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2003-ps4800</link>
+            <guid>2003-ps4800</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that Dennis J. Gates:&lt;br/&gt;	-	has been approved to use, for the purposes of&lt;br/&gt;an indicative referendum petition, the wording determined in the paragraph below;&lt;br/&gt;	-	is the promoter of...</description>
+            <category>Notice/Issue/2003/76</category>
+            <pubDate>2003-07-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2003-ps4231</link>
+            <guid>2003-ps4231</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Chief Ombudsman</title>
+            <description>Pursuant to section 3 of the Ombudsmen Act 1975,&lt;br/&gt;Her Excellency the Governor-General has been pleased to appoint&lt;br/&gt;	Maurice John Belgrave &lt;br/&gt;as an Ombudsman, and as Chief Ombudsman, for a term commencing on 1 July 2003.&lt;br/&gt;Dated at Wellington this 19th day of...</description>
+            <category>Notice/Issue/2003/53</category>
+            <pubDate>2003-05-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2003-ps3233</link>
+            <guid>2003-ps3233</guid>
+        </item>
+        
+        <item>
+            <title>Reappointment of Additional Ombudsman</title>
+            <description>Pursuant to section 8 of the Ombudsmen Act 1975,&lt;br/&gt;Her Excellency the Governor-General has been pleased to reappoint&lt;br/&gt;	Melwyn Purefoy Smith, of Wellington &lt;br/&gt;as an additional Ombudsman, for a period of two years commencing on 5 June 2003.&lt;br/&gt;Dated at Wellington this 19th...</description>
+            <category>Notice/Issue/2003/53</category>
+            <pubDate>2003-05-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2003-ps3234</link>
+            <guid>2003-ps3234</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that Steve Baron:&lt;br/&gt;	-	is the promoter of an indicative referendum petition in which the wording determined in the paragraph below is to be used;&lt;br/&gt;	-	has been approved...</description>
+            <category>Notice/Issue/2003/42</category>
+            <pubDate>2003-05-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2003-ps2799</link>
+            <guid>2003-ps2799</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 11 of the Citizens Initiated Referenda Act 1993, I make the following determination:&lt;br/&gt;That the wording of the precise question to be put&lt;br/&gt;to voters in the indicative referendum proposed by Steve Baron is:&lt;br/&gt;		"Should the law be amended to...</description>
+            <category>Notice/Issue/2003/40</category>
+            <pubDate>2003-04-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2003-ps2594</link>
+            <guid>2003-ps2594</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative </title>
+            <description>Referendum Petition&lt;br/&gt;Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Dennis J. Gates a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to...</description>
+            <category>Notice/Issue/2003/36</category>
+            <pubDate>2003-04-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2003-ps2404</link>
+            <guid>2003-ps2404</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Steve Baron a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to voters in...</description>
+            <category>Notice/Issue/2003/13</category>
+            <pubDate>2003-02-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2003-ps1026</link>
+            <guid>2003-ps1026</guid>
+        </item>
+        
+        <item>
+            <title>Notification That Indicative Referendum Petition has Lapsed</title>
+            <description>Notice is hereby given that, in accordance with section 15 (5) of the Citizens Initiated Referenda Act 1993, the petition of &lt;br/&gt;	Ian Wishart, on behalf of The Constitution Trust of&lt;br/&gt;New Zealand,&lt;br/&gt;lapsed on Monday, 21 October 2002.&lt;br/&gt;Dated at Wellington this 22nd...</description>
+            <category>Notice/Issue/2002/158</category>
+            <pubDate>2002-10-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-ps7212</link>
+            <guid>2002-ps7212</guid>
+        </item>
+        
+        <item>
+            <title>Writ for general election</title>
+            <description>---&lt;br/&gt;SILVIA CARTWRIGHT, Governor-General&lt;br/&gt;&lt;br/&gt;To the Chief Electoral Officer:&lt;br/&gt;&lt;br/&gt;Pursuant to section 125 of the Electoral Act 1993, I authorise and require you to make all necessary arrangements for the conduct of a general election.&lt;br/&gt;&lt;br/&gt;The last day and time for the nomination of...</description>
+            <category>Notice/Issue/2002/72</category>
+            <pubDate>2002-06-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-ps4292</link>
+            <guid>2002-ps4292</guid>
+        </item>
+        
+        <item>
+            <title>Notifying writ for general election</title>
+            <description>---&lt;br/&gt;SILVIA CARTWRIGHT, Governor-General&lt;br/&gt;A PROCLAMATION&lt;br/&gt;&lt;br/&gt;I, The Honourable Dame Silvia Cartwright, Governor-General of New Zealand, hereby declare that, pursuant to the Electoral Act 1993, I have today signed the Writ authorising and requiring the Chief Electoral Officer to conduct a general election.&lt;br/&gt;&lt;br/&gt;Given...</description>
+            <category>Notice/Issue/2002/72</category>
+            <pubDate>2002-06-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-ps4280</link>
+            <guid>2002-ps4280</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Deputy Controller and</title>
+            <description>Auditor-General&lt;br/&gt;Pursuant to section 11 of the Public Audit Act 2001,&lt;br/&gt;Her Excellency the Governor-General has been pleased&lt;br/&gt;to appoint&lt;br/&gt;	Kevin John Simpkins of Wellington&lt;br/&gt;as Deputy Controller and Auditor-General for a term of&lt;br/&gt;five years.&lt;br/&gt;Dated at Wellington this 17th day of June 2002.&lt;br/&gt;HELEN CLARK, Prime...</description>
+            <category>Notice/Issue/2002/67</category>
+            <pubDate>2002-06-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-ps4080</link>
+            <guid>2002-ps4080</guid>
+        </item>
+        
+        <item>
+            <title>Dissolving the Parliament of New Zealand</title>
+            <description>---&lt;br/&gt;SILVIA CARTWRIGHT, Governor-General&lt;br/&gt;A PROCLAMATION&lt;br/&gt;&lt;br/&gt;I, The Honourable Dame Silvia Cartwright, Governor-General of New Zealand, pursuant to section 18 of the Constitution Act 1986, hereby dissolve the Parliament of New Zealand.&lt;br/&gt;Given under the hand of Her Excellency the Governor-General, and issued under...</description>
+            <category>Notice/Issue/2002/0</category>
+            <pubDate>2002-06-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-ps4110</link>
+            <guid>2002-ps4110</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Members of the </title>
+            <description>Electoral Commission&lt;br/&gt;Pursuant to sections 8 (4) (b) and 10 (1A) of the Electoral Act 1993, Her Excellency the Governor-General has been pleased to appoint, on the nomination of the House of Representatives&lt;br/&gt;	David Francis Caygill, of Christchurch&lt;br/&gt;to represent the Government; and&lt;br/&gt;	John...</description>
+            <category>Notice/Issue/2002/30</category>
+            <pubDate>2002-03-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-ps2075</link>
+            <guid>2002-ps2075</guid>
+        </item>
+        
+        <item>
+            <title>Notification That Indicative Referendum Petition</title>
+            <description>has Lapsed&lt;br/&gt;Pursuant to section 15 (5) of the Citizens Initiated Referenda Act 1993, I hereby certify that the petition of&lt;br/&gt;	Stuart F. E. Marshall&lt;br/&gt;has lapsed.&lt;br/&gt;Dated at Wellington this 25th day of March 2002.&lt;br/&gt;D. G. MCGEE, Clerk of the House of...</description>
+            <category>Notice/Issue/2002/30</category>
+            <pubDate>2002-03-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-ps2122</link>
+            <guid>2002-ps2122</guid>
+        </item>
+        
+        <item>
+            <title>Corrigendum-Appointment of Controller and Auditor-General</title>
+            <description>Pursuant to section 7 of the Public Audit Act 2001,&lt;br/&gt;Her Excellency the Governor-General has been pleased&lt;br/&gt;to appoint&lt;br/&gt;	Kevin Bernard Brady of Wellington&lt;br/&gt;as Controller and Auditor-General for a term of 7 years commencing on 4 May* 2002.&lt;br/&gt;Dated at Wellington this 27th day...</description>
+            <category>Notice/Issue/2002/26</category>
+            <pubDate>2002-03-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-ps1859</link>
+            <guid>2002-ps1859</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Controller and Auditor-General</title>
+            <description>Pursuant to section 7 of the Public Audit Act 2001,&lt;br/&gt;Her Excellency the Governor-General has been pleased&lt;br/&gt;to appoint&lt;br/&gt;	Kevin Bernard Brady of Wellington&lt;br/&gt;as Controller and Auditor-General for a term of 7 years commencing on 4 March 2002.&lt;br/&gt;Dated at Wellington this 27th day...</description>
+            <category>Notice/Issue/2002/20</category>
+            <pubDate>2002-03-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-ps1505</link>
+            <guid>2002-ps1505</guid>
+        </item>
+        
+        <item>
+            <title>Reappointment of Parliamentary Commissioner for the Environment</title>
+            <description>Pursuant to section 4 of the Environment Act 1986,&lt;br/&gt;Her Excellency the Governor-General has been pleased&lt;br/&gt;to reappoint&lt;br/&gt;	Dr John Morgan Williams of Wellington&lt;br/&gt;as Parliamentary Commissioner for the Environment.&lt;br/&gt;Dated at Wellington this 27th day of February 2002.&lt;br/&gt;HELEN CLARK, Prime Minister.&lt;br/&gt;</description>
+            <category>Notice/Issue/2002/20</category>
+            <pubDate>2002-03-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-ps1506</link>
+            <guid>2002-ps1506</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Additional Ombudsman</title>
+            <description>Pursuant to section 8 of the Ombudsmen Act 1975,&lt;br/&gt;Her Excellency the Governor-General has been pleased to appoint&lt;br/&gt;	Melwyn Purefoy Smith, of Wellington&lt;br/&gt;as an additional Ombudsman for a period of 18 months.&lt;br/&gt;Dated at Wellington this 5th day of December 2001.&lt;br/&gt;HELEN CLARK, Prime...</description>
+            <category>Notice/Issue/2001/168</category>
+            <pubDate>2001-12-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-ps8643</link>
+            <guid>2001-ps8643</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Police Complaints Authority</title>
+            <description>Pursuant to sections 4 and 5 of the Police Complaints Authority Act 1988, Her Excellency the Governor-General has been pleased to appoint&lt;br/&gt;	Ian Albert Borrin, of Wellington&lt;br/&gt;as Police Complaints Authority for a term of 2 years.&lt;br/&gt;Dated at Wellington this 5th day...</description>
+            <category>Notice/Issue/2001/168</category>
+            <pubDate>2001-12-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-ps8644</link>
+            <guid>2001-ps8644</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Deputy Clerk of the House</title>
+            <description>of Representatives&lt;br/&gt;Pursuant to section 7 of the Clerk of the House of Representatives Act 1988, Her Excellency the Governor-General has been pleased to appoint&lt;br/&gt;	Mary Winifred Harris, of Peka Peka &lt;br/&gt;as Deputy Clerk of the House of Representatives for a term...</description>
+            <category>Notice/Issue/2001/168</category>
+            <pubDate>2001-12-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-ps8645</link>
+            <guid>2001-ps8645</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that:&lt;br/&gt;	Ian Wishart on behalf of The Constitution Trust of&lt;br/&gt;New Zealand:&lt;br/&gt;		-	has been approved to use, for the purposes of an indicative referendum petition, the wording determined...</description>
+            <category>Notice/Issue/2001/142</category>
+            <pubDate>2001-10-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-ps7354</link>
+            <guid>2001-ps7354</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Chairman and Members of the Abortion Supervisory Committee</title>
+            <description>Pursuant to sections 10 and 11 of the Contraception, Sterilisation, and Abortion Act 1977, Her Excellency the Governor-General has been pleased to appoint&lt;br/&gt;	Lesley Rothwell medical practitioner of Wellington,&lt;br/&gt;as a member and as Chairman of the Abortion Supervisory Committee, and to...</description>
+            <category>Notice/Issue/2001/138</category>
+            <pubDate>2001-10-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-ps7211</link>
+            <guid>2001-ps7211</guid>
+        </item>
+        
+        <item>
+            <title>Certification of Indicative Referendum Petition</title>
+            <description>I hereby certify that, pursuant to section 15 (5) of the Citizens Initiated Referenda Act 1993, the petition of&lt;br/&gt;	Tim Hawkins&lt;br/&gt;has lapsed.&lt;br/&gt;Dated at Wellington this 22nd day of August 2001.&lt;br/&gt;D. G. MCGEE, Clerk of the House of Representatives.&lt;br/&gt;</description>
+            <category>Notice/Issue/2001/109</category>
+            <pubDate>2001-08-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-ps5994</link>
+            <guid>2001-ps5994</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Ian Wishart a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to voters in...</description>
+            <category>Notice/Issue/2001/84</category>
+            <pubDate>2001-08-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-ps5509</link>
+            <guid>2001-ps5509</guid>
+        </item>
+        
+        <item>
+            <title>Certification of Indicative Referendum Petition</title>
+            <description>I hereby certify that, pursuant to section 15 (5) of the Citizens Initiated Referenda Act 1993, the petition of&lt;br/&gt;	Raymond Lorenzen&lt;br/&gt;has lapsed.&lt;br/&gt;Dated at Wellington this 10th day of July 2001.&lt;br/&gt;D. G. MCGEE, Clerk of the House of Representatives.&lt;br/&gt;</description>
+            <category>Notice/Issue/2001/75</category>
+            <pubDate>2001-07-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-ps5004</link>
+            <guid>2001-ps5004</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that:&lt;br/&gt;	Stuart F. E. Marshall &lt;br/&gt;-	has been approved to use, for the purposes of an indicative referendum petition, the wording determined in the paragraph below;&lt;br/&gt;-	is the...</description>
+            <category>Notice/Issue/2001/30</category>
+            <pubDate>2001-03-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-ps2084</link>
+            <guid>2001-ps2084</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Withdrawal of Proposal for Indicative Referendum Petition</title>
+            <description>I hereby give notice that Dennis Ian Crisp, the promoter of an indicative referendum petition which read:&lt;br/&gt;"Do you believe that New Zealand should hold a binding referendum on whether we should replace MMP by a return to first-past-the-post elections?"&lt;br/&gt;has withdrawn...</description>
+            <category>Notice/Issue/2001/6</category>
+            <pubDate>2001-01-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-ps515</link>
+            <guid>2001-ps515</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Vacancy in Seat in the House</title>
+            <description>of Representatives&lt;br/&gt;MICHAEL HARDIE BOYS, Governor-General&lt;br/&gt;Pursuant to sections 134 (1) and 135 of the Electoral Act 1993, I, The Right Honourable Sir Michael Hardie Boys, Governor-General of New Zealand, hereby give notice&lt;br/&gt;that Simon Upton has resigned his seat in the House...</description>
+            <category>Notice/Issue/2001/3</category>
+            <pubDate>2001-01-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-ps189</link>
+            <guid>2001-ps189</guid>
+        </item>
+        
+        <item>
+            <title>Warrant to Supply Vacancy</title>
+            <description>MICHAEL HARDIE BOYS, Governor-General&lt;br/&gt;To the Chief Electoral Officer&lt;br/&gt;Pursuant to the Electoral Act 1993, I, The Right&lt;br/&gt;Honourable Sir Michael Hardie Boys, Governor-General of New Zealand, hereby authorise and direct you to proceed forthwith to supply a member of Parliament to fill...</description>
+            <category>Notice/Issue/2001/3</category>
+            <pubDate>2001-01-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-ps190</link>
+            <guid>2001-ps190</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda&lt;br/&gt;Act 1993, I give notice that I have received from&lt;br/&gt;Stuart F. E. Marshall a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to voters in...</description>
+            <category>Notice/Issue/2001/1</category>
+            <pubDate>2001-01-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-ps180</link>
+            <guid>2001-ps180</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Dennis Crisp a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to voters in...</description>
+            <category>Notice/Issue/2000/150</category>
+            <pubDate>2000-11-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-ps7918</link>
+            <guid>2000-ps7918</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that:&lt;br/&gt;Tim Hawkins&lt;br/&gt;-	has been approved to use, for the purposes of an indicative referendum petition, the wording determined in the paragraph below;&lt;br/&gt;-	is the promoter of the...</description>
+            <category>Notice/Issue/2000/92</category>
+            <pubDate>2000-08-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-ps6140</link>
+            <guid>2000-ps6140</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative Referendum</title>
+            <description>Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that:&lt;br/&gt;Raymond Lorenzen&lt;br/&gt;-	is the promoter of the indicative referendum petition in which the wording determined in the paragraph below is to be used;&lt;br/&gt;-	has been approved to...</description>
+            <category>Notice/Issue/2000/75</category>
+            <pubDate>2000-07-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-ps4766</link>
+            <guid>2000-ps4766</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Tim Hawkins a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to voters in...</description>
+            <category>Notice/Issue/2000/56</category>
+            <pubDate>2000-05-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-ps3757</link>
+            <guid>2000-ps3757</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Raymond Walter Lorenzen a proposal to promote an indicative referendum petition.&lt;br/&gt;The wording of the question proposed to be put to voters...</description>
+            <category>Notice/Issue/2000/35</category>
+            <pubDate>2000-04-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-ps2422</link>
+            <guid>2000-ps2422</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Ombudsman</title>
+            <description>Pursuant to sections 3 and 5 (2) of the Ombudsmen Act 1975, His Excellency the Governor-General has been pleased to reappoint&lt;br/&gt;	Judge Anand Satyanand of Auckland&lt;br/&gt;as Ombudsman.&lt;br/&gt;Dated at Wellington this 28th day of February 2000.&lt;br/&gt;HELEN CLARK, Prime Minister.&lt;br/&gt;</description>
+            <category>Notice/Issue/2000/18</category>
+            <pubDate>2000-03-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-ps1509</link>
+            <guid>2000-ps1509</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative...</title>
+            <description>Notification of Determination of the Precise Question at an Indicative Referendum Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice: That, The Free New Zealand Party Society Limited has been approved to use, for...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-10-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-ps7590</link>
+            <guid>1999-ps7590</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Parliamentary Counsel His Excellency the Governor-General has been...</title>
+            <description>Appointment of Parliamentary Counsel His Excellency the Governor-General has been pleased to appoint Ross Ian Carter, ll.b. (hons) to be a Parliamentary Counsel, in terms of the Statutes Drafting and Compilation Act 1920, on and from 1 October 1999. Dated...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-09-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-ps7202</link>
+            <guid>1999-ps7202</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Parliamentary Counsel His Excellency the Governor-General has been...</title>
+            <description>Appointment of Parliamentary Counsel His Excellency the Governor-General has been pleased to appoint Sandra Jane Manning, ll.b. (hons) to be a Parliamentary Counsel, in terms of the Statutes Drafting and Compilation Act 1920, on and from 1 October 1999. Dated...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-09-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-ps7203</link>
+            <guid>1999-ps7203</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Lapsed Petition Certification of Indicative Referendum Petition Pursuant...</title>
+            <description>Notification of Lapsed Petition Certification of Indicative Referendum Petition Pursuant to section 18 of the Citizens Initiated Referenda Act 1993, I certify: That the petition of Mr Frederick Richards has lapsed. Dated at Wellington this 19th day of August 1999....</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-08-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-ps6198</link>
+            <guid>1999-ps6198</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative...</title>
+            <description>Notification of Determination of the Precise Question at an Indicative Referendum Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice: That Julie Waring has been approved to use, for the purposes of an indicative...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-08-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-ps5851</link>
+            <guid>1999-ps5851</guid>
+        </item>
+        
+        <item>
+            <title>Citizens Initiated Referendum (Appointed Day) Order (No. 2) 1999 ...</title>
+            <description>Citizens Initiated Referendum (Appointed Day) Order (No. 2) 1999  MICHAEL HARDIE BOYS, Governor-General  ORDER IN COUNCIL   At Wellington this 26th day of July 1999   Present:   The Right Hon. Jenny Shipley Presiding in...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-07-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-ps5466</link>
+            <guid>1999-ps5466</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from The Free New Zealand Party Society Incorporated a proposal to promote an...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-07-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-ps4828</link>
+            <guid>1999-ps4828</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Lapsed Petition Certification of Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Lapsed Petition Certification of Indicative Referendum Petition Pursuant to section 18 of the Citizens Initiated Referenda Act 1993, I certify that the petition of Mr Frederick Richards has lapsed. Dated at Wellington this 3rd day of June 1999....</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-06-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-ps4121</link>
+            <guid>1999-ps4121</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Julie Waring a proposal to promote an indicative referendum petition. The wording...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-05-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-ps3404</link>
+            <guid>1999-ps3404</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Appointment of Parliamentary Counsel His Excellency the Governor-General...</title>
+            <description>Notice of Appointment of Parliamentary Counsel His Excellency the Governor-General has been pleased to appoint David Ernest Marriott, ll.b. (hons) to be a Parliamentary Counsel, in terms of the Statutes Drafting and Compilation Act 1920, on and from 12 April...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-04-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-ps2659</link>
+            <guid>1999-ps2659</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative...</title>
+            <description>Notification of Determination of the Precise Question at an Indicative Referendum Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice: That Mr Gavin Piercy has been approved to use, for the purposes of an...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-03-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-ps2151</link>
+            <guid>1999-ps2151</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Parliamentary Counsel His Excellency the Governor-General has been...</title>
+            <description>Appointment of Parliamentary Counsel His Excellency the Governor-General has been pleased to appoint Mark Wallace Gobbi, b.s.f.s. (hons), j.d., ll.m. (hons) to be a Parliamentary Counsel, in terms of the Statutes Drafting and Compilation Act 1920, on and from 3...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-02-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-ps1313</link>
+            <guid>1999-ps1313</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative...</title>
+            <description>Notification of Determination of the Precise Question at an Indicative Referendum Petition Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice: That Mr Frederick Richards has been approved to use, for the purposes of...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-05-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-ps3469</link>
+            <guid>1998-ps3469</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Parliamentary Counsel His Excellency the Governor-General, has been...</title>
+            <description>Appointment of Parliamentary Counsel His Excellency the Governor-General, has been pleased to appoint William Alexander Moore, b.a., ll.b. to be a Parliamentary Counsel, in terms of the Statutes Drafting and Compilation Act 1920, on and from 3 August 1998. Dated...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-05-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-ps3120</link>
+            <guid>1998-ps3120</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Parliamentary Counsel His Excellency the Governor-General, has been...</title>
+            <description>Appointment of Parliamentary Counsel His Excellency the Governor-General, has been pleased to appoint Fiona Helen Leonard, b.a., ll.b.(hons) to be a Parliamentary Counsel, in terms of the Statutes Drafting and Compilation Act 1920, on and from 30 March 1998. Dated...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-04-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-ps2727</link>
+            <guid>1998-ps2727</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Chief Ombudsman Pursuant to sections 3 and 5...</title>
+            <description>Appointment of Chief Ombudsman Pursuant to sections 3 and 5 (2) of the Ombudsmen Act 1975, His Excellency the Governor-General has been pleased to reappoint Sir Brian George Conway Elwood, c.b.e., of Wellington as Chief Ombudsman. Dated at Wellington this...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-03-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-ps1695</link>
+            <guid>1998-ps1695</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative...</title>
+            <description>Notification of Determination of the Precise Question at an Indicative Referendum Petition Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice: That Mr Norm Withers has been approved to use, for the purposes of...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-01-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-ps304</link>
+            <guid>1998-ps304</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Member of the Abortion Supervisory Committee Pursuant to...</title>
+            <description>Appointment of Member of the Abortion Supervisory Committee Pursuant to sections 10 and 11 of the Contraception, Sterilisation, and Abortion Act 1977, His Excellency the Governor-General has been pleased to appoint John Robert Whittaker, medical practitioner of Auckland as a...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-01-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-ps83</link>
+            <guid>1998-ps83</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative...</title>
+            <description>Notification of Determination of the Precise Question at an Indicative Referendum Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice that the Cancer Society of New Zealand Inc.: has been approved to use, for...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-12-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-ps8938</link>
+            <guid>1997-ps8938</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from the Cancer Society of New Zealand Incorporated a proposal to promote an...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-10-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-ps7411</link>
+            <guid>1997-ps7411</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Mr Norm Withers, a proposal to promote an indicative referendum petition. The...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-10-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-ps7159</link>
+            <guid>1997-ps7159</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Deputy to the Police Complaints Authority Pursuant to...</title>
+            <description>Appointment of Deputy to the Police Complaints Authority Pursuant to section 8 of the Police Complaints Authority Act 1988, His Excellency the Governor-General, has been pleased to appoint Ian Albert Borrin District Court Judge of Wellington, as deputy to the...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-09-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-ps6332</link>
+            <guid>1997-ps6332</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative...</title>
+            <description>Notification of Determination of the Precise Question at an Indicative Referendum Petition Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice: That Margaret Robertson has been approved to use, for the purposes of an...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-08-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-ps5968</link>
+            <guid>1997-ps5968</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Margaret Robertson a proposal to promote an indicative referendum petition. The wording...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-06-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-ps4296</link>
+            <guid>1997-ps4296</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Parliamentary Counsel His Excellency the Governor-General, has been...</title>
+            <description>Appointment of Parliamentary Counsel His Excellency the Governor-General, has been pleased to appoint Catherine Frances Yates, ll.b. (hons) to be a Parliamentary Counsel, in terms of the Statutes Drafting and Compilation Act 1920, on and from 21 July 1997. Dated...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-06-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-ps4081</link>
+            <guid>1997-ps4081</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative...</title>
+            <description>Notification of Determination of the Precise Question at an Indicative Referendum Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice: That Mark Whyte has been approved to use, for the purposes of an indicative...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-06-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-ps4040</link>
+            <guid>1997-ps4040</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Mark Whyte a proposal to promote an indicative referendum petition. The wording...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-03-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-ps1725</link>
+            <guid>1997-ps1725</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative...</title>
+            <description>Notification of Determination of the Precise Question at an Indicative Referendum Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice: That Nga Kaitiaki o te Waonui a Taane o Aotearoa has been approved to...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-10-31 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-ps7069</link>
+            <guid>1996-ps7069</guid>
+        </item>
+        
+        <item>
+            <title>Royal Society of New Zealand Bill Notice of Intention to...</title>
+            <description>Royal Society of New Zealand Bill Notice of Intention to Promote a Private Bill Notice is hereby given that the Royal Society of New Zealand intends to promote a private Bill under the short title of the ``Royal Society of...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-09-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-ps5390</link>
+            <guid>1996-ps5390</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Nga Kaitiaki o Te Waonui a Taane o Aotearoa a proposal to...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-08-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-ps4932</link>
+            <guid>1996-ps4932</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Parliamentary Commissioner for the Environment Pursuant to section...</title>
+            <description>Appointment of Parliamentary Commissioner for the Environment Pursuant to section 4 of the Environment Act 1986, His Excellency the Governor-General of New Zealand has been pleased to appoint Dr John Morgan Williams as Parliamentary Commissioner for the Environment for a...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-07-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-ps5079</link>
+            <guid>1996-ps5079</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote Medical Assurance Society Members&#039; Trust...</title>
+            <description>Notice of Intention to Promote Medical Assurance Society Members' Trust (Exemption from Perpetuities) Bill 1996 The Medical Assurance Society New Zealand Limited intends to promote a Private Bill under the short title ``The Medical Assurance Society Members' Trust (Exemption from...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-06-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-ps3466</link>
+            <guid>1996-ps3466</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Apply for Leave to Introduce a...</title>
+            <description>Notice of Intention to Apply for Leave to Introduce a Private Bill in the House of Representatives Take notice that the ST. PETER'S SCHOOL TRUST BOARD, a board incorporated under the Charitable Trusts Act 1957, gives notice that it intends...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-06-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-ps3378</link>
+            <guid>1996-ps3378</guid>
+        </item>
+        
+        <item>
+            <title>East Coast Trustee Company Limited Bill Notice of Intention to...</title>
+            <description>East Coast Trustee Company Limited Bill Notice of Intention to Promote a Private Bill Notice is hereby given that East Coast Trustee Company Limited, a company established as a body corporate under the Companies Act 1955 (called ``the promoter'') intends...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-06-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-ps3398</link>
+            <guid>1996-ps3398</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Jim Anderton, m.p., a proposal to promote indicative referendum petition. The wording...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-04-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-ps2524</link>
+            <guid>1996-ps2524</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from the Voluntary Euthanasia Society (Auckland) Inc. and Cam Campion a proposal to...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-09-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-ps6450</link>
+            <guid>1995-ps6450</guid>
+        </item>
+        
+        <item>
+            <title>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note:...</title>
+            <description>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note: The title of the Act is shown in italics where this differs from the Bill. [qp] Government Bills  Assent No. 23 June 1995  Appropriation (1994/95 Supplementary Estimates) 29...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-07-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-ps4283</link>
+            <guid>1995-ps4283</guid>
+        </item>
+        
+        <item>
+            <title>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note:...</title>
+            <description>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note: The title of the Act is shown in italics where this differs from the Bill. [qp] Government Bills  Assent No. 10 April 1995  Appropriation (Financial Review) Bill (No....</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-04-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-ps2579</link>
+            <guid>1995-ps2579</guid>
+        </item>
+        
+        <item>
+            <title>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note:...</title>
+            <description>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note: The title of the Act is shown in italics where this differs from the Bill. [qp] Government Bills  Assent No. 30 March 1995  Customs Amendment Bill (No. 3)...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-04-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-ps2320</link>
+            <guid>1995-ps2320</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from the One New Zealand Foundation Inc. a proposal to promote an indicative...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-01-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-ps314</link>
+            <guid>1995-ps314</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Chief Ombudsman Pursuant to section 3 of the...</title>
+            <description>Appointment of Chief Ombudsman Pursuant to section 3 of the Ombudsmen Act 1975, Her Excellency the Governor-General has been pleased to appoint Sir Brian George Conway Elwood, c.b.e., of Wellington as Chief Ombudsman commencing on the 14th day of December...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-12-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps9132</link>
+            <guid>1994-ps9132</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Ombudsman Pursuant to section 3 of the Ombudsmen...</title>
+            <description>Appointment of Ombudsman Pursuant to section 3 of the Ombudsmen Act 1975, Her Excellency the Governor-General has been pleased to appoint Judge Anand Satyanand of Auckland as Ombudsman for a term commencing on the 14th day of February 1995. Dated...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-12-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps9134</link>
+            <guid>1994-ps9134</guid>
+        </item>
+        
+        <item>
+            <title>Declaration Under District Courts Act 1947 Relating to Appointment of...</title>
+            <description>Declaration Under District Courts Act 1947 Relating to Appointment of District Court Judge as Ombudsman Pursuant to section 5 (4) of the District Courts Act 1947, Her Excellency the Governor-General has declared that in her opinion holding the office of...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-12-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps9135</link>
+            <guid>1994-ps9135</guid>
+        </item>
+        
+        <item>
+            <title>Approval Under Ombudsmen Act 1975 Relating to Appointment of District...</title>
+            <description>Approval Under Ombudsmen Act 1975 Relating to Appointment of District Court Judge as Ombudsman Pursuant to section 4 of the Ombudsmen Act 1975, I have approved Anand Satyanand continuing to hold office as a District Court Judge while he holds...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-12-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps9133</link>
+            <guid>1994-ps9133</guid>
+        </item>
+        
+        <item>
+            <title>Pursuant to section 7 of the Citizens Initiated Referenda Act...</title>
+            <description>Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from the Next Step Democracy Movement proposals to promote indicative referendum petitions. The wording of the questions proposed to be put to...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-12-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps8893</link>
+            <guid>1994-ps8893</guid>
+        </item>
+        
+        <item>
+            <title>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note:...</title>
+            <description>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note: The title of the Act is shown in italics where this differs from the Bill. [qp] Local Bills  Assent No. 29 November 1994  Manukau City Council (Pine Harbour...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-12-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps8856</link>
+            <guid>1994-ps8856</guid>
+        </item>
+        
+        <item>
+            <title>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note:...</title>
+            <description>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note: The title of the Act is shown in italics where this differs from the Bill. [qp] Government Bills  Assent No. 25 November 1994  Veterinarians 107 Conservation Amendment (No....</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-12-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps8665</link>
+            <guid>1994-ps8665</guid>
+        </item>
+        
+        <item>
+            <title>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note:...</title>
+            <description>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note: The title of the Act is shown in italics where this differs from the Bill. [qp] Government Bills  Assent No. 17 November 1994  Maritime Transport 104 Resource Management...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-11-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps8496</link>
+            <guid>1994-ps8496</guid>
+        </item>
+        
+        <item>
+            <title>IMPORTANT --- READ BELOW ******************************************************** [XI] Summary of Bills Presented...</title>
+            <description>IMPORTANT --- READ BELOW ******************************************************** [XI] Summary of Bills Presented This section contains a prcis of all bills presented to the House this week. Not all bills presented are introduced. The introduction of a bill requires the agreement of the...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-11-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps8296</link>
+            <guid>1994-ps8296</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative...</title>
+            <description>Notification of Determination of the Precise Question at an Indicative Referendum Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice: That Mr William Maung Maung [ix]has been approved to use, for the purposes of...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-11-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps8313</link>
+            <guid>1994-ps8313</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from The New Zealand Professional Firefighters Union a proposal to promote an indicative...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-11-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps8312</link>
+            <guid>1994-ps8312</guid>
+        </item>
+        
+        <item>
+            <title>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note:...</title>
+            <description>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note: The title of the Act is shown in italics where this differs from the Bill. [qp] Government Bills  Assent No. 20 October 1994 Health and Disability Commissioner 88 Physiotherapy...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-11-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps7826</link>
+            <guid>1994-ps7826</guid>
+        </item>
+        
+        <item>
+            <title>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note:...</title>
+            <description>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note: The title of the Act is shown in italics where this differs from the Bill. [qp] Government Bills  Assent No. 1 October 1994  Social Security Amendment 86 Fisheries...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-10-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps7326</link>
+            <guid>1994-ps7326</guid>
+        </item>
+        
+        <item>
+            <title>Appointment of Chairman and Member of the Abortion Supervisory Committee...</title>
+            <description>Appointment of Chairman and Member of the Abortion Supervisory Committee Pursuant to section 12 (2) of the Contraception, Sterilisation, and Abortion Act 1977, Her Excellency the Governor-General has been pleased to appoint Christine Shirley Forster medical practitioner of Auckland, as...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-09-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps6938</link>
+            <guid>1994-ps6938</guid>
+        </item>
+        
+        <item>
+            <title>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note:...</title>
+            <description>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Assented To Note: The title of the Act is shown in italics where this differs from the Bill. [qp] Government Bills  Assent No. 14 September 1994  Income Tax Amendment (No. 2)...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-09-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps6960</link>
+            <guid>1994-ps6960</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Withdrawal of Proposals to Promote Indicative Referendum Petitions...</title>
+            <description>Notice of Withdrawal of Proposals to Promote Indicative Referendum Petitions I give notice that the Next Step Democracy Movement has withdrawn the 6 proposals for indicative referenda lodged on 20 June 1994, notice of the receipt of which was given...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-09-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps7007</link>
+            <guid>1994-ps7007</guid>
+        </item>
+        
+        <item>
+            <title>Summary of Bills Presented This section contains a prcis of...</title>
+            <description>Summary of Bills Presented This section contains a prcis of all bills presented to the House this week. Not all bills presented are introduced. The introduction of a bill requires the agreement of the House. Social Security (Income Exemption) Seeks...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-09-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps6835</link>
+            <guid>1994-ps6835</guid>
+        </item>
+        
+        <item>
+            <title>Member of the House of Representatives Elected, Selwyn Electoral District...</title>
+            <description>Member of the House of Representatives Elected, Selwyn Electoral District Pursuant to the Electoral Act 1993, the writ issued on 19 July 1994 for the election of a Member of Parliament to serve in the House of Representatives for the...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-09-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps6365</link>
+            <guid>1994-ps6365</guid>
+        </item>
+        
+        <item>
+            <title>Summary of Bills Presented This section contains a prcis of...</title>
+            <description>Summary of Bills Presented This section contains a prcis of all bills presented to the House this week. Not all bills presented are introduced. The introduction of a bill requires the agreement of the House. Long Term Care of the...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-09-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps6451</link>
+            <guid>1994-ps6451</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Mr William Maung Maung a proposal to promote an indicative referendum petition....</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-09-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps6484</link>
+            <guid>1994-ps6484</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative...</title>
+            <description>Notification of Determination of the Precise Question at an Indicative Referendum Pursuant to section 13 of the Citizens Initiated Referenda Act 1991, I hereby give notice: That Michael Laws, M.P.; Hon. Winston Peters, M.P.; and Geoff Braybrooke, M.P. have been...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-08-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps6164</link>
+            <guid>1994-ps6164</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Approval of Form to be Used for the...</title>
+            <description>Notification of Approval of Form to be Used for the Collection of Signatures for an Indicative Referendum Petition Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice: That the Christian Heritage Party of New...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-06-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps4836</link>
+            <guid>1994-ps4836</guid>
+        </item>
+        
+        <item>
+            <title>Government Bill  (Minister/Member in Charge shown in parenthesis) Referred...</title>
+            <description>Government Bill  (Minister/Member in Charge shown in parenthesis) Referred to Select Committee 26 May 1994  Finance (Rt Hon W. F. Birch) Finance and Expenditure [xt]   [xt]  Summary of Bills Presented Finance (a) Amends the Fishing...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-06-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps4155</link>
+            <guid>1994-ps4155</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from Michael Laws, M.P., Hon. Winston Peters, M.P., and Geoff Braybrooke, M.P., a...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-06-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps4045</link>
+            <guid>1994-ps4045</guid>
+        </item>
+        
+        <item>
+            <title>Notification of Determination of the Precise Question at an Indicative...</title>
+            <description>Notification of Determination of the Precise Question at an Indicative Referendum Pursuant to section 13 of the Citizens Initiated Referenda Act 1993, I hereby give notice: That the Royal New Zealand Society for the Prevention of Cruelty to Animals Incorporated...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-04-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps3107</link>
+            <guid>1994-ps3107</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from the Christian Heritage Party of New Zealand Incorporated, a proposal to promote...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-04-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps2784</link>
+            <guid>1994-ps2784</guid>
+        </item>
+        
+        <item>
+            <title>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Introduced  (Minister/Member...</title>
+            <description>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Introduced  (Minister/Member in Charge shown in parenthesis) Referred to Select Committee Local Bills [rt] 23 March 1994  [pk] Hastings District Council (Sale of Liquor) Empowering  (Rick Barker) Internal Affairs and...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-03-31 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps2458</link>
+            <guid>1994-ps2458</guid>
+        </item>
+        
+        <item>
+            <title>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Introduced  (Minister/Member...</title>
+            <description>IMPORTANT --- READ BELOW ******************************************************** [XI] Bills Introduced  (Minister/Member in Charge shown in parenthesis) Referred to Select Committee Private Bills [rt] 9 March 1994  [pk] National Bank of New Zealand Limited  (Pauline Gardiner) Justice and Law Reform...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-03-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps1995</link>
+            <guid>1994-ps1995</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant...</title>
+            <description>Notice of Proposal to Promote an Indicative Referendum Petition Pursuant to section 7 of the Citizens Initiated Referenda Act 1993, I give notice that I have received from the Royal New Zealand Society for the Prevention of Cruelty to Animals...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-02-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-ps976</link>
+            <guid>1994-ps976</guid>
+        </item>
+        
+    </channel>
+</rss>

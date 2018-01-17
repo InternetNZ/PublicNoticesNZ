@@ -1,0 +1,3284 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>New Zealand Gazette Notices Feed</title>
+        <link>https://gazette.govt.nz/home/NoticeSearch?noticeType=dl</link>
+		<atom:link href="https://gazette.govt.nz/home/NoticeSearch?noticeType=dl" rel="self" type="application/rss+xml" />
+		<description>New Zealand Gazette XML feed based on search: https://gazette.govt.nz/home/NoticeSearch?noticeType=dl</description>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 30%;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 40%; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Serial &lt;br&gt;Number&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2018/</category>
+            <pubDate>2018-01-11 09:02:01</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2018-dl85</link>
+            <guid>2018-dl85</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 30%;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 40%; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Serial &lt;br&gt;Number&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/</category>
+            <pubDate>2017-12-21 09:01:02</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl6725</link>
+            <guid>2017-dl6725</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 30%;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 40%; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Serial &lt;br...</description>
+            <category>Notice/Issue/2017/</category>
+            <pubDate>2017-12-18 09:02:01</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl6687</link>
+            <guid>2017-dl6687</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 30%;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 40%; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Serial &lt;br&gt;Number&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/</category>
+            <pubDate>2017-12-14 10:00:21</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl6621</link>
+            <guid>2017-dl6621</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 30%;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 40%; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Serial &lt;br&gt;Number&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/</category>
+            <pubDate>2017-12-07 10:00:23</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl6459</link>
+            <guid>2017-dl6459</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 30%;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 40%; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Serial &lt;br&gt;Number&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/</category>
+            <pubDate>2017-11-30 09:41:02</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl6338</link>
+            <guid>2017-dl6338</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 30%;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 40%; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Serial &lt;br&gt;Number&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/</category>
+            <pubDate>2017-11-23 09:00:39</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl6188</link>
+            <guid>2017-dl6188</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 30%;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 40%; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Serial &lt;br&gt;Number&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/</category>
+            <pubDate>2017-11-16 10:00:53</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl6058</link>
+            <guid>2017-dl6058</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/106</category>
+            <pubDate>2017-10-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl5449</link>
+            <guid>2017-dl5449</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/102</category>
+            <pubDate>2017-10-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl5218</link>
+            <guid>2017-dl5218</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/100</category>
+            <pubDate>2017-09-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl5083</link>
+            <guid>2017-dl5083</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/97</category>
+            <pubDate>2017-09-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl4938</link>
+            <guid>2017-dl4938</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/96</category>
+            <pubDate>2017-09-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl4867</link>
+            <guid>2017-dl4867</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/92</category>
+            <pubDate>2017-09-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl4813</link>
+            <guid>2017-dl4813</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/90</category>
+            <pubDate>2017-09-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl4707</link>
+            <guid>2017-dl4707</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/88</category>
+            <pubDate>2017-08-31 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl4570</link>
+            <guid>2017-dl4570</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/86</category>
+            <pubDate>2017-08-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl4411</link>
+            <guid>2017-dl4411</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/83</category>
+            <pubDate>2017-08-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl4271</link>
+            <guid>2017-dl4271</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/80</category>
+            <pubDate>2017-08-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl4144</link>
+            <guid>2017-dl4144</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/78</category>
+            <pubDate>2017-08-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl4084</link>
+            <guid>2017-dl4084</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/77</category>
+            <pubDate>2017-08-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl3997</link>
+            <guid>2017-dl3997</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/75</category>
+            <pubDate>2017-07-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl3860</link>
+            <guid>2017-dl3860</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/73</category>
+            <pubDate>2017-07-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl3596</link>
+            <guid>2017-dl3596</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/72</category>
+            <pubDate>2017-07-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl3556</link>
+            <guid>2017-dl3556</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/71</category>
+            <pubDate>2017-07-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl3466</link>
+            <guid>2017-dl3466</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/69</category>
+            <pubDate>2017-06-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl3341</link>
+            <guid>2017-dl3341</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/65</category>
+            <pubDate>2017-06-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl3182</link>
+            <guid>2017-dl3182</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/63</category>
+            <pubDate>2017-06-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl3047</link>
+            <guid>2017-dl3047</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/60</category>
+            <pubDate>2017-06-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl2896</link>
+            <guid>2017-dl2896</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/58</category>
+            <pubDate>2017-06-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl2757</link>
+            <guid>2017-dl2757</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/54</category>
+            <pubDate>2017-05-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl2604</link>
+            <guid>2017-dl2604</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/52</category>
+            <pubDate>2017-05-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl2448</link>
+            <guid>2017-dl2448</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/50</category>
+            <pubDate>2017-05-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl2372</link>
+            <guid>2017-dl2372</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/49</category>
+            <pubDate>2017-05-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl2273</link>
+            <guid>2017-dl2273</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/42</category>
+            <pubDate>2017-04-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl1925</link>
+            <guid>2017-dl1925</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/41</category>
+            <pubDate>2017-04-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl1911</link>
+            <guid>2017-dl1911</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/39</category>
+            <pubDate>2017-04-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl1847</link>
+            <guid>2017-dl1847</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/35</category>
+            <pubDate>2017-03-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl1541</link>
+            <guid>2017-dl1541</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/33</category>
+            <pubDate>2017-03-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl1429</link>
+            <guid>2017-dl1429</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/29</category>
+            <pubDate>2017-03-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl1271</link>
+            <guid>2017-dl1271</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/22</category>
+            <pubDate>2017-03-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl1002</link>
+            <guid>2017-dl1002</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/20</category>
+            <pubDate>2017-02-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl941</link>
+            <guid>2017-dl941</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/19</category>
+            <pubDate>2017-02-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl866</link>
+            <guid>2017-dl866</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/15</category>
+            <pubDate>2017-02-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl714</link>
+            <guid>2017-dl714</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/13</category>
+            <pubDate>2017-02-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl581</link>
+            <guid>2017-dl581</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/11</category>
+            <pubDate>2017-02-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl456</link>
+            <guid>2017-dl456</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/8</category>
+            <pubDate>2017-01-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl345</link>
+            <guid>2017-dl345</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2017/4</category>
+            <pubDate>2017-01-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2017-dl243</link>
+            <guid>2017-dl243</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/121</category>
+            <pubDate>2016-12-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl7316</link>
+            <guid>2016-dl7316</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/118</category>
+            <pubDate>2016-12-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl7133</link>
+            <guid>2016-dl7133</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/116</category>
+            <pubDate>2016-12-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl7083</link>
+            <guid>2016-dl7083</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/113</category>
+            <pubDate>2016-12-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl6949</link>
+            <guid>2016-dl6949</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/112</category>
+            <pubDate>2016-12-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl6821</link>
+            <guid>2016-dl6821</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/111</category>
+            <pubDate>2016-11-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl6815</link>
+            <guid>2016-dl6815</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/108</category>
+            <pubDate>2016-11-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl6692</link>
+            <guid>2016-dl6692</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/106</category>
+            <pubDate>2016-11-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl6621</link>
+            <guid>2016-dl6621</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/103</category>
+            <pubDate>2016-11-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl6479</link>
+            <guid>2016-dl6479</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/101</category>
+            <pubDate>2016-11-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl6402</link>
+            <guid>2016-dl6402</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/99</category>
+            <pubDate>2016-11-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl6267</link>
+            <guid>2016-dl6267</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table class=" indent" style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title...</description>
+            <category>Notice/Issue/2016/97</category>
+            <pubDate>2016-10-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl6125</link>
+            <guid>2016-dl6125</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/95</category>
+            <pubDate>2016-10-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl6025</link>
+            <guid>2016-dl6025</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/93</category>
+            <pubDate>2016-10-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl5867</link>
+            <guid>2016-dl5867</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/86</category>
+            <pubDate>2016-09-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl5590</link>
+            <guid>2016-dl5590</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/84</category>
+            <pubDate>2016-09-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl5463</link>
+            <guid>2016-dl5463</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/81</category>
+            <pubDate>2016-09-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl5329</link>
+            <guid>2016-dl5329</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/79</category>
+            <pubDate>2016-09-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl5205</link>
+            <guid>2016-dl5205</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class=" indent" style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title...</description>
+            <category>Notice/Issue/2016/77</category>
+            <pubDate>2016-09-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl5100</link>
+            <guid>2016-dl5100</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/75</category>
+            <pubDate>2016-08-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl4924</link>
+            <guid>2016-dl4924</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/73</category>
+            <pubDate>2016-08-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl4873</link>
+            <guid>2016-dl4873</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/72</category>
+            <pubDate>2016-08-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl4767</link>
+            <guid>2016-dl4767</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/71</category>
+            <pubDate>2016-08-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl4640</link>
+            <guid>2016-dl4640</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/69</category>
+            <pubDate>2016-08-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl4506</link>
+            <guid>2016-dl4506</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/67</category>
+            <pubDate>2016-07-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl4379</link>
+            <guid>2016-dl4379</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/66</category>
+            <pubDate>2016-07-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl4342</link>
+            <guid>2016-dl4342</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/64</category>
+            <pubDate>2016-07-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl4238</link>
+            <guid>2016-dl4238</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/63</category>
+            <pubDate>2016-07-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl4100</link>
+            <guid>2016-dl4100</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/61</category>
+            <pubDate>2016-07-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl3945</link>
+            <guid>2016-dl3945</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/60</category>
+            <pubDate>2016-06-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl3796</link>
+            <guid>2016-dl3796</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/58</category>
+            <pubDate>2016-06-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl3615</link>
+            <guid>2016-dl3615</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/54</category>
+            <pubDate>2016-06-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl3470</link>
+            <guid>2016-dl3470</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr style="height: 50px;"&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top; height: 50px;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top;...</description>
+            <category>Notice/Issue/2016/53</category>
+            <pubDate>2016-06-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl3327</link>
+            <guid>2016-dl3327</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/50</category>
+            <pubDate>2016-06-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl3203</link>
+            <guid>2016-dl3203</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/44</category>
+            <pubDate>2016-05-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl2882</link>
+            <guid>2016-dl2882</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/42</category>
+            <pubDate>2016-05-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl2703</link>
+            <guid>2016-dl2703</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr style="height: 50px;"&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top; height: 50px;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top;...</description>
+            <category>Notice/Issue/2016/34</category>
+            <pubDate>2016-04-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl2300</link>
+            <guid>2016-dl2300</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/31</category>
+            <pubDate>2016-04-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl2116</link>
+            <guid>2016-dl2116</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class=" indent" style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title...</description>
+            <category>Notice/Issue/2016/29</category>
+            <pubDate>2016-04-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl1954</link>
+            <guid>2016-dl1954</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/25</category>
+            <pubDate>2016-03-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl1713</link>
+            <guid>2016-dl1713</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/24</category>
+            <pubDate>2016-03-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl1555</link>
+            <guid>2016-dl1555</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/21</category>
+            <pubDate>2016-03-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl1410</link>
+            <guid>2016-dl1410</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/19</category>
+            <pubDate>2016-03-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl1240</link>
+            <guid>2016-dl1240</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/16</category>
+            <pubDate>2016-02-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl1098</link>
+            <guid>2016-dl1098</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/14</category>
+            <pubDate>2016-02-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl930</link>
+            <guid>2016-dl930</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/12</category>
+            <pubDate>2016-02-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl766</link>
+            <guid>2016-dl766</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%; margin-left: auto; margin-right: auto;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2016/10</category>
+            <pubDate>2016-02-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl630</link>
+            <guid>2016-dl630</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2016/7</category>
+            <pubDate>2016-01-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2016-dl502</link>
+            <guid>2016-dl502</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/141</category>
+            <pubDate>2015-12-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl7482</link>
+            <guid>2015-dl7482</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/135</category>
+            <pubDate>2015-12-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl7301</link>
+            <guid>2015-dl7301</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/132</category>
+            <pubDate>2015-12-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl7142</link>
+            <guid>2015-dl7142</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/128</category>
+            <pubDate>2015-11-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl6967</link>
+            <guid>2015-dl6967</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/126</category>
+            <pubDate>2015-11-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl6821</link>
+            <guid>2015-dl6821</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/124</category>
+            <pubDate>2015-11-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl6740</link>
+            <guid>2015-dl6740</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/123</category>
+            <pubDate>2015-11-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl6675</link>
+            <guid>2015-dl6675</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/121</category>
+            <pubDate>2015-11-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl6537</link>
+            <guid>2015-dl6537</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/117</category>
+            <pubDate>2015-10-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl6406</link>
+            <guid>2015-dl6406</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/115</category>
+            <pubDate>2015-10-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl6263</link>
+            <guid>2015-dl6263</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/113</category>
+            <pubDate>2015-10-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl6131</link>
+            <guid>2015-dl6131</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/111</category>
+            <pubDate>2015-10-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl5991</link>
+            <guid>2015-dl5991</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/109</category>
+            <pubDate>2015-10-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl5860</link>
+            <guid>2015-dl5860</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/108</category>
+            <pubDate>2015-09-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl5832</link>
+            <guid>2015-dl5832</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/105</category>
+            <pubDate>2015-09-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl5732</link>
+            <guid>2015-dl5732</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/104</category>
+            <pubDate>2015-09-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl5690</link>
+            <guid>2015-dl5690</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/101</category>
+            <pubDate>2015-09-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl5559</link>
+            <guid>2015-dl5559</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;...</description>
+            <category>Notice/Issue/2015/100</category>
+            <pubDate>2015-09-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl5505</link>
+            <guid>2015-dl5505</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/95</category>
+            <pubDate>2015-09-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl5237</link>
+            <guid>2015-dl5237</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/92</category>
+            <pubDate>2015-08-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl5086</link>
+            <guid>2015-dl5086</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table style="width: 100%;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2015/90</category>
+            <pubDate>2015-08-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl4924</link>
+            <guid>2015-dl4924</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;...</description>
+            <category>Notice/Issue/2015/88</category>
+            <pubDate>2015-08-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl4799</link>
+            <guid>2015-dl4799</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;...</description>
+            <category>Notice/Issue/2015/87</category>
+            <pubDate>2015-08-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl4669</link>
+            <guid>2015-dl4669</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;...</description>
+            <category>Notice/Issue/2015/83</category>
+            <pubDate>2015-07-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl4501</link>
+            <guid>2015-dl4501</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;...</description>
+            <category>Notice/Issue/2015/77</category>
+            <pubDate>2015-07-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl4371</link>
+            <guid>2015-dl4371</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;...</description>
+            <category>Notice/Issue/2015/74</category>
+            <pubDate>2015-07-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl4086</link>
+            <guid>2015-dl4086</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;...</description>
+            <category>Notice/Issue/2015/72</category>
+            <pubDate>2015-07-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl3982</link>
+            <guid>2015-dl3982</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;...</description>
+            <category>Notice/Issue/2015/71</category>
+            <pubDate>2015-07-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl3914</link>
+            <guid>2015-dl3914</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;...</description>
+            <category>Notice/Issue/2015/69</category>
+            <pubDate>2015-06-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl3785</link>
+            <guid>2015-dl3785</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;...</description>
+            <category>Notice/Issue/2015/65</category>
+            <pubDate>2015-06-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl3463</link>
+            <guid>2015-dl3463</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;...</description>
+            <category>Notice/Issue/2015/62</category>
+            <pubDate>2015-06-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl3300</link>
+            <guid>2015-dl3300</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;...</description>
+            <category>Notice/Issue/2015/61</category>
+            <pubDate>2015-06-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl3244</link>
+            <guid>2015-dl3244</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/58</category>
+            <pubDate>2015-05-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl3176</link>
+            <guid>2015-dl3176</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/55</category>
+            <pubDate>2015-05-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl3008</link>
+            <guid>2015-dl3008</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/53</category>
+            <pubDate>2015-05-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl2887</link>
+            <guid>2015-dl2887</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/47</category>
+            <pubDate>2015-05-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl2731</link>
+            <guid>2015-dl2731</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/38</category>
+            <pubDate>2015-04-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl2289</link>
+            <guid>2015-dl2289</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/36</category>
+            <pubDate>2015-04-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl2165</link>
+            <guid>2015-dl2165</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/34</category>
+            <pubDate>2015-04-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl2052</link>
+            <guid>2015-dl2052</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/32</category>
+            <pubDate>2015-03-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl1806</link>
+            <guid>2015-dl1806</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/31</category>
+            <pubDate>2015-03-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl1798</link>
+            <guid>2015-dl1798</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/26</category>
+            <pubDate>2015-03-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl1662</link>
+            <guid>2015-dl1662</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/24</category>
+            <pubDate>2015-03-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl1513</link>
+            <guid>2015-dl1513</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/23</category>
+            <pubDate>2015-03-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl1501</link>
+            <guid>2015-dl1501</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/20</category>
+            <pubDate>2015-03-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl1345</link>
+            <guid>2015-dl1345</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/18</category>
+            <pubDate>2015-02-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl1191</link>
+            <guid>2015-dl1191</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/16</category>
+            <pubDate>2015-02-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl1022</link>
+            <guid>2015-dl1022</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/15</category>
+            <pubDate>2015-02-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl841</link>
+            <guid>2015-dl841</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/13</category>
+            <pubDate>2015-02-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl675</link>
+            <guid>2015-dl675</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/10</category>
+            <pubDate>2015-02-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl566</link>
+            <guid>2015-dl566</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/8</category>
+            <pubDate>2015-01-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl519</link>
+            <guid>2015-dl519</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2015/1</category>
+            <pubDate>2015-01-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2015-dl179</link>
+            <guid>2015-dl179</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; text-align: center; vertical-align: top;"&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2014/153</category>
+            <pubDate>2014-12-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl7827</link>
+            <guid>2014-dl7827</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class="fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/td&gt;
+&lt;td class="borders-clear"...</description>
+            <category>Notice/Issue/2014/148</category>
+            <pubDate>2014-12-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl7650</link>
+            <guid>2014-dl7650</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class=" fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2014/146</category>
+            <pubDate>2014-12-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl7482</link>
+            <guid>2014-dl7482</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class=" fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2014/143</category>
+            <pubDate>2014-11-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl7341</link>
+            <guid>2014-dl7341</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class=" fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2014/140</category>
+            <pubDate>2014-11-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl7165</link>
+            <guid>2014-dl7165</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class=" fixed-width-wide" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;&lt;em&gt;Title...</description>
+            <category>Notice/Issue/2014/138</category>
+            <pubDate>2014-11-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl7023</link>
+            <guid>2014-dl7023</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class=" fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span class="no-break"&gt;Authority&lt;/span&gt; for &lt;span class="no-break"&gt;Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top; text-align: center;"&gt;
+&lt;p&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2014/136</category>
+            <pubDate>2014-11-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl6866</link>
+            <guid>2014-dl6866</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class=" fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span&gt;Authority for Enactment&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span&gt;Title or Subject-matter&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center; vertical-align: top;"&gt;
+&lt;p&gt;&lt;em&gt;&lt;span&gt;Serial &lt;br&gt;Number&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td...</description>
+            <category>Notice/Issue/2014/135</category>
+            <pubDate>2014-11-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl6818</link>
+            <guid>2014-dl6818</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class=" fixed-width-wide" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class="borders-clear" style="width: 28%; vertical-align: top;"&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/td&gt;
+&lt;td class="borders-clear" style="width: 42%; vertical-align: top;"&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/td&gt;
+&lt;td class="borders-clear" style="width:...</description>
+            <category>Notice/Issue/2014/132</category>
+            <pubDate>2014-10-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl6713</link>
+            <guid>2014-dl6713</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p style="text-align: justify;"&gt;Pursant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;/p&gt;
+&lt;table class=" fixed-width-wide"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td class=" borders-clear" style="width: 28%;"&gt;&lt;em&gt;Authority for Enactment&lt;/em&gt;&lt;/td&gt;
+&lt;td class=" borders-clear" style="width: 42%;"&gt;&lt;em&gt;Title or Subject-matter&lt;/em&gt;&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align: center;"&gt;&lt;em&gt;Serial Number&lt;/em&gt;&lt;/td&gt;
+&lt;td class="borders-clear" style="text-align:...</description>
+            <category>Notice/Issue/2014/130</category>
+            <pubDate>2014-10-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl6573</link>
+            <guid>2014-dl6573</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>&lt;p&gt;Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br&gt;Housing Accords and Special Housing Areas Act 2013 Housing Accords and Special...</description>
+            <category>Notice/Issue/2014/127</category>
+            <pubDate>2014-10-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl6434</link>
+            <guid>2014-dl6434</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Gambling Act 2003 Play 3 Rules 2014 2014/316 24/9/14 $6.50&lt;br/&gt;Gambling Act 2003...</description>
+            <category>Notice/Issue/2014/119</category>
+            <pubDate>2014-10-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl6170</link>
+            <guid>2014-dl6170</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Chartered Professional Engineers of New Zealand Act 2002, and Chartered Professional Engineers...</description>
+            <category>Notice/Issue/2014/114</category>
+            <pubDate>2014-09-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl6005</link>
+            <guid>2014-dl6005</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Health Practitioners Competence Assurance&lt;br/&gt;Act 2003 Health Practitioners (Quality Assurance Activity-The Royal Australian...</description>
+            <category>Notice/Issue/2014/112</category>
+            <pubDate>2014-09-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl5874</link>
+            <guid>2014-dl5874</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Fisheries Act 1996 Fisheries (Total Allowable Catch) Notice 2012 Amendment Notice 2014...</description>
+            <category>Notice/Issue/2014/109</category>
+            <pubDate>2014-09-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl5748</link>
+            <guid>2014-dl5748</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Public Finance Act 1989 Public Finance (Education Payroll Limited)&lt;br/&gt;Order 2014 2014/290 1/9/14...</description>
+            <category>Notice/Issue/2014/107</category>
+            <pubDate>2014-09-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl5585</link>
+            <guid>2014-dl5585</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Conservation Act 1987 Sports Fish Licences, Fees, and Forms Notice 2014 2014/288...</description>
+            <category>Notice/Issue/2014/103</category>
+            <pubDate>2014-08-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl5429</link>
+            <guid>2014-dl5429</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Members of Parliament (Remuneration and Services) Act 2013 and Remuneration Authority Act...</description>
+            <category>Notice/Issue/2014/98</category>
+            <pubDate>2014-08-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl5288</link>
+            <guid>2014-dl5288</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Maritime Transport Amendment Act 2013 Maritime Transport Amendment Act 2013 Commencement Order...</description>
+            <category>Notice/Issue/2014/96</category>
+            <pubDate>2014-08-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl5254</link>
+            <guid>2014-dl5254</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Marine Reserves Act 1971 Marine Reserve (Hautai) Order 2014 2014/266 11/8/14 $3.77&lt;br/&gt;Marine...</description>
+            <category>Notice/Issue/2014/91</category>
+            <pubDate>2014-08-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl5055</link>
+            <guid>2014-dl5055</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Trade in Endangered Species Act 1989 Trade in Endangered Species Order 2014...</description>
+            <category>Notice/Issue/2014/89</category>
+            <pubDate>2014-08-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl4926</link>
+            <guid>2014-dl4926</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Psychoactive Substances&lt;br/&gt;Act 2013 Psychoactive Substances Regulations 2014 2014/243 28/7/14 $5.55&lt;br/&gt;Psychoactive Substances&lt;br/&gt;Act 2013...</description>
+            <category>Notice/Issue/2014/82</category>
+            <pubDate>2014-07-31 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl4748</link>
+            <guid>2014-dl4748</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Health Practitioners Competence Assurance&lt;br/&gt;Act 2003 Health Practitioners (Quality Assurance Activity-&lt;br/&gt;Bi-National Colorectal Cancer...</description>
+            <category>Notice/Issue/2014/79</category>
+            <pubDate>2014-07-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl4607</link>
+            <guid>2014-dl4607</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Fisheries Act 1996 Fisheries (Kaikoura-Wakatu Quay Temporary Closure) Notice 2014 2014/239 9/7/14...</description>
+            <category>Notice/Issue/2014/75</category>
+            <pubDate>2014-07-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl4460</link>
+            <guid>2014-dl4460</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Hazardous Substances and New Organisms Act 1996 Hazardous Substances and New Organisms...</description>
+            <category>Notice/Issue/2014/73</category>
+            <pubDate>2014-07-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl4334</link>
+            <guid>2014-dl4334</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Family Courts Act 1980 Family Courts Amendment Rules (No 5) 2014 2014/214...</description>
+            <category>Notice/Issue/2014/70</category>
+            <pubDate>2014-07-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl4157</link>
+            <guid>2014-dl4157</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Forests Amendment Act 2004 Forests (Payment of Money) Order 2014 2014/193 23/6/14...</description>
+            <category>Notice/Issue/2014/68</category>
+            <pubDate>2014-06-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl3998</link>
+            <guid>2014-dl3998</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Housing Accords and Special Housing Areas Act 2013 Housing Accords and Special...</description>
+            <category>Notice/Issue/2014/65</category>
+            <pubDate>2014-06-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl3829</link>
+            <guid>2014-dl3829</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Major Events Management Act 2007 Major Events Management (FIFA U-20 World Cup...</description>
+            <category>Notice/Issue/2014/61</category>
+            <pubDate>2014-06-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl3661</link>
+            <guid>2014-dl3661</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Corrections Act 2004 Corrections (Tongariro Prison and Rangipo Prison) Notice 2014 2014/187...</description>
+            <category>Notice/Issue/2014/59</category>
+            <pubDate>2014-06-05 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl3489</link>
+            <guid>2014-dl3489</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Criminal Proceeds (Recovery) Act 2009 Criminal Proceeds (Recovery) Amendment Regulations 2014 2014/159...</description>
+            <category>Notice/Issue/2014/56</category>
+            <pubDate>2014-05-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl3361</link>
+            <guid>2014-dl3361</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Electoral Act 1993 Electoral (Expenditure Limit) Order 2014 2014/152 19/5/14 $3.77&lt;br/&gt;Accident Compensation&lt;br/&gt;Act...</description>
+            <category>Notice/Issue/2014/51</category>
+            <pubDate>2014-05-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl3181</link>
+            <guid>2014-dl3181</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Road User Charges Act 2012 Road User Charges Amendment Regulations 2014 2014/145...</description>
+            <category>Notice/Issue/2014/48</category>
+            <pubDate>2014-05-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl3020</link>
+            <guid>2014-dl3020</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Local Government Act 2002, and Remuneration Authority Act 1977 Local Government Elected...</description>
+            <category>Notice/Issue/2014/46</category>
+            <pubDate>2014-05-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl2834</link>
+            <guid>2014-dl2834</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Members of Parliament (Remuneration and Services) Act 2013, and Remuneration Authority Act...</description>
+            <category>Notice/Issue/2014/44</category>
+            <pubDate>2014-05-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl2697</link>
+            <guid>2014-dl2697</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Securities Markets Act 1988 Securities Markets Act (Disclosure of Relevant Interests by...</description>
+            <category>Notice/Issue/2014/42</category>
+            <pubDate>2014-04-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl2556</link>
+            <guid>2014-dl2556</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Electoral Act 1993 Electoral Amendment Regulations 2014 2014/122 14/4/14 $6.50&lt;br/&gt;Legislation Act 2012...</description>
+            <category>Notice/Issue/2014/41</category>
+            <pubDate>2014-04-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl2465</link>
+            <guid>2014-dl2465</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Diplomatic Privileges and Immunities Act 1968 Diplomatic Privileges (SPRFMO) Order 2014 2014/121...</description>
+            <category>Notice/Issue/2014/39</category>
+            <pubDate>2014-04-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl2399</link>
+            <guid>2014-dl2399</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Housing Restructuring and Tenancy Matters Act 1992 Housing Restructuring and Tenancy Matters...</description>
+            <category>Notice/Issue/2014/38</category>
+            <pubDate>2014-04-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl2272</link>
+            <guid>2014-dl2272</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Wildlife Act 1953 Game Licences, Fees, and Forms Notice 2014 2014/114 26/3/14...</description>
+            <category>Notice/Issue/2014/36</category>
+            <pubDate>2014-04-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl2143</link>
+            <guid>2014-dl2143</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;State-Owned Enterprises &lt;br/&gt;Act 1986 State-Owned Enterprises (Mighty River Power Limited) Vesting Order...</description>
+            <category>Notice/Issue/2014/33</category>
+            <pubDate>2014-03-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl1967</link>
+            <guid>2014-dl1967</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Accident Compensation &lt;br/&gt;Act 2001 Accident Compensation (Experience Rating) Regulations 2014 2014/73 17/3/14...</description>
+            <category>Notice/Issue/2014/32</category>
+            <pubDate>2014-03-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl1806</link>
+            <guid>2014-dl1806</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Measurement Standards &lt;br/&gt;Act 1992 National Standards Amendment Regulations 2014 2014/68 10/3/14 $3.45&lt;br/&gt;Tax...</description>
+            <category>Notice/Issue/2014/29</category>
+            <pubDate>2014-03-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl1646</link>
+            <guid>2014-dl1646</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;State-Owned Enterprises Amendment Act 2012 State-Owned Enterprises Amendment Act 2012 (Genesis Energy...</description>
+            <category>Notice/Issue/2014/27</category>
+            <pubDate>2014-03-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl1461</link>
+            <guid>2014-dl1461</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Insurance (Prudential Supervision) Act 2010 Insurance (Prudential Supervision) Amendment Regulations 2014 2014/24...</description>
+            <category>Notice/Issue/2014/24</category>
+            <pubDate>2014-02-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl1300</link>
+            <guid>2014-dl1300</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Non-bank Deposit Takers &lt;br/&gt;Act 2013 Non-bank Deposit Takers (Debt Securities and Suitability...</description>
+            <category>Notice/Issue/2014/19</category>
+            <pubDate>2014-02-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl1104</link>
+            <guid>2014-dl1104</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Fisheries Act 1996 Fisheries (High Seas Fishing Notifications: Western and Central Pacific...</description>
+            <category>Notice/Issue/2014/17</category>
+            <pubDate>2014-02-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl887</link>
+            <guid>2014-dl887</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Local Government Act 2002, and Remuneration Authority Act 1977 Local Government Elected...</description>
+            <category>Notice/Issue/2014/11</category>
+            <pubDate>2014-01-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl567</link>
+            <guid>2014-dl567</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Family Courts Act 1980 Family Courts Amendment Rules 2014 2014/3 21/1/14 $6.50&lt;br/&gt;Family...</description>
+            <category>Notice/Issue/2014/8</category>
+            <pubDate>2014-01-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl446</link>
+            <guid>2014-dl446</guid>
+        </item>
+        
+        <item>
+            <title>Notice Under the Legislation Act 2012</title>
+            <description>Pursuant to the Legislation Act 2012, notice is hereby given of the making of Legislative Instruments as under:&lt;br/&gt;Authority for Enactment Title or Subject-matter Serial Number Date of Enactment Retail&lt;br/&gt;Fisheries Act 1996 Fisheries (High Seas Fishing Notifications-Commission for the Conservation of...</description>
+            <category>Notice/Issue/2014/4</category>
+            <pubDate>2014-01-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2014-dl315</link>
+            <guid>2014-dl315</guid>
+        </item>
+        
+    </channel>
+</rss>

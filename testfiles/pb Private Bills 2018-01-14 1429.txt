@@ -1,0 +1,343 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>New Zealand Gazette Notices Feed</title>
+        <link>https://gazette.govt.nz/home/NoticeSearch?noticeType=pb</link>
+		<atom:link href="https://gazette.govt.nz/home/NoticeSearch?noticeType=pb" rel="self" type="application/rss+xml" />
+		<description>New Zealand Gazette XML feed based on search: https://gazette.govt.nz/home/NoticeSearch?noticeType=pb</description>
+        
+        <item>
+            <title>The Anglican (Diocese of Christchurch) Church Property Trust Bill</title>
+            <description>Notice of Intention to Promote a Private Bill&lt;br/&gt;The Anglican Church Property Trustees ("the CPT") at Christchurch, gives notice that it intends to promote&lt;br/&gt;a private Bill "The Anglican (Diocese of Christchurch) Church Property Trust Bill" ("the Bill") by petitioning the House...</description>
+            <category>Notice/Issue/2002/78</category>
+            <pubDate>2002-07-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-pb4441</link>
+            <guid>2002-pb4441</guid>
+        </item>
+        
+        <item>
+            <title>The Anglican (Diocese of Christchurch) Church Property Trust Bill</title>
+            <description>Notice of Intention to Promote a Private Bill&lt;br/&gt;The Anglican Church Property Trustees ("the CPT") at Christchurch, gives notice that it intends to promote&lt;br/&gt;a private Bill "The Anglican (Diocese of Christchurch) Church Property Trust Bill" ("the Bill") by petitioning the House...</description>
+            <category>Notice/Issue/2002/76</category>
+            <pubDate>2002-07-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-pb4265</link>
+            <guid>2002-pb4265</guid>
+        </item>
+        
+        <item>
+            <title>The Anglican (Diocese of Christchurch) Church Property Trust Bill</title>
+            <description>Notice of Intention to Promote a Private Bill&lt;br/&gt;The Anglican Church Property Trustees ("the CPT") at Christchurch, gives notice that it intends to promote&lt;br/&gt;a private Bill "The Anglican (Diocese of Christchurch) Church Property Trust Bill" ("the Bill") by petitioning the House...</description>
+            <category>Notice/Issue/2002/73</category>
+            <pubDate>2002-06-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-pb4239</link>
+            <guid>2002-pb4239</guid>
+        </item>
+        
+        <item>
+            <title>The Royal New Zealand Foundation of the </title>
+            <description>Blind Bill 2002&lt;br/&gt;Notice of Intention to Promote a Private Bill&lt;br/&gt;The Royal New Zealand Foundation for the Blind, a body corporate constituted under the Royal New Zealand Foundation for the Blind Act 1963, gives notice that it intends to promote a...</description>
+            <category>Notice/Issue/2002/23</category>
+            <pubDate>2002-03-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-pb1604</link>
+            <guid>2002-pb1604</guid>
+        </item>
+        
+        <item>
+            <title>The Royal New Zealand Foundation of the </title>
+            <description>Blind Bill 2002&lt;br/&gt;Notice of Intention to Promote a Private Bill&lt;br/&gt;The Royal New Zealand Foundation for the Blind, a body corporate constituted under the Royal New Zealand Foundation for the Blind Act 1963, gives notice that it intends to promote a...</description>
+            <category>Notice/Issue/2002/20</category>
+            <pubDate>2002-03-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-pb1457</link>
+            <guid>2002-pb1457</guid>
+        </item>
+        
+        <item>
+            <title>The Royal New Zealand Foundation of the </title>
+            <description>Blind Bill 2002&lt;br/&gt;Notice of Intention to Promote a Private Bill&lt;br/&gt;The Royal New Zealand Foundation for the Blind, a body corporate constituted under the Royal New Zealand Foundation for the Blind Act 1963, gives notice that it intends to promote a...</description>
+            <category>Notice/Issue/2002/18</category>
+            <pubDate>2002-02-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2002-pb1450</link>
+            <guid>2002-pb1450</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote a Private Bill-</title>
+            <description>Te Whanau-A-Taupara Trust Empowering Bill&lt;br/&gt;1.	The Waerenga-a-hika Trust Board gives notice that it intends to promote a private Bill, the Te Whanau-a-Taupara Trust Empowering Bill ("the Bill"), by petitioning the House of Representatives ("the House") that the Bill be introduced to...</description>
+            <category>Notice/Issue/2001/161</category>
+            <pubDate>2001-11-29 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-pb8234</link>
+            <guid>2001-pb8234</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote a Private Bill-</title>
+            <description>Te Whanau-A-Taupara Trust Empowering Bill&lt;br/&gt;1.	The Waerenga-a-hika Trust Board gives notice that it intends to promote a private Bill, the Te Whanau-a-Taupara Trust Empowering Bill ("the Bill"), by petitioning the House of Representatives ("the House") that the Bill be introduced to...</description>
+            <category>Notice/Issue/2001/159</category>
+            <pubDate>2001-11-22 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-pb8124</link>
+            <guid>2001-pb8124</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote a Private Bill-</title>
+            <description>Te Whanau-A-Taupara Trust Empowering Bill&lt;br/&gt;1.	The Waerenga-a-hika Trust Board gives notice that it intends to promote a private Bill, the Te Whanau-a-Taupara Trust Empowering Bill ("the Bill"), by petitioning the House of Representatives ("the House") that the Bill be introduced to...</description>
+            <category>Notice/Issue/2001/155</category>
+            <pubDate>2001-11-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-pb8092</link>
+            <guid>2001-pb8092</guid>
+        </item>
+        
+        <item>
+            <title>TOWER Trust Limited Bill</title>
+            <description>Notice of Intention to Promote a Private Bill-TOWER Trust Limited Bill&lt;br/&gt;The Trustees, Executors, and Agency Company of&lt;br/&gt;New Zealand (Limited) (TEA) intends to promote the TOWER Trust Limited Bill ("the Bill") by petitioning&lt;br/&gt;the House of Representatives to introduce the Bill during&lt;br/&gt;the...</description>
+            <category>Notice/Issue/2001/97</category>
+            <pubDate>2001-08-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-pb5748</link>
+            <guid>2001-pb5748</guid>
+        </item>
+        
+        <item>
+            <title>TOWER Trust Limited Bill</title>
+            <description>Notice of Intention to Promote a Private Bill-TOWER Trust Limited Bill&lt;br/&gt;The Trustees, Executors, and Agency Company of&lt;br/&gt;New Zealand (Limited) (TEA) intends to promote the TOWER Trust Limited Bill ("the Bill") by petitioning&lt;br/&gt;the House of Representatives to introduce the Bill during&lt;br/&gt;the...</description>
+            <category>Notice/Issue/2001/90</category>
+            <pubDate>2001-08-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-pb5564</link>
+            <guid>2001-pb5564</guid>
+        </item>
+        
+        <item>
+            <title>TOWER Trust Limited Bill</title>
+            <description>Notice of Intention to Promote a Private Bill-TOWER Trust Limited Bill&lt;br/&gt;The Trustees, Executors, and Agency Company of&lt;br/&gt;New Zealand (Limited) (TEA) intends to promote the TOWER Trust Limited Bill ("the Bill") by petitioning&lt;br/&gt;the House of Representatives to introduce the Bill during&lt;br/&gt;the...</description>
+            <category>Notice/Issue/2001/84</category>
+            <pubDate>2001-08-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-pb5401</link>
+            <guid>2001-pb5401</guid>
+        </item>
+        
+        <item>
+            <title>The Sydenham Money Club Bill</title>
+            <description>Notice of Intention to Apply for Leave to Introduce a Private Bill&lt;br/&gt;Take notice that The Sydenham Money Club ("the club"), a body registered under the Friendly Societies and Credit Unions Act 1982, intends to promote a Private Bill.&lt;br/&gt;The objects of...</description>
+            <category>Notice/Issue/2001/8</category>
+            <pubDate>2001-01-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-pb474</link>
+            <guid>2001-pb474</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote a Private Bill</title>
+            <description>The New Zealand Stock Exchange (NZSE) gives notice that it intends to promote a Private Bill, the New Zealand Stock Exchange Restructuring Bill ("the Bill"), by petitioning the House of Representatives ("the House") that the Bill be introduced into the...</description>
+            <category>Notice/Issue/2001/8</category>
+            <pubDate>2001-01-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-pb475</link>
+            <guid>2001-pb475</guid>
+        </item>
+        
+        <item>
+            <title>The Sydenham Money Club Bill</title>
+            <description>Notice of Intention to Apply for Leave to Introduce a Private Bill&lt;br/&gt;Take notice that The Sydenham Money Club ("the club"), a body registered under the Friendly Societies and Credit Unions Act 1982, intends to promote a Private Bill.&lt;br/&gt;The objects of...</description>
+            <category>Notice/Issue/2001/6</category>
+            <pubDate>2001-01-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-pb355</link>
+            <guid>2001-pb355</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote a Private Bill</title>
+            <description>The New Zealand Stock Exchange (NZSE) gives notice that it intends to promote a Private Bill, the New Zealand Stock Exchange Restructuring Bill ("the Bill"), by petitioning the House of Representatives ("the House") that the Bill be introduced into the...</description>
+            <category>Notice/Issue/2001/6</category>
+            <pubDate>2001-01-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-pb354</link>
+            <guid>2001-pb354</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote a Private Bill</title>
+            <description>The New Zealand Stock Exchange (NZSE) gives notice that it intends to promote a private bill, the New Zealand Stock Exchange Restructuring Bill ("the Bill"), by petitioning the House of Representatives ("the House") that the Bill be introduced into the...</description>
+            <category>Notice/Issue/2001/1</category>
+            <pubDate>2001-01-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-pb227</link>
+            <guid>2001-pb227</guid>
+        </item>
+        
+        <item>
+            <title>The Sydenham Money Club Bill</title>
+            <description>Notice of Intention to Apply for Leave to Introduce Bill&lt;br/&gt;Take notice that The Sydenham Money Club ("the club"), a body registered under the Friendly Societies and Credit Unions Act 1982, intends to promote a Private Bill.&lt;br/&gt;The objects of the bill...</description>
+            <category>Notice/Issue/2001/1</category>
+            <pubDate>2001-01-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2001-pb250</link>
+            <guid>2001-pb250</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote a Private Bill-</title>
+            <description>New Zealand Guardian Trust Company Amendment Bill&lt;br/&gt;The New Zealand Guardian Trust Company Limited (NZGT) intends to promote the New Zealand Guardian Trust Company Amendment Bill ("the Bill") by petitioning the House of Representatives to introduce the Bill during the present...</description>
+            <category>Notice/Issue/2000/150</category>
+            <pubDate>2000-11-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-pb7969</link>
+            <guid>2000-pb7969</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote a Private Bill-</title>
+            <description>New Zealand Guardian Trust Company Amendment Bill&lt;br/&gt;The New Zealand Guardian Trust Company Limited (NZGT) intends to promote the New Zealand Guardian Trust Company Amendment Bill ("the Bill") by petitioning the House of Representatives to introduce the Bill during the present...</description>
+            <category>Notice/Issue/2000/145</category>
+            <pubDate>2000-10-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-pb7825</link>
+            <guid>2000-pb7825</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote a Private Bill-</title>
+            <description>New Zealand Guardian Trust Company Amendment Bill&lt;br/&gt;The New Zealand Guardian Trust Company Limited (NZGT) intends to promote the New Zealand Guardian Trust Company Amendment Bill ("the Bill") by petitioning the House of Representatives to introduce the Bill during the present...</description>
+            <category>Notice/Issue/2000/142</category>
+            <pubDate>2000-10-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/2000-pb7781</link>
+            <guid>2000-pb7781</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote Private Bill Notice is hereby...</title>
+            <description>Notice of Intention to Promote Private Bill Notice is hereby given that The Nurse Maude District Nursing Association (called ``the promoter''), intends to promote for consideration by the House of Representatives a Private Bill under the short title of the...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-10-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-pb6972</link>
+            <guid>1999-pb6972</guid>
+        </item>
+        
+        <item>
+            <title>Christ&#039;s College Canterbury Bill Take notice that: 1. The Christ&#039;s...</title>
+            <description>Christ's College Canterbury Bill Take notice that: 1. The Christ's College Trust Board intends to promote for consideration by the House of Representatives a Private Bill under the Short Title of the ``Christ's College Canterbury Bill'' (``the Bill''). 2. The...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-12-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-pb8077</link>
+            <guid>1998-pb8077</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote Private Bill Notice is hereby...</title>
+            <description>Notice of Intention to Promote Private Bill Notice is hereby given that The Museum of Transport and Technology of New Zealand Trust Board (called ``the promoter''), intends to promote for consideration by the House of Representatives a Private Bill under...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-05-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-pb3170</link>
+            <guid>1998-pb3170</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote a Private Bill Take notice...</title>
+            <description>Notice of Intention to Promote a Private Bill Take notice that The Public Service Investment Society Limited, a society incorporated under the Industrial and Provident Societies Act 1908, intends to promote a private bill under the Short Title of ``The...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-04-23 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-pb2428</link>
+            <guid>1998-pb2428</guid>
+        </item>
+        
+        <item>
+            <title>Notice is given that: 1. It is the intention of...</title>
+            <description>Notice is given that: 1. It is the intention of the University of Hawke's Bay Trust Board to promote the University of Hawke's Bay Trust Board Dissolution and Vesting Bill. 2. After consultation with the public of Hawke's Bay and...</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-03-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-pb1378</link>
+            <guid>1998-pb1378</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Promote Private Bill Notice is hereby...</title>
+            <description>Notice of Intention to Promote Private Bill Notice is hereby given that the Board of Governors of Kirkpatrick House intends to promote for consideration by the House of Representatives a private Bill under the Short Title of the ``Kirkpatrick Masonic...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-10-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-pb6902</link>
+            <guid>1997-pb6902</guid>
+        </item>
+        
+        <item>
+            <title>The Roman Catholic Bishops Empowering Bill  Notice of Intention...</title>
+            <description>The Roman Catholic Bishops Empowering Bill  Notice of Intention to Promote a Private Bill Notice is hereby given that Thomas Stafford Williams, Cardinal, the Roman Catholic Archbishop of the Archdiocese of Wellington, Metropolitan of New Zealand, Patrick James Dunn,...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-09-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-pb5452</link>
+            <guid>1996-pb5452</guid>
+        </item>
+        
+        <item>
+            <title>Farmers&#039; Mutual Insurance Association Notice of Intention to Apply for...</title>
+            <description>Farmers' Mutual Insurance Association Notice of Intention to Apply for Leave to Introduce Bill Farmers' Mutual Group Bill 1995 Take notice that the Farmers' Mutual Insurance Association intends to promote a private Bill, the objects of which are: (a) To...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-11-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-pb7371</link>
+            <guid>1995-pb7371</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Apply for Leave to Introduce a...</title>
+            <description>Notice of Intention to Apply for Leave to Introduce a Private Bill in the House of Representatives The PRESBYTERIAN CHURCH PROPERTY TRUSTEES, a body corporate under the Presbyterian Church Property Act 1885, gives notice that it intends to apply for...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-09-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-pb5617</link>
+            <guid>1995-pb5617</guid>
+        </item>
+        
+        <item>
+            <title>Tower Corporation Amendment Bill Tower Corporation, a corporation under the...</title>
+            <description>Tower Corporation Amendment Bill Tower Corporation, a corporation under the Tower Corporation Act 1990, gives notice that it intends to apply for leave to introduce in the House of Representatives, a Private Bill under the short title of the ``Tower...</description>
+            <category>Notice/Issue/1995/0</category>
+            <pubDate>1995-01-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1995-pb209</link>
+            <guid>1995-pb209</guid>
+        </item>
+        
+        <item>
+            <title>Tower Corporation Amendment Bill Tower Corporation, a corporation under the...</title>
+            <description>Tower Corporation Amendment Bill Tower Corporation, a corporation under the Tower Corporation Act 1990, gives notice that it intends to apply for leave to introduce in the House of Representatives, a Private Bill under the short title of the ``Tower...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-12-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-pb9081</link>
+            <guid>1994-pb9081</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Intention to Apply for Leave to Introduce a...</title>
+            <description>Notice of Intention to Apply for Leave to Introduce a Private Bill in the House of Representatives The ST. KENTIGERN TRUST BOARD intends to promote a private Act of Parliament to amend the objects of the St. Kentigern Trust to...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-11-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-pb8122</link>
+            <guid>1994-pb8122</guid>
+        </item>
+        
+        <item>
+            <title>Eastwoodhill Trust Amendment Bill (previously referred to as Eastwoodhill Trust...</title>
+            <description>Eastwoodhill Trust Amendment Bill (previously referred to as Eastwoodhill Trust Board Amendment Bill) Notice of Intention to Apply for Leave to Introduce a Private Bill in the House of Representatives Notice is hereby given that the Eastwoodhill Trust Board, a...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-03-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-pb1672</link>
+            <guid>1994-pb1672</guid>
+        </item>
+        
+        <item>
+            <title>Eastwoodhill Trust Board Amendment Bill Notice of Intention to Apply...</title>
+            <description>Eastwoodhill Trust Board Amendment Bill Notice of Intention to Apply for Leave to Introduce a Private Bill in the House of Representatives Notice is hereby given that the Eastwoodhill Trust Board, a Board established as a body corporate under the...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-02-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-pb1457</link>
+            <guid>1994-pb1457</guid>
+        </item>
+        
+        <item>
+            <title>The National Bank of New Zealand Limited Bill Notice of...</title>
+            <description>The National Bank of New Zealand Limited Bill Notice of Intention to Apply for Leave to Introduce Bill Take notice that The National Bank of New Zealand Limited intends to promote a Private Bill, the objects of which are to...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-11-04 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-pb9198</link>
+            <guid>1993-pb9198</guid>
+        </item>
+        
+        <item>
+            <title>The National Bank of New Zealand Limited Notice of Intention...</title>
+            <description>The National Bank of New Zealand Limited Notice of Intention to Apply for Leave to Introduce Bill Take notice that The National Bank of New Zealand Limited intends to promote a Private Bill, the objects of which are to provide...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-10-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-pb8877</link>
+            <guid>1993-pb8877</guid>
+        </item>
+        
+    </channel>
+</rss>

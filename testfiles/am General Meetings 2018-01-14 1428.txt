@@ -1,0 +1,532 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>New Zealand Gazette Notices Feed</title>
+        <link>https://gazette.govt.nz/home/NoticeSearch?noticeType=am</link>
+		<atom:link href="https://gazette.govt.nz/home/NoticeSearch?noticeType=am" rel="self" type="application/rss+xml" />
+		<description>New Zealand Gazette XML feed based on search: https://gazette.govt.nz/home/NoticeSearch?noticeType=am</description>
+        
+        <item>
+            <title>Capital Networks (Holdings) Limited and City Link Limited Public Notice...</title>
+            <description>Capital Networks (Holdings) Limited and City Link Limited Public Notice of Amalgamation The board of directors of Capital Networks (Holdings) Limited and City Link Limited give notice that on the 31st day of October 1999 Capital Networks (Holdings) Limited proposes...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-09-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-am7235</link>
+            <guid>1999-am7235</guid>
+        </item>
+        
+        <item>
+            <title>Proposed Amalgamation of The Radio Network  Southern Limited and...</title>
+            <description>Proposed Amalgamation of The Radio Network  Southern Limited and The Radio Network  Northern Limited Pursuant to Section 221 (4) (b) of the Companies Act 1993 The directors of The Radio Network  Southern Limited and The Radio Network...</description>
+            <category>Notice/Issue/1999/0</category>
+            <pubDate>1999-02-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1999-am1057</link>
+            <guid>1999-am1057</guid>
+        </item>
+        
+        <item>
+            <title>AIG-FP (NZ) No. 3 Limited Public Notice of Amalgamation Proposal...</title>
+            <description>AIG-FP (NZ) No. 3 Limited Public Notice of Amalgamation Proposal Pursuant to Section 221 (4) (b) of the Companies Act 1993 The board of AIG-FP (NZ) No. 3 Limited hereby gives notice of the proposal to amalgamate AIG-FP (NZ) No....</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-11-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-am8251</link>
+            <guid>1998-am8251</guid>
+        </item>
+        
+        <item>
+            <title>AIG-FP (NZ) No. 2 Limited Public Notice of Amalgamation Proposal...</title>
+            <description>AIG-FP (NZ) No. 2 Limited Public Notice of Amalgamation Proposal Pursuant to Section 221 (4) (b) of the Companies Act 1993 The board of AIG-FP (NZ) No. 2 Limited hereby gives notice of the proposal to amalgamate AIG-FP (NZ) No....</description>
+            <category>Notice/Issue/1998/0</category>
+            <pubDate>1998-11-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1998-am8249</link>
+            <guid>1998-am8249</guid>
+        </item>
+        
+        <item>
+            <title>Covenant Trustee Company Notice of Alteration of Memorandum of Association...</title>
+            <description>Covenant Trustee Company Notice of Alteration of Memorandum of Association Notice of special meeting of the shareholders of Covenant Trustee Company (``the company'') to be held on the 6th day of June 1997. Special Business: To consider, and if thought...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-05-15 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-am2997</link>
+            <guid>1997-am2997</guid>
+        </item>
+        
+        <item>
+            <title>The Canterbury (NZ) Malting Company&#039;s Superannuation Association Limited Notice of...</title>
+            <description>The Canterbury (NZ) Malting Company's Superannuation Association Limited Notice of Meeting and Notice of Intention to Pass Special Resolutions Pursuant to Sections 15a, 18 and 30 of the Companies Act 1955 Notice is hereby given that a general meeting of...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-04-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-am2469</link>
+            <guid>1997-am2469</guid>
+        </item>
+        
+        <item>
+            <title>AMI Insurance Limited Notice of Special Resolution Notice is hereby...</title>
+            <description>AMI Insurance Limited Notice of Special Resolution Notice is hereby given that the company intends passing the following special resolution by means of entry in its minute book, pursuant to section 362 of the Companies Act 1955 on the 4th...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-03-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-am1352</link>
+            <guid>1997-am1352</guid>
+        </item>
+        
+        <item>
+            <title>Zeek Holdings Limited Notice of Proposal to Alter Memorandum of...</title>
+            <description>Zeek Holdings Limited Notice of Proposal to Alter Memorandum of Association by Special Resolution Notice is hereby given that Zeek Holdings Limited, proposes to alter its memorandum of association with respect to the objects and powers of the company, by...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-02-07 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-am767</link>
+            <guid>1997-am767</guid>
+        </item>
+        
+        <item>
+            <title>MFL Mutual Fund Limited (``the company&#039;&#039;) Alteration of Memorandum of...</title>
+            <description>MFL Mutual Fund Limited (``the company'') Alteration of Memorandum of Association Notice is given that an extraordinary general meeting of the company will be held at Level Thirteen, ASB Centre, 135 Albert Street, Auckland on 14 February 1997, commencing at...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-01-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-am267</link>
+            <guid>1997-am267</guid>
+        </item>
+        
+        <item>
+            <title>Superannuation Investments Limited (``the company&#039;&#039;) Alteration of Memorandum of Association...</title>
+            <description>Superannuation Investments Limited (``the company'') Alteration of Memorandum of Association Notice is given that an extraordinary general meeting of the company will be held at Level Thirteen, ASB Centre, 135 Albert Street, Auckland on 14 February 1997, commencing at 2.05...</description>
+            <category>Notice/Issue/1997/0</category>
+            <pubDate>1997-01-09 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1997-am266</link>
+            <guid>1997-am266</guid>
+        </item>
+        
+        <item>
+            <title>Skeggs Investments Limited Notice of Proposed Resolution to Alter Memorandum...</title>
+            <description>Skeggs Investments Limited Notice of Proposed Resolution to Alter Memorandum of Articles Notice is hereby given, in accordance with section 18 (5) of the Companies Act 1955, of a general meeting of Skeggs Investments Limited (``the company'') to be held...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-08-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-am4841</link>
+            <guid>1996-am4841</guid>
+        </item>
+        
+        <item>
+            <title>Mortgage Corporation of New Zealand Limited Notice of Extraordinary General...</title>
+            <description>Mortgage Corporation of New Zealand Limited Notice of Extraordinary General Meeting Pursuant to Section 18 (5) of the Companies Act 1955 Notice is hereby given that an extraordinary general meeting of Mortgage Corporation of New Zealand Limited (the ``company'') will...</description>
+            <category>Notice/Issue/1996/0</category>
+            <pubDate>1996-06-06 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1996-am3574</link>
+            <guid>1996-am3574</guid>
+        </item>
+        
+        <item>
+            <title>Pubvest Securities Limited (``the company&#039;&#039;) Take notice that pursuant to...</title>
+            <description>Pubvest Securities Limited (``the company'') Take notice that pursuant to section 362 (1) of the Companies Act 1955, and article 9 (a) of the articles of association of the company, the following special resolution by way of entry in the...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-12-08 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am8829</link>
+            <guid>1994-am8829</guid>
+        </item>
+        
+        <item>
+            <title>Mortgage Corporation of New Zealand No. 2 Limited Notice of...</title>
+            <description>Mortgage Corporation of New Zealand No. 2 Limited Notice of Extraordinary General Meeting Pursuant to Section 18 (5) of the Companies Act 1955 Notice is hereby given that an extraordinary general meeting of Mortgage Corporation of New Zealand No. 2...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-12-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am8659</link>
+            <guid>1994-am8659</guid>
+        </item>
+        
+        <item>
+            <title>Mortgage Corporation of New Zealand Limited Notice of Extraordinary General...</title>
+            <description>Mortgage Corporation of New Zealand Limited Notice of Extraordinary General Meeting Pursuant to Section 18 (5) of the Companies Act 1955 Notice is hereby given that an extraordinary general meeting of Mortgage Corporation of New Zealand Limited (``the company''), will...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-12-01 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am8658</link>
+            <guid>1994-am8658</guid>
+        </item>
+        
+        <item>
+            <title>Southland Co-operative Milk Producers Limited Notice of Extraordinary General Meeting...</title>
+            <description>Southland Co-operative Milk Producers Limited Notice of Extraordinary General Meeting An extraordinary general meeting of shareholders of Southland Co-operative Milk Producers Limited will be held in the company cafeteria at 111 Nith Street, Invercargill on Thursday, the 10th day of...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-10-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am7670</link>
+            <guid>1994-am7670</guid>
+        </item>
+        
+        <item>
+            <title>East Coast Wool Co-Operative Limited Notice of Resolution to Alter...</title>
+            <description>East Coast Wool Co-Operative Limited Notice of Resolution to Alter Memorandum of Association Notice is hereby given that an extraordinary general meeting of East Coast Wool Co-Operative Limited will be held at the Ernie Massie Lounge, Show Grounds, High Street,...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-10-27 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am7671</link>
+            <guid>1994-am7671</guid>
+        </item>
+        
+        <item>
+            <title>Laser Graphics Limited Notice of Proposed Resolution to Alter Memorandum...</title>
+            <description>Laser Graphics Limited Notice of Proposed Resolution to Alter Memorandum of Association Pursuant to Section 18 (5) of the Companies Act 1955 Notice is hereby given that it is proposed to pass by an entry in the minute book of...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-10-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am7492</link>
+            <guid>1994-am7492</guid>
+        </item>
+        
+        <item>
+            <title>McCollam Printers Limited Notice of Extraordinary General Meeting to Alter...</title>
+            <description>McCollam Printers Limited Notice of Extraordinary General Meeting to Alter Memorandum of Association Pursuant to Section 18 (5) of the Companies Act 1955 Notice is hereby given that it is proposed to hold an extraordinary general meeting of McCollam Printers...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-10-20 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am7493</link>
+            <guid>1994-am7493</guid>
+        </item>
+        
+        <item>
+            <title>The Canterbury Roller Flour Mills Company Limited, Ashburton Notice of...</title>
+            <description>The Canterbury Roller Flour Mills Company Limited, Ashburton Notice of Meeting Annual Meeting The annual general meeting of shareholders of the company will be held at Ashford Craft Village, 415 West Street, Ashburton on Tuesday, the 9th day of August...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-07-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am5428</link>
+            <guid>1994-am5428</guid>
+        </item>
+        
+        <item>
+            <title>Hou Hou Sawmill Limited Notice of Proposed Resolution to Alter...</title>
+            <description>Hou Hou Sawmill Limited Notice of Proposed Resolution to Alter Memorandum of Association Notice is hereby given, in accordance with section 18 (5) of the Companies Act 1955, of a general meeting of Hou Hou Sawmill Limited (``the company'') to...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-06-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am4810</link>
+            <guid>1994-am4810</guid>
+        </item>
+        
+        <item>
+            <title>Auckland Theatre Company (1992) Limited Notice of Extraordinary General Meeting...</title>
+            <description>Auckland Theatre Company (1992) Limited Notice of Extraordinary General Meeting Notice is hereby given that an extraordinary general meeting of members of the company will be held at the offices of Kensington Swan, 22 Fanshawe Street, Auckland on the 18th...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-06-30 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am4811</link>
+            <guid>1994-am4811</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Resolution for Alteration of Memorandum of Association In...</title>
+            <description>Notice of Resolution for Alteration of Memorandum of Association In the matter of the Companies Act 1955, in the matter of Hawera Star Publishing Company Limited: Notice is hereby given that at a special general meeting to be held at...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-06-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am4293</link>
+            <guid>1994-am4293</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Resolution for Alteration of Memorandum of Association In...</title>
+            <description>Notice of Resolution for Alteration of Memorandum of Association In the matter of the Companies Act 1955, in the matter of Independent Newspapers International Limited (formerly known as Chequeprint Limited): Notice is hereby given that at a special general meeting...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-06-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am4295</link>
+            <guid>1994-am4295</guid>
+        </item>
+        
+        <item>
+            <title>Child Development and Care Training Programme Limited NP. 498221 Notice...</title>
+            <description>Child Development and Care Training Programme Limited NP. 498221 Notice of Extraordinary General Meeting Pursuant to Section 18 (5) of the Companies Act 1955 Notice is hereby given that an extraordinary general meeting of Child Development and Care Training Programme...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-06-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am4379</link>
+            <guid>1994-am4379</guid>
+        </item>
+        
+        <item>
+            <title>Te Hopai Home Limited Notice of General Meeting Notice is...</title>
+            <description>Te Hopai Home Limited Notice of General Meeting Notice is hereby given that a general meeting of the above-named company will be held at Te Hopai Home, Hospital Road, Newtown at 4 p.m. on Wednesday, the 13th day of July...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-06-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am4380</link>
+            <guid>1994-am4380</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Resolution for Alteration of Memorandum of Association In...</title>
+            <description>Notice of Resolution for Alteration of Memorandum of Association In the matter of the Companies Act 1955, in the matter of New Zealand Farming News Limited: Notice is hereby given that at a special general meeting to be held at...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-06-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am4296</link>
+            <guid>1994-am4296</guid>
+        </item>
+        
+        <item>
+            <title>Continental Shelf Company (No. 102) Limited (``the company&#039;&#039;) Notice of...</title>
+            <description>Continental Shelf Company (No. 102) Limited (``the company'') Notice of Special Resolution to Amend Memorandum of Association Notice is given that it is proposed to pass at a meeting of the shareholders of the above-named company to be held at...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-05-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am3828</link>
+            <guid>1994-am3828</guid>
+        </item>
+        
+        <item>
+            <title>Nelson Shipping Agencies Limited Notice of Meeting of Members and...</title>
+            <description>Nelson Shipping Agencies Limited Notice of Meeting of Members and Special Resolution Notice is given, pursuant to section 18 of the Companies Act 1955, that a general meeting of members of the above-named company will be held at 31 Pascoe...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-05-26 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am3822</link>
+            <guid>1994-am3822</guid>
+        </item>
+        
+        <item>
+            <title>American Bistro (Christchurch) Limited (formerly Alca Investments Limited) (``the company&#039;&#039;)...</title>
+            <description>American Bistro (Christchurch) Limited (formerly Alca Investments Limited) (``the company'') Notice of Proposed Resolution to Alter Memorandum of Association Pursuant to Section 18 (5) of the Companies Act 1955 Notice is hereby given that it is proposed to pass by...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-05-19 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am3522</link>
+            <guid>1994-am3522</guid>
+        </item>
+        
+        <item>
+            <title>Glamis Hospital Retirement Complex Limited Notice of Intention to Change...</title>
+            <description>Glamis Hospital Retirement Complex Limited Notice of Intention to Change Objects Notice is hereby given that the above-named company intends, on or after the 5th day of June 1994, to pass a special resolution altering the provisions of the memorandum...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-05-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am3344</link>
+            <guid>1994-am3344</guid>
+        </item>
+        
+        <item>
+            <title>Ryman Healthcare Limited Notice of Intention to Change Objects Notice...</title>
+            <description>Ryman Healthcare Limited Notice of Intention to Change Objects Notice is hereby given that the above-named company intends, on or after the 5th day of June 1994, to pass a special resolution altering the provisions of the memorandum of association...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-05-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am3345</link>
+            <guid>1994-am3345</guid>
+        </item>
+        
+        <item>
+            <title>Direct Cash Orders Limited Notice of Extraordinary General Meeting to...</title>
+            <description>Direct Cash Orders Limited Notice of Extraordinary General Meeting to Pass Special Resolution to Amend Memorandum of Association Pursuant to Section 18 (5) of the Companies Act 1955 Notice is hereby given that an extraordinary general meeting of the above-named...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-05-12 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am3430</link>
+            <guid>1994-am3430</guid>
+        </item>
+        
+        <item>
+            <title>Lednez Holdings (NZ) Limited (``the company&#039;&#039;) Notice of Special Resolution...</title>
+            <description>Lednez Holdings (NZ) Limited (``the company'') Notice of Special Resolution Notice is hereby given that it is proposed to pass at a meeting of the shareholders of the above-named company to be held at the offices of Kensington Swan, Solicitors,...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-04-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am3030</link>
+            <guid>1994-am3030</guid>
+        </item>
+        
+        <item>
+            <title>Lednez Licensing Limited (``the company&#039;&#039;) Notice of Special Resolution Notice...</title>
+            <description>Lednez Licensing Limited (``the company'') Notice of Special Resolution Notice is hereby given that it is proposed to pass at a meeting of the shareholders of the above-named company to be held at the offices of Kensington Swan, Solicitors, Level...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-04-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am3031</link>
+            <guid>1994-am3031</guid>
+        </item>
+        
+        <item>
+            <title>G W Dyer and Sons Limited Notice of Extraordinary General...</title>
+            <description>G W Dyer and Sons Limited Notice of Extraordinary General Meeting Notice is hereby given that an extraordinary general meeting of the shareholders of the above-named company will be held at the offices of Sharp Tudhope, Barristers &amp;amp; Solicitors, Grey...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-04-21 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am2881</link>
+            <guid>1994-am2881</guid>
+        </item>
+        
+        <item>
+            <title>Chill Fresh Foods Limited Notice of Extraordinary General Meeting Notice...</title>
+            <description>Chill Fresh Foods Limited Notice of Extraordinary General Meeting Notice is hereby given that an extraordinary general meeting of the company will be held at the registered office of the company situated at 15 Te Pene Avenue, Titahi Bay on...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-03-31 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am2273</link>
+            <guid>1994-am2273</guid>
+        </item>
+        
+        <item>
+            <title>School Supplies Limited Notice of Extraordinary General Meeting Notice is...</title>
+            <description>School Supplies Limited Notice of Extraordinary General Meeting Notice is hereby given that an extraordinary general meeting of shareholders of School Supplies Limited, will be held at the Eleventh Floor, 48 Quay Street, Auckland, on Friday, the 18th day of...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-02-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am1402</link>
+            <guid>1994-am1402</guid>
+        </item>
+        
+        <item>
+            <title>Whitcombe&#039;s Printing Works Limited Notice of Extraordinary General Meeting Notice...</title>
+            <description>Whitcombe's Printing Works Limited Notice of Extraordinary General Meeting Notice is hereby given that an extraordinary general meeting of shareholders of Whitcombe's Printing Works Limited, will be held at the Eleventh Floor, 48 Quay Street, Auckland, on Friday, the 18th...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-02-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am1405</link>
+            <guid>1994-am1405</guid>
+        </item>
+        
+        <item>
+            <title>London Bookshops Limited Notice of Extraordinary General Meeting Notice is...</title>
+            <description>London Bookshops Limited Notice of Extraordinary General Meeting Notice is hereby given that an extraordinary general meeting of shareholders of London Bookshops Limited, will be held at the Eleventh Floor, 48 Quay Street, Auckland, on Friday, the 18th day of...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-02-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am1404</link>
+            <guid>1994-am1404</guid>
+        </item>
+        
+        <item>
+            <title>Whitcombe &amp; Tombs Limited Notice of Extraordinary General Meeting Notice...</title>
+            <description>Whitcombe &amp;amp; Tombs Limited Notice of Extraordinary General Meeting Notice is hereby given that an extraordinary general meeting of shareholders of Whitcombe &amp;amp; Tombs Limited, will be held at the Eleventh Floor, 48 Quay Street, Auckland, on Friday, the 18th...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-02-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am1396</link>
+            <guid>1994-am1396</guid>
+        </item>
+        
+        <item>
+            <title>WGL Group Limited Notice of Extraordinary General Meeting Notice is...</title>
+            <description>WGL Group Limited Notice of Extraordinary General Meeting Notice is hereby given that an extraordinary general meeting of shareholders of WGL Group Limited, will be held at the Eleventh Floor, 48 Quay Street, Auckland, on Friday, the 18th day of...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-02-24 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am1401</link>
+            <guid>1994-am1401</guid>
+        </item>
+        
+        <item>
+            <title>Buller Community Horticulture Company Limited HK. 612991 Notice of Extraordinary...</title>
+            <description>Buller Community Horticulture Company Limited HK. 612991 Notice of Extraordinary General Meeting Pursuant to Section 18 (5) of the Companies Act 1955 Notice is hereby given that at an extraordinary general meeting of Buller Community Horticulture Company Limited, to be...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-02-17 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am1116</link>
+            <guid>1994-am1116</guid>
+        </item>
+        
+        <item>
+            <title>Funnells Timber Company Limited Notice of Proposed Resolution to Alter...</title>
+            <description>Funnells Timber Company Limited Notice of Proposed Resolution to Alter Memorandum of Association Pursuant to section 18 (5) of the Companies Act 1955 Notice is hereby given that it is proposed to pass by an entry in the minute book...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-02-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am1029</link>
+            <guid>1994-am1029</guid>
+        </item>
+        
+        <item>
+            <title>Baigent Forest Industries Limited Notice of Proposed Resolution to Alter...</title>
+            <description>Baigent Forest Industries Limited Notice of Proposed Resolution to Alter Memorandum of Association Pursuant to section 18 (5) of the Companies Act 1955 Notice is hereby given that it is proposed to pass by an entry in the minute book...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-02-10 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am1026</link>
+            <guid>1994-am1026</guid>
+        </item>
+        
+        <item>
+            <title>Aotearoa Primary Products Limited Notice of Alteration of Memorandum of...</title>
+            <description>Aotearoa Primary Products Limited Notice of Alteration of Memorandum of Association Pursuant to Section 18 (5) of the Companies Act 1955 Aotearoa Primary Products Limited (``the company''), a duly incorporated company having its registered office at 158 The Terrace, Wellington,...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-02-03 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am830</link>
+            <guid>1994-am830</guid>
+        </item>
+        
+        <item>
+            <title>Child Developed and Care Training Programme Limited NP. 498221 Notice...</title>
+            <description>Child Developed and Care Training Programme Limited NP. 498221 Notice of Extraordinary General Meeting Pursuant to Section 18 (5) of the Companies Act 1955 Notice is hereby given that an extraordinary  general meeting of Child Development and Care Training...</description>
+            <category>Notice/Issue/1994/0</category>
+            <pubDate>1994-01-13 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1994-am262</link>
+            <guid>1994-am262</guid>
+        </item>
+        
+        <item>
+            <title>Waipareira Developments Limited, Waipareira Sewing Limited, Waipareira Catering Limited, Waipareira...</title>
+            <description>Waipareira Developments Limited, Waipareira Sewing Limited, Waipareira Catering Limited, Waipareira Building Company Limited, The Waipareira Financial Services Limited, The Waipareira Training Academy Limited, Iwi Exports Aotearoa Limited, and Mantech Waste Disposals Limited Notice of Alteration of Memorandum of Association Pursuant...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-12-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-am10653</link>
+            <guid>1993-am10653</guid>
+        </item>
+        
+        <item>
+            <title>Glenview Properties Limited Notice of Alteration of Memorandum of Association...</title>
+            <description>Glenview Properties Limited Notice of Alteration of Memorandum of Association Notice is hereby given that a general meeting of the shareholders of Glenview Properties Limited will be held at 11 a.m. on Friday, the 21st day of January 1994 at...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-12-16 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-am10557</link>
+            <guid>1993-am10557</guid>
+        </item>
+        
+        <item>
+            <title>The New Zealand Flower and Garden Show Limited Notice of...</title>
+            <description>The New Zealand Flower and Garden Show Limited Notice of Extraordinary General Meeting Notice is hereby given that an extraordinary general meeting of shareholders of The New Zealand Flower and Garden Show Limited will be held at KPMG Peat Marwick,...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-12-02 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-am10205</link>
+            <guid>1993-am10205</guid>
+        </item>
+        
+        <item>
+            <title>Ian Jennings Limited Notice of Extraordinary Meeting of Shareholders Notice...</title>
+            <description>Ian Jennings Limited Notice of Extraordinary Meeting of Shareholders Notice is hereby given that at 2 p.m. on the 3rd day of December 1993 at the registered office of the company at 17 Clifton Road, Hamilton, the members of the...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-11-25 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-am9829</link>
+            <guid>1993-am9829</guid>
+        </item>
+        
+        <item>
+            <title>Auckland Opera Company Limited Notice of Extraordinary General Meeting Notice...</title>
+            <description>Auckland Opera Company Limited Notice of Extraordinary General Meeting Notice is hereby given that an extraordinary general meeting of shareholders of Auckland Opera Company Limited, will be held at 191201 Queen Street, Auckland on Friday, the 10th day of December...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-11-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-am9771</link>
+            <guid>1993-am9771</guid>
+        </item>
+        
+        <item>
+            <title>Alpine Sawmills Limited Notice of Extraordinary General Meeting Pursuant to...</title>
+            <description>Alpine Sawmills Limited Notice of Extraordinary General Meeting Pursuant to Section 18 (5) of the Companies Act 1955 Notice is hereby given that at an extraordinary general meeting of Alpine Sawmills Limited to be held at the boardroom, Price Waterhouse...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-11-18 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-am9710</link>
+            <guid>1993-am9710</guid>
+        </item>
+        
+        <item>
+            <title>Kirkcaldie &amp; Stains Limited Notice of Extraordinary General Meeting Notice...</title>
+            <description>Kirkcaldie &amp;amp; Stains Limited Notice of Extraordinary General Meeting Notice is hereby given that an extraordinary general meeting of members of the above-named company will be held at 35 Karaka Street, Newton, Auckland on the 20th day of November 1993,...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-11-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-am9573</link>
+            <guid>1993-am9573</guid>
+        </item>
+        
+        <item>
+            <title>Wang New Zealand Limited (``the company&#039;&#039;) Notice of Extraordinary General...</title>
+            <description>Wang New Zealand Limited (``the company'') Notice of Extraordinary General Meeting to Alter Memorandum of Association Pursuant to Section 18 (5) of the Companies Act 1955 Notice is hereby given that it is proposed to hold an extraordinary general meeting...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-11-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-am9537</link>
+            <guid>1993-am9537</guid>
+        </item>
+        
+        <item>
+            <title>Notice of Alteration of Memorandum of Association Resolution In the...</title>
+            <description>Notice of Alteration of Memorandum of Association Resolution In the matter of section 18 of the Companies Act 1955, and in the matter of Doug Morris Limited, a duly incorporated company having its registered office at Huntly: Notice is hereby...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-11-11 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-am9497</link>
+            <guid>1993-am9497</guid>
+        </item>
+        
+        <item>
+            <title>Newmans Forests Limited Notice of Extraordinary General Meeting Notice is...</title>
+            <description>Newmans Forests Limited Notice of Extraordinary General Meeting Notice is hereby given of an extraordinary general meeting of the above-named company to be held at the offices of Nelson Pine Industries, Lower Queen Street, Richmond at 9 a.m. on Wednesday,...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-10-28 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-am9083</link>
+            <guid>1993-am9083</guid>
+        </item>
+        
+        <item>
+            <title>Kayjon Investments Limited Notice of a General Meeting Pursuant to...</title>
+            <description>Kayjon Investments Limited Notice of a General Meeting Pursuant to Section 18 (5) of the Companies Act 1955 Kayjon Investments Limited, hereby gives notice of a general meeting to propose as a special resolution for the alteration of the provisions...</description>
+            <category>Notice/Issue/1993/0</category>
+            <pubDate>1993-10-14 00:00:00</pubDate>
+            <link>https://gazette.govt.nz/notice/id/1993-am8645</link>
+            <guid>1993-am8645</guid>
+        </item>
+        
+    </channel>
+</rss>
