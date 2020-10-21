@@ -17,8 +17,8 @@ jmespath==0.9.3           # via boto3, botocore
 oauthlib==2.0.6           # via requests-oauthlib
 python-dateutil==2.6.1    # via botocore
 requests-oauthlib==0.8.0  # via tweepy
-requests==2.18.4          # via requests-oauthlib, tweepy
+requests==2.20.0          # via requests-oauthlib, tweepy
 s3transfer==0.1.12        # via boto3
 six==1.11.0               # via python-dateutil, tweepy
 tweepy==3.5.0
-urllib3==1.22             # via requests
+urllib3==1.23             # via requests
